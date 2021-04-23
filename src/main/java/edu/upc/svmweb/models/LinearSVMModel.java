@@ -6,7 +6,6 @@ import de.bwaldvogel.liblinear.Model;
 
 /**
  * 线性SVM模型
- *
  */
 public class LinearSVMModel extends AbstractModel {
     /**

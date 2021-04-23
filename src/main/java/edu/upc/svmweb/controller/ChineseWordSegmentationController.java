@@ -20,7 +20,7 @@ public class ChineseWordSegmentationController {
     public static String getWordFrequency() throws IOException {
         ChineseWordSegmentationUtil cws = new ChineseWordSegmentationUtil();
         cws.wordFrequency();
-        FileOperationUtil.writeFile(wordFrequencyFilePath,cws.wq.toString());
+        FileOperationUtil.writeFile(wordFrequencyFilePath, cws.wq.toString());
         return cws.wq.toString();
     }
 
@@ -29,7 +29,7 @@ public class ChineseWordSegmentationController {
     public static String getTopTenWord() throws IOException {
         ChineseWordSegmentationUtil cws = new ChineseWordSegmentationUtil();
         cws.wordFrequency();
-        FileOperationUtil.writeFile(topWordFilePath,cws.top_word.toString());
+        FileOperationUtil.writeFile(topWordFilePath, cws.top_word.toString());
         return cws.top_word.toString();
     }
 }
