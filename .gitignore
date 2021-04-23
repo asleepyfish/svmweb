@@ -18,6 +18,8 @@ target/
 *.iws
 *.iml
 *.ipr
+/data/svm-classification-model.ser
+/logs
 
 ### NetBeans ###
 /nbproject/private/
@@ -27,6 +29,4 @@ target/
 /.nb-gradle/
 build/
 
-### VS Code ###
-.vscode/
-/data/svm-classification-model.ser
+
