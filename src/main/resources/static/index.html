@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <meta charset="UTF-8">
+    <title>基于预分类的高效SVM网页分类器</title>
+</head>
+<body>
+<form id="Form" method="post" enctype="multipart/form-data">
+    <div style="text-align: center">
+        基于预分类的高效SVM网页分类器
+        <hr style="size: A3"/>
+    </div>
+    <div style="text-align: left">
+        <div align="left">请输入网页url：<input id="url" name="url" type="text" style="width:250px;"/></div>
+        <div align="center">暂时可支持分类<a href="http://news.sohu.com/" target="_blank">网页</a>类型（体育、健康、军事、教育、旅游、汽车、财经）</div>
+    </div>
+    <textarea id="show" name="show" rows="28"  style="width:100%;"></textarea>
+</form>
+<button name="getSourceCode" formaction="/getSource/getSourceCode">获取源码</button>
+<button name="getClearData" formaction="/getSource/getClearData">清洗数据</button>
+<button name="getWord" formaction="/getWord/getWordFrequency">中文分词</button>
+<button name="getWord" formaction="/getWord/getTopTenWord">词频前十</button>
+<button name="getLinearSVM" formaction="/getLinearSVM/getLinearSVMClassifier">分类结果</button>
+
+
+<script src="js/jquery-3.6.0.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/index.js"></script>
+</body>
+</html>
