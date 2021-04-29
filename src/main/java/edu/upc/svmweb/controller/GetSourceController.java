@@ -53,6 +53,10 @@ public class GetSourceController {
         if (c[len - 1] >= 0x4E00 && c[len - 1] <= 0x9FA5) {
             tmp[k] = c[len - 1];
         }
+        //网页正文无中文字符时返回
+        if (k == 0) {
+            return "当前解析网页正文无中文字符";
+        }
         String clearData = String.valueOf(tmp).substring(0, k - 1);
 
         FileOperationUtil.writeFile(clearDataFilePath, clearData);

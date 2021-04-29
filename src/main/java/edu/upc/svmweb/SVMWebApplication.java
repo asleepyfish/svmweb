@@ -13,13 +13,13 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @ServletComponentScan
 
-public class SvmWebApplication extends SpringBootServletInitializer {
+public class SVMWebApplication extends SpringBootServletInitializer {
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-        return builder.sources(SvmWebApplication.class);
+        return builder.sources(SVMWebApplication.class);
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(SvmWebApplication.class, args);
+        SpringApplication.run(SVMWebApplication.class, args);
     }
 }

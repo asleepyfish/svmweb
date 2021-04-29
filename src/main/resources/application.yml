@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: SvmWebApplication
+    name: SVMWebApplication
 
 logging:
   config: classpath:log4j2.xml

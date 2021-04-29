@@ -1,481 +1,538 @@
-<!DOCTYPE html><html lang="zh-CN">
-    	<head>
+<!DOCTYPE html>
+<html data-log-pv='{"mpc":10}'>
+    <head>
+        <title>台军新购的一大堆武器，基本都是“活靶子”！只有一款有点威胁_空对地导弹</title>
+        <meta http-equiv="Cache-Control" content="no-transform" /> 
+<meta http-equiv="Cache-Control" content="no-siteapp" /> 
+<meta name="copyright" content="Copyright © 2017 Sohu.com Inc. All Rights Reserved." />
+<meta name="mediaid" content="兵戎要志"/>
+<meta property="og:type" content="news"/>
+<meta property="og:image" content="${mpNews.image}"/>
+<meta property="og:url" content="www.sohu.com/a/463117306_100185072"/>
+<meta property="og:release_date" content="2021-04-26 18:39"/>
+<meta itemprop="dateUpdate" content="2021-04-26 18:39" />
+<meta itemprop="datePublished" content="2021-04-26 18:39" />
+<link rel="canonical" href="http://www.sohu.com/a/463117306_100185072"/>
+<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/463117306_100185072"/>
 
-		        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="profile" href="http://gmpg.org/xfn/11">
-        <link rel="pingback" href="http://www.alpacos.cn/xmlrpc.php">
-    <title>博客 &#8211; 周先生的博客</title>
-<meta name='robots' content='max-image-preview:large' />
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="博客 &raquo; Feed" href="http://www.alpacos.cn/feed/" />
-<link rel="alternate" type="application/rss+xml" title="博客 &raquo; 评论Feed" href="http://www.alpacos.cn/comments/feed/" />
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.alpacos.cn\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.1"}};
-			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link rel='stylesheet' id='wp-block-library-css'  href='http://www.alpacos.cn/wp-includes/css/dist/block-library/style.min.css?ver=5.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://www.alpacos.cn/wp-includes/css/dist/block-library/theme.min.css?ver=5.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='http://www.alpacos.cn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='bxslider-css'  href='http://www.alpacos.cn/wp-content/themes/infinite-photography/assets/library/bxslider/css/jquery.bxslider.min.css?ver=4.2.5' type='text/css' media='all' />
-<link rel='stylesheet' id='infinite-photography-googleapis-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7COpen+Sans%3A400%2C600%2C700&#038;ver=1.0.1' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-css'  href='http://www.alpacos.cn/wp-content/themes/infinite-photography/assets/library/Font-Awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
-<link rel='stylesheet' id='magnific-popup-css'  href='http://www.alpacos.cn/wp-content/plugins/gutentor/assets/library/magnific-popup/magnific-popup.min.css?ver=1.8.0' type='text/css' media='all' />
-<link rel='stylesheet' id='infinite-photography-style-css'  href='http://www.alpacos.cn/wp-content/themes/infinite-photography/style.css?ver=5.7.1' type='text/css' media='all' />
-<style id='infinite-photography-style-inline-css' type='text/css'>
-
-            mark,
-            .comment-form .form-submit input,
-            .slider-section .cat-links a,
-            #calendar_wrap #wp-calendar #today,
-            #calendar_wrap #wp-calendar #today a,
-            .wpcf7-form input.wpcf7-submit:hover,
-            .wpcf7-form input.wpcf7-submit:focus,
-            .breadcrumb,
-            .at-icon-link > a {
-                background: #04BB9C;
-            }
-            .screen-reader-text:focus,
-            a:hover,
-            .header-wrapper .menu li a:hover,
-            .bn-content a:hover,
-            .socials a:hover,
-             a:focus,
-            .header-wrapper .menu li a:focus,
-            .bn-content a:focus,
-            .socials a:focus,
-            .site-title a,
-            .widget_search input#s,
-            .slider-section .bx-controls-direction a,
-            .besides-slider .post-title a:hover,
-            .slider-feature-wrap a:hover,
-            .besides-slider .post-title a:focus,
-            .slider-feature-wrap a:focus,
-            .besides-slider .beside-post:hover .beside-caption,
-            .besides-slider .beside-post:hover .beside-caption a:hover,
-            .featured-desc .above-entry-meta span:hover,
-            .posted-on a:hover,
-            .cat-links a:hover,
-            .comments-link a:hover,
-            .edit-link a:hover,
-            .tags-links a:hover,
-            .byline a:hover,
-            .nav-links a:hover,
-            #infinite-photography-breadcrumbs a:hover,
-            .widget li a:hover,
-            .widget li a:focus,
-            .posted-on a:focus,
-            .cat-links a:focus,
-            .comments-link a:focus,
-            .edit-link a:focus,
-            .tags-links a:focus,
-            .byline a:focus,
-            .nav-links a:focus,
-            #infinite-photography-breadcrumbs a:focus,
-            .wpcf7-form input.wpcf7-submit,
-            .header-wrapper .menu > li.current-menu-item > a,
-            .header-wrapper .menu > li.current-menu-parent > a,
-            .header-wrapper .menu > li.current_page_parent > a,
-            .header-wrapper .menu > li.current_page_ancestor > a,
-            .search-icon-menu:hover,
-            .search-icon-menu:focus{
-                color: #04BB9C;
-            }
-            .nav-links .nav-previous a:hover,
-            .nav-links .nav-next a:hover,
-            .nav-links .nav-previous a:focus,
-            .nav-links .nav-next a:focus{
-                border-top: 1px solid #04BB9C;
-            }
-            .besides-slider .beside-post{
-                border-bottom: 3px solid #04BB9C;
-            }
-            .page-header .page-title,
-            .entry-header .entry-title{
-                border-bottom: 1px solid #04BB9C;
-            }
-            .page-header .page-title:before,
-            .entry-header .entry-title:before{
-                border-bottom: 7px solid #04BB9C;
-            }
-            .wpcf7-form input.wpcf7-submit:hover,
-            .wpcf7-form input.wpcf7-submit:focus,
-            article.post.sticky .post-item,
-            .comment-form .form-submit input,
-            .read-more:hover,
-            .read-more:focus{
-                border: 2px solid #04BB9C;
-            }
-            .breadcrumb::after {
-                border-left: 5px solid #04BB9C;
-            }
-            .rtl .breadcrumb::after {
-                border-right: 5px solid #04BB9C;
-                border-left: medium none;
-            }
-            .tagcloud a{
-                border: 1px solid #04BB9C;
-            }
-            .widget-title{
-                border-bottom: 2px solid #04BB9C;
-            }
-         
-            @media screen and (max-width:992px){
-                .slicknav_btn.slicknav_open{
-                    border: 1px solid #04BB9C;
-                }
-                .slicknav_btn.slicknav_open:before{
-                    background: #04BB9C;
-                    box-shadow: 0 6px 0 0 #04BB9C, 0 12px 0 0 #04BB9C;
-                }
-                .slicknav_nav li:hover > a,
-                .slicknav_nav li.current-menu-ancestor a,
-                .slicknav_nav li.current-menu-item  > a,
-                .slicknav_nav li.current_page_item a,
-                .slicknav_nav li.current_page_item .slicknav_item span,
-                .slicknav_nav li .slicknav_item:hover a{
-                    color: #04BB9C;
-                }
-            }
-              .inner-header-image{
-                background-image:url('http://www.alpacos.cn/wp-content/themes/infinite-photography/assets/img/banner-image.jpg');
-                background-repeat:no-repeat;
-                background-size:cover;
-                background-attachment:fixed;
-                background-position: center; 
-                height: 180px;
-            }.popup-wrap .popup-content {
-    height: 330px;
-}
-.sticky-popup{
-width:265px!important
-}
-</style>
-<link rel='stylesheet' id='infinite_photography-block-front-styles-css'  href='http://www.alpacos.cn/wp-content/themes/infinite-photography/acmethemes/gutenberg/gutenberg-front.css?ver=1.0' type='text/css' media='all' />
-<script type='text/javascript' src='http://www.alpacos.cn/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<meta name="keywords" content="台军,能力,进行攻击,空对地导弹,新购的,基本,活靶子,威胁,一大,武器,观点评论,台军,美军,导弹,军购,武器" />
+<meta name="description" content=" 和其他台军购买的武器不一样，还未确定出售的AGM-158是美军军火库中的尖端武器，其射程和隐身性能都有极大的提高。 若台军能够获得这款导弹，那么其远程对海打击能力会有一个很大的提升，台军F-…" />
+<meta property="og:description" content=" 和其他台军购买的武器不一样，还未确定出售的AGM-158是美军军火库中的尖端武器，其射程和隐身性能都有极大的提高。 若台军能够获得这款导弹，那么其远程对海打击能力会有一个很大的提升，台军F-…"/>
+<meta property="og:title" content="台军新购的一大堆武器，基本都是“活靶子”！只有一款有点威胁_空对地导弹"/>
+        <meta charset="utf-8"/>
+<meta name="data-spm" content="smpc">
+<meta name="renderer" content="webkit"> 
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1" />
+<link rel="icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="57x57" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-144.png" />
+<link href="//statics.itc.cn/web/static/css/main-5ce91f2762.css" rel="stylesheet"/>
+<script>
+    //  加载监控代码
+</script>
 <!--[if lt IE 9]>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-content/themes/infinite-photography/assets/library/html5shiv/html5shiv.min.js?ver=3.7.3' id='html5shiv-js'></script>
+<script src="//statics.itc.cn/web/static/js/es5-shim-08e41cfc3e.min.js"></script>
+<script src="//statics.itc.cn/web/static/js/es5-sham-1d5fa1124b.min.js"></script>
+<script src="//statics.itc.cn/web/static/js/html5shiv-21fc8c2ba6.js"></script>
+<link href="//statics.itc.cn/web/static/css/ie8hack-9dce3c3b96.css" rel="stylesheet" />
 <![endif]-->
-<!--[if lt IE 9]>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-content/themes/infinite-photography/assets/library/respond/respond.min.js?ver=1.1.2' id='respond-js'></script>
-<![endif]-->
-<link rel="https://api.w.org/" href="http://www.alpacos.cn/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.alpacos.cn/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.alpacos.cn/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.7.1" />
-<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="http://www.alpacos.cn/wp-content/uploads/2021/04/3.png" sizes="32x32" />
-<link rel="icon" href="http://www.alpacos.cn/wp-content/uploads/2021/04/3.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="http://www.alpacos.cn/wp-content/uploads/2021/04/3.png" />
-<meta name="msapplication-TileImage" content="http://www.alpacos.cn/wp-content/uploads/2021/04/3.png" />
-		<style type="text/css" id="wp-custom-css">
-			.site-info { display: none; }		</style>
-			</head>
-<body class="home blog gutentor-active blog-photography no-sidebar">
+<script type="text/javascript">
+//解決IE8,IE9不支持console的问题
+(function() {
+    var method;
+    var noop = function() {};
+    var methods = [
+        'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
+        'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
+        'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
+        'timeStamp', 'trace', 'warn'
+    ];
+    var length = methods.length;
+    var console = (window.console = window.console || {});
 
-        <div id="page" class="hfeed site">
-        <a class="skip-link screen-reader-text" href="#home-content" title="link">Skip to content</a>
-            <header id="masthead" class="site-header" role="banner">
-            <div class="wrapper header-wrapper clearfix">
-                <div class="header-container">
-                    <div class="site-branding clearfix">
-                        <div class="site-logo acme-col-3">
-                                                                                            <h1 class="site-title">
-                                        <a href="http://www.alpacos.cn/" rel="home">博客</a>
-                                    </h1>
-                                                                        <p class="site-description">周先生的博客</p>
-                                    <!--infinite-photography-header-id-display-opt-->
-                        </div><!--site-logo-->
-                        <nav id="site-navigation" class="main-navigation clearfix" role="navigation">
-                            <div class="header-main-menu clearfix">
-                                                                    <div class="infinite-nav"><ul id="menu-primary" class="menu"><li id="menu-item-186" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-186"><a href="http://www.alpacos.cn" aria-current="page">首页</a></li>
-<li id="menu-item-227" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-227"><a href="http://www.alpacos.cn/category/kind/">分类</a>
-<ul class="sub-menu">
-	<li id="menu-item-228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-228"><a href="http://www.alpacos.cn/category/kind/nature/">自然</a></li>
-	<li id="menu-item-189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-189"><a href="http://www.alpacos.cn/category/kind/person/">人物</a></li>
-	<li id="menu-item-191" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-191"><a href="http://www.alpacos.cn/category/kind/sports/">运动</a></li>
-	<li id="menu-item-192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-192"><a href="http://www.alpacos.cn/category/kind/night/">夜晚</a></li>
-	<li id="menu-item-234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-234"><a href="http://www.alpacos.cn/category/kind/animal/">动物</a></li>
-	<li id="menu-item-313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-313"><a href="http://www.alpacos.cn/category/kind/plant/">植物</a></li>
-	<li id="menu-item-235" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235"><a href="http://www.alpacos.cn/category/kind/food/">美食</a></li>
-	<li id="menu-item-312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-312"><a href="http://www.alpacos.cn/category/kind/yz/">女神</a></li>
-	<li id="menu-item-216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216"><a href="http://www.alpacos.cn/category/kind/other/">其他</a></li>
-</ul>
-</li>
-<li id="menu-item-217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-217"><a href="http://www.alpacos.cn/category/region/">地区</a>
-<ul class="sub-menu">
-	<li id="menu-item-218" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-218"><a href="http://www.alpacos.cn/category/region/anhui/">安徽</a></li>
-	<li id="menu-item-219" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-219"><a href="http://www.alpacos.cn/category/region/henan/">河南</a></li>
-	<li id="menu-item-220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220"><a href="http://www.alpacos.cn/category/region/shanghai/">上海</a></li>
-	<li id="menu-item-221" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-221"><a href="http://www.alpacos.cn/category/region/jiangsu/">江苏</a></li>
-	<li id="menu-item-223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-223"><a href="http://www.alpacos.cn/category/region/shandong/">山东</a></li>
-</ul>
-</li>
-<li id="menu-item-185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-185"><a href="http://www.alpacos.cn/about/">关于</a></li>
-</ul></div>                                    <a class="fa fa-search icon-menu search-icon-menu" href="#"></a>                            </div>
-                            <!--slick menu container-->
-                            <div class="responsive-slick-menu clearfix"></div>
-                        </nav>
-                    </div>
+    while (length--) {
+        method = methods[length];
 
-                    <!-- #site-navigation -->
-                </div>
-                <!-- .header-container -->
+        // Only stub undefined methods.
+        if (!console[method]) {
+            console[method] = noop;
+        }
+    }
+}());
+</script>
+<script type="text/javascript">
+    (function () {
+        var html = document.getElementsByTagName("html")[0];
+        var width = Math.min(document.documentElement.clientWidth, 790);
+        width = width < 320 ? 320 : width;
+        if (document.documentElement.clientWidth <= 1024) {
+            html.style.fontSize = width / 790 * 79 + 'px';
+        }
+        if (window.addEventListener) {
+            window.addEventListener('resize', resizeHandler);
+        }
+        else if (window.attachEvent) {
+            window.attachEvent('onresize', resizeHandler);
+        }
+        function resizeHandler() {
+            if (document.documentElement.clientWidth <= 1024) {
+                var width = Math.min(document.documentElement.clientWidth, 790);
+                width = width < 320 ? 320 : width;
+                html.style.fontSize = width / 790 * 79 + 'px';
+            } else {
+                html.style.fontSize = "16px";
+            }
+        };
+    })();
+</script>
+
+
+        <script type="text/javascript">
+                        window.feedbackQuestion = [{"question":{"id":1,"selection":[1001,1002,1003]},"score":0.4},{"question":{"id":2,"selection":[1001,1004]},"score":0.2},{"question":{"id":3,"selection":[1001,1005,1006]},"score":0.3},{"question":{"id":4,"selection":[1001,1007,1008,1009]},"score":0.1}]
+                    </script>
+    </head>
+        
+        
+        
+    
+    <body class="article-page" data-region="141" data-spm="content" data-newsid="463117306">
+        <div class="wrapper-box">
+            <header id="main-header" class="error-head">
+
+
+	<div class="area">
+		<div class="head-nav left" data-spm="nav">
+			<ul>
+			    <li class="index"><a data-clev="10220248" class="clearfix" target="_blank" href="http://www.sohu.com"><em class="icon-home icon"></em><em class="sohu-logo">搜狐首页</em></a></li>
+														<li><a target="_blank" data-clev="10220249" href="http://news.sohu.com/">新闻</a></li>
+																			<li><a target="_blank" data-clev="10220250" href="http://sports.sohu.com/">体育</a></li>
+																			<li><a target="_blank" data-clev="10220251" href="http://auto.sohu.com/">汽车</a></li>
+																			<li><a target="_blank" data-clev="10220252" href="http://www.focus.cn/">房产</a></li>
+																			<li><a target="_blank" data-clev="10220253" href="http://travel.sohu.com/">旅游</a></li>
+																			<li><a target="_blank" data-clev="10220254" href="http://learning.sohu.com/">教育</a></li>
+																			<li><a target="_blank" data-clev="10220255" href="http://fashion.sohu.com/">时尚</a></li>
+																			<li><a target="_blank" data-clev="10220256" href="http://it.sohu.com/">科技</a></li>
+																			<li><a target="_blank" data-clev="10220257" href="http://business.sohu.com/">财经</a></li>
+																			<li><a target="_blank" data-clev="10220258" href="http://yule.sohu.com/">娱乐</a></li>
+																																																																																																																									<li class="more-nav"><a class="more-tag" href="javascript:void(0)">更多<em class="cor"></em></a>
+					<div class="more-nav-box">
+																																																																																																																																																					<a href="http://baobao.sohu.com/">母婴</a>
+																										<a href="http://health.sohu.com/">健康</a>
+																										<a href="http://history.sohu.com/">历史</a>
+																										<a href="http://mil.sohu.com/">军事</a>
+																										<a href="http://chihe.sohu.com/">美食</a>
+																										<a href="http://cul.sohu.com/">文化</a>
+																										<a href="http://astro.sohu.com/">星座</a>
+																										<a href="https://www.sohu.com/subject">专题</a>
+																										<a href="http://game.sohu.com/">游戏</a>
+																										<a href="http://fun.sohu.com/">搞笑</a>
+																										<a href="http://acg.sohu.com/">动漫</a>
+																										<a href="http://pets.sohu.com/">宠物</a>
+																		</div>
+				</li>
+			</ul>
+		</div>
+		<div id="head-login" class="right login">
+		</div>
+	</div>
+
+</header>            <div class="location-without-nav"></div>
+            <div class="area clearfix" id="article-container">
+                <div class="column left">
+	<div class="user-info" id="user-info" data-spm="author">
+    <div class="user-pic">
+        <!-- fromWhere为10是马甲号作者不可点击进入个人页面 -->
+                    <a href="https://mp.sohu.com/profile?xpt=MTAwMTc0NjIyOTA2OTM0ODg2NEBzb2h1LmNvbQ==&_f=index_pagemp_1" target="_blank">
+                <img src="//5b0988e595225.cdn.sohucs.com/a_auto,c_cut,x_188,y_0,w_539,h_539/images/20180530/34f21fb113724b5487f2428f609f9499.jpeg" alt="">
+            </a>
             </div>
-            <!-- header-wrapper-->
-        </header><!-- #masthead -->
-                    <div class="search-slider">
-			    
-<div class="search-block">
-    <form action="http://www.alpacos.cn" class="searchform" id="searchform" method="get" role="search">
-        <div>
-            <label for="menu-search" class="screen-reader-text"></label>
-                        <input type="text"  placeholder="Search"  class="menu-search" id="menu-search" name="s" value="">
-            <button class="searchsubmit fa fa-search" type="submit" id="searchsubmit"></button>
-        </div>
-    </form>
-</div>            </div>
-            <div class="slider-feature-wrap clearfix">        <div class="slider-section ">
-            <ul class="home-bxslider">
-                        <li>
-            <img width="1600" height="650px" src="http://www.alpacos.cn/wp-content/themes/infinite-photography/assets/img/banner-image.jpg"/>
-            <div class="slider-desc">
-                                    <div class="slider-title">Infinite Photography</div>
-                                </div>
-        </li>
-                    </ul>
-        </div>
-        </div>        <div class="wrapper content-wrapper clearfix">
-    <div id="home-content" class="site-content">
-    	<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
 
-		
-						<article id="post-380" class="acme-col-3 masonry-post post-380 post type-post status-publish format-standard has-post-thumbnail hentry category-night category-anhui category-plant category-nature">
-	  <div class="masonry-item post-item" style="background-image: url('http://www.alpacos.cn/wp-content/uploads/2018/02/2018_2_22_4-500x300.png')">
-	  <div class="post-content">
-		  <div class="inner-content">
-			  <div class="inner-content-middle">
-				  <h2><a href="http://www.alpacos.cn/2018/02/22/%e9%bb%84%e6%98%8f%ef%bc%8c%e5%bc%a7%e7%ba%bf%ef%bc%8c%e8%93%9d/">黄昏，弧线，蓝</a></h2>
-				  <div class='at-icon-link'>
-					  <a class="image-link" href="http://www.alpacos.cn/wp-content/uploads/2018/02/2018_2_22_4.PNG"><i class="fa fa-eye"></i></a>
-					  <a href="http://www.alpacos.cn/2018/02/22/%e9%bb%84%e6%98%8f%ef%bc%8c%e5%bc%a7%e7%ba%bf%ef%bc%8c%e8%93%9d/"><i class="fa fa-external-link"></i></a>
-				  </div>
-			  </div>
-		  </div>
-	  </div>
-  </div><!-- .masonry-thumbnail -->
-</article><!-- #post-## --><article id="post-378" class="acme-col-3 masonry-post post-378 post type-post status-publish format-standard has-post-thumbnail hentry category-anhui category-plant category-nature">
-	  <div class="masonry-item post-item" style="background-image: url('http://www.alpacos.cn/wp-content/uploads/2018/02/2018_2_22_3-500x300.png')">
-	  <div class="post-content">
-		  <div class="inner-content">
-			  <div class="inner-content-middle">
-				  <h2><a href="http://www.alpacos.cn/2018/02/22/%e9%bb%84%e6%98%8f%e8%b7%af%e7%81%af%e4%b8%8b%e7%9a%84%e6%a0%91/">黄昏路灯下的树</a></h2>
-				  <div class='at-icon-link'>
-					  <a class="image-link" href="http://www.alpacos.cn/wp-content/uploads/2018/02/2018_2_22_3.PNG"><i class="fa fa-eye"></i></a>
-					  <a href="http://www.alpacos.cn/2018/02/22/%e9%bb%84%e6%98%8f%e8%b7%af%e7%81%af%e4%b8%8b%e7%9a%84%e6%a0%91/"><i class="fa fa-external-link"></i></a>
-				  </div>
-			  </div>
-		  </div>
-	  </div>
-  </div><!-- .masonry-thumbnail -->
-</article><!-- #post-## --><article id="post-376" class="acme-col-3 masonry-post post-376 post type-post status-publish format-standard has-post-thumbnail hentry category-night category-anhui category-plant category-nature">
-	  <div class="masonry-item post-item" style="background-image: url('http://www.alpacos.cn/wp-content/uploads/2018/02/2018_2_22_1-500x300.jpg')">
-	  <div class="post-content">
-		  <div class="inner-content">
-			  <div class="inner-content-middle">
-				  <h2><a href="http://www.alpacos.cn/2018/02/22/%e6%9c%88%c2%b7%e6%9e%9d/">月·枝</a></h2>
-				  <div class='at-icon-link'>
-					  <a class="image-link" href="http://www.alpacos.cn/wp-content/uploads/2018/02/2018_2_22_1.JPG"><i class="fa fa-eye"></i></a>
-					  <a href="http://www.alpacos.cn/2018/02/22/%e6%9c%88%c2%b7%e6%9e%9d/"><i class="fa fa-external-link"></i></a>
-				  </div>
-			  </div>
-		  </div>
-	  </div>
-  </div><!-- .masonry-thumbnail -->
-</article><!-- #post-## --><article id="post-374" class="acme-col-3 masonry-post post-374 post type-post status-publish format-standard has-post-thumbnail hentry category-anhui category-plant category-nature">
-	  <div class="masonry-item post-item" style="background-image: url('http://www.alpacos.cn/wp-content/uploads/2018/02/2018_2_22_2-500x300.png')">
-	  <div class="post-content">
-		  <div class="inner-content">
-			  <div class="inner-content-middle">
-				  <h2><a href="http://www.alpacos.cn/2018/02/22/%e8%93%9d%e5%a4%a9%c2%b7%e6%a0%91%e6%9e%9d/">蓝天·树枝</a></h2>
-				  <div class='at-icon-link'>
-					  <a class="image-link" href="http://www.alpacos.cn/wp-content/uploads/2018/02/2018_2_22_2.PNG"><i class="fa fa-eye"></i></a>
-					  <a href="http://www.alpacos.cn/2018/02/22/%e8%93%9d%e5%a4%a9%c2%b7%e6%a0%91%e6%9e%9d/"><i class="fa fa-external-link"></i></a>
-				  </div>
-			  </div>
-		  </div>
-	  </div>
-  </div><!-- .masonry-thumbnail -->
-</article><!-- #post-## --><article id="post-351" class="acme-col-3 masonry-post post-351 post type-post status-publish format-standard has-post-thumbnail hentry category-animal category-anhui">
-	  <div class="masonry-item post-item" style="background-image: url('http://www.alpacos.cn/wp-content/uploads/2018/01/2018_1_13_2-500x300.jpg')">
-	  <div class="post-content">
-		  <div class="inner-content">
-			  <div class="inner-content-middle">
-				  <h2><a href="http://www.alpacos.cn/2018/01/13/%e5%a4%a7%e7%99%bd%e7%8b%97/">大白狗</a></h2>
-				  <div class='at-icon-link'>
-					  <a class="image-link" href="http://www.alpacos.cn/wp-content/uploads/2018/01/2018_1_13_2.JPG"><i class="fa fa-eye"></i></a>
-					  <a href="http://www.alpacos.cn/2018/01/13/%e5%a4%a7%e7%99%bd%e7%8b%97/"><i class="fa fa-external-link"></i></a>
-				  </div>
-			  </div>
-		  </div>
-	  </div>
-  </div><!-- .masonry-thumbnail -->
-</article><!-- #post-## --><article id="post-336" class="acme-col-3 masonry-post post-336 post type-post status-publish format-standard has-post-thumbnail hentry category-animal category-shandong">
-	  <div class="masonry-item post-item" style="background-image: url('http://www.alpacos.cn/wp-content/uploads/2018/01/2018_1_5_5-500x300.jpg')">
-	  <div class="post-content">
-		  <div class="inner-content">
-			  <div class="inner-content-middle">
-				  <h2><a href="http://www.alpacos.cn/2018/01/05/%e4%b8%80%e5%8f%aa%e5%8f%ab%e5%b0%8f%e8%8a%b3%e7%9a%84%e7%8c%aa/">一只叫“小芳”的猪</a></h2>
-				  <div class='at-icon-link'>
-					  <a class="image-link" href="http://www.alpacos.cn/wp-content/uploads/2018/01/2018_1_5_5-scaled.jpg"><i class="fa fa-eye"></i></a>
-					  <a href="http://www.alpacos.cn/2018/01/05/%e4%b8%80%e5%8f%aa%e5%8f%ab%e5%b0%8f%e8%8a%b3%e7%9a%84%e7%8c%aa/"><i class="fa fa-external-link"></i></a>
-				  </div>
-			  </div>
-		  </div>
-	  </div>
-  </div><!-- .masonry-thumbnail -->
-</article><!-- #post-## --><article id="post-334" class="acme-col-3 masonry-post post-334 post type-post status-publish format-standard has-post-thumbnail hentry category-shandong category-plant category-nature">
-	  <div class="masonry-item post-item" style="background-image: url('http://www.alpacos.cn/wp-content/uploads/2017/12/2017_12_27_2-500x300.jpg')">
-	  <div class="post-content">
-		  <div class="inner-content">
-			  <div class="inner-content-middle">
-				  <h2><a href="http://www.alpacos.cn/2017/12/27/%e9%98%b4%e5%a4%a9/">阴天</a></h2>
-				  <div class='at-icon-link'>
-					  <a class="image-link" href="http://www.alpacos.cn/wp-content/uploads/2017/12/2017_12_27_2.JPG"><i class="fa fa-eye"></i></a>
-					  <a href="http://www.alpacos.cn/2017/12/27/%e9%98%b4%e5%a4%a9/"><i class="fa fa-external-link"></i></a>
-				  </div>
-			  </div>
-		  </div>
-	  </div>
-  </div><!-- .masonry-thumbnail -->
-</article><!-- #post-## --><article id="post-331" class="acme-col-3 masonry-post post-331 post type-post status-publish format-standard has-post-thumbnail hentry category-shandong category-plant category-nature">
-	  <div class="masonry-item post-item" style="background-image: url('http://www.alpacos.cn/wp-content/uploads/2017/12/2017_12_5-e1617956433406-500x300.jpg')">
-	  <div class="post-content">
-		  <div class="inner-content">
-			  <div class="inner-content-middle">
-				  <h2><a href="http://www.alpacos.cn/2017/12/05/%e4%b8%80%e6%9c%b5%e5%b0%8f%e9%b8%a2%e5%b0%be/">一朵小鸢尾</a></h2>
-				  <div class='at-icon-link'>
-					  <a class="image-link" href="http://www.alpacos.cn/wp-content/uploads/2017/12/2017_12_5-e1617956433406.jpg"><i class="fa fa-eye"></i></a>
-					  <a href="http://www.alpacos.cn/2017/12/05/%e4%b8%80%e6%9c%b5%e5%b0%8f%e9%b8%a2%e5%b0%be/"><i class="fa fa-external-link"></i></a>
-				  </div>
-			  </div>
-		  </div>
-	  </div>
-  </div><!-- .masonry-thumbnail -->
-</article><!-- #post-## --><article id="post-329" class="acme-col-3 masonry-post post-329 post type-post status-publish format-standard has-post-thumbnail hentry category-shandong category-nature category-sports">
-	  <div class="masonry-item post-item" style="background-image: url('http://www.alpacos.cn/wp-content/uploads/2017/11/2017_11_26-500x300.jpg')">
-	  <div class="post-content">
-		  <div class="inner-content">
-			  <div class="inner-content-middle">
-				  <h2><a href="http://www.alpacos.cn/2017/11/26/%e9%a3%8e%e7%ad%9d/">风筝</a></h2>
-				  <div class='at-icon-link'>
-					  <a class="image-link" href="http://www.alpacos.cn/wp-content/uploads/2017/11/2017_11_26-scaled.jpg"><i class="fa fa-eye"></i></a>
-					  <a href="http://www.alpacos.cn/2017/11/26/%e9%a3%8e%e7%ad%9d/"><i class="fa fa-external-link"></i></a>
-				  </div>
-			  </div>
-		  </div>
-	  </div>
-  </div><!-- .masonry-thumbnail -->
-</article><!-- #post-## --><article id="post-321" class="acme-col-3 masonry-post post-321 post type-post status-publish format-standard has-post-thumbnail hentry category-anhui category-food">
-	  <div class="masonry-item post-item" style="background-image: url('http://www.alpacos.cn/wp-content/uploads/2017/08/2017_8_23_3-500x300.jpg')">
-	  <div class="post-content">
-		  <div class="inner-content">
-			  <div class="inner-content-middle">
-				  <h2><a href="http://www.alpacos.cn/2017/08/23/%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%81%9a%e8%8f%9c/">第一次做菜</a></h2>
-				  <div class='at-icon-link'>
-					  <a class="image-link" href="http://www.alpacos.cn/wp-content/uploads/2017/08/2017_8_23_3-scaled.jpg"><i class="fa fa-eye"></i></a>
-					  <a href="http://www.alpacos.cn/2017/08/23/%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%81%9a%e8%8f%9c/"><i class="fa fa-external-link"></i></a>
-				  </div>
-			  </div>
-		  </div>
-	  </div>
-  </div><!-- .masonry-thumbnail -->
-</article><!-- #post-## --><div class='clearfix'></div>		</main><!-- #main -->
-	</div><!-- #primary -->
-        </div><!-- #content -->
-        </div><!-- content-wrapper-->
-            <div class="clearfix"></div>
-        <footer id="colophon" class="site-footer" role="contentinfo">
-            <div class="footer-wrapper">
-                        <div class="socials">
-                            <a href="https://www.facebook.com/people/Roberts-West/100025146354335/" class="facebook" data-title="Facebook" target="_blank">
-                    <span class="font-icon-social-facebook"><i class="fa fa-facebook"></i></span>
-                </a>
-                            <a href="https://twitter.com/JJ28154778" class="twitter" data-title="Twitter" target="_blank">
-                    <span class="font-icon-social-twitter"><i class="fa fa-twitter"></i></span>
-                </a>
-                            <a href="https://www.youtube.com/channel/UCWG6F6l3Dl97Mu8IF1Uc5zg" class="youtube" data-title="Youtube" target="_blank">
-                    <span class="font-icon-social-youtube"><i class="fa fa-youtube"></i></span>
-                </a>
-                            <a href="https://www.instagram.com/15.48005454/" class="instagram" data-title="Instagram" target="_blank">
-                    <span class="font-icon-social-instagram"><i class="fa fa-instagram"></i></span>
-                </a>
-                    </div>
-                        <div class="footer-copyright border text-center">
-                                            <p><a href="http://beian.miit.gov.cn/"> 皖ICP备2021004623号</a></p>
-                                        <div class="site-info">
-                    <a href="https://wordpress.org/">Proudly powered by WordPress</a>
-                    <span class="sep"> | </span>
-                    Theme: Infinite Photography  by <a href="http://www.acmethemes.com/" rel="designer">Acme Themes</a>                    </div><!-- .site-info -->
+    <h4>
+                    <a href="https://mp.sohu.com/profile?xpt=MTAwMTc0NjIyOTA2OTM0ODg2NEBzb2h1LmNvbQ==&_f=index_pagemp_1" target="_blank">兵戎要志</a>
+                            <i class="attestation-logo attestation-logo1"></i>
+            </h4>
+    <!-- 积分 -->
+            <div class="fox-wrap" id="fox-integration">
+            <div class="fox-head-wrap" data-grade="tag">
+                                                                                    <span class="fox-logo 
+                                                fox-golden
+                        ">
+                    </span>
+                                    <span class="fox-logo 
+                                                fox-golden
+                        ">
+                    </span>
+                                    <span class="fox-logo 
+                                                fox-golden
+                        ">
+                    </span>
+                            </div>
+            <div class="fox-hover-wrap" data-grade="grade">
+                <div class="fox-each-wrap 
+                                        fox-each-golden
+                    ">
+                    <p class="fox-content">
+                        由内容质量、互动评论、分享传播等多维度分值决定，勋章级别越高(
+                        <span class="fox-grade"></span>
+                        )，代表其在平台内的综合表现越好。
+                    </p>
                 </div>
-            </div><!-- footer-wrapper-->
-        </footer><!-- #colophon -->
-            </div><!-- #page -->
-    <script type='text/javascript' src='http://www.alpacos.cn/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
-<script type='text/javascript' id='wp-polyfill-js-after'>
-( 'fetch' in window ) || document.write( '<script src="http://www.alpacos.cn/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://www.alpacos.cn/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="http://www.alpacos.cn/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="http://www.alpacos.cn/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://www.alpacos.cn/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://www.alpacos.cn/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="http://www.alpacos.cn/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+            </div>
+        </div>
+    
+                    <dl class="user-num">
+        <dd><span class="value" data-value="3713" data-role="info-article-num"><em class="num"></em></span>文章</dd>
+        <dd><span class="value" data-value="" data-role="info-read-num"><em class="num"></em></span>总阅读</dd>
+    </dl>
+    
+    <!-- 企业认证 -->
+            <ul class="company">
+                            <li><span class="dot"></span>军事领域创作者</li>
+                    </ul>
+    
+    <!-- 非马甲号作者 -->
+            <div class="user-more">
+            <a href="https://mp.sohu.com/profile?xpt=MTAwMTc0NjIyOTA2OTM0ODg2NEBzb2h1LmNvbQ==&_f=index_pagemp_2" target="_blank">查看TA的文章&gt;</a>
+        </div>
+    </div>	<div class="article-do" id="article-do" data-spm="share">
+		<div class="article-done">
+    <div class="title">评论</div>
+    <dl>
+
+        <dd class="comment-do"><a href="#comment_area" data-spm-acode="8089"><em class="comment-icon icon"></em><span class="num" data-role="comment-count"></span></a></dd>
+        <!--<dd class="zan-do" data-role="like-btn"><a href="javascript:void(0)"><span class="num" data-role="like">0</span><em class="icon zan-icon"></em></a>
+
+            <span class="add-one">+1</span>
+        </dd>-->
+    </dl>
+</div>
+		<div class="share" id="share">
+
+		</div>
+
+	</div>
+
+</div>                <div class="left main">
+                    <div data-spm="content">   
+                        <div class="text">
+                            <div class="text-title">
+    <h1>
+                    <span class="original-logo">原创</span>
+            <span class="title-info-title">台军新购的一大堆武器，基本都是“活靶子”！只有一款有点威胁</span>
+                <span class="article-tag">
+                 </span>
+    </h1>
+            <div class="article-info">
+        <span class="time" id="news-time" data-val="1619433541000">2021-04-26 18:39</span>
+        <span data-role="original-link">来源:<a href="" target="_blank">兵戎要志</a></span>
+        
+    </div>
+</div>
+<article class="article" id="mp-editor">
+    <!-- 政务处理 -->
+          <p data-role="original-title" style="display:none">原标题：台军新购的一大堆武器，基本都是“活靶子”！只有一款有点威胁</p>
+            <p>对岸在以武拒统的思想指导下，继续一股脑地通过军购来强化自己的军力，大量美制装备进入台军作战序列只是一个时间问题。不过，纵观台军的军购列表中，虽然武器五花八门，但大多数都缺乏在台军作战体系下发挥能力的空间，例如M1主战坦克、M109A6自行火炮以及鱼叉反舰导弹，这些武器的威胁还是相当有限的，对总体格局几乎起不到什么影响。然而，对岸最新公布的一个采购需求和以往不同，这款武器可能对解放军造成不小的威胁，它就是AGM-158远程空对地导弹。</p> 
+<p class="ql-align-center"><img src="https://p1.itc.cn/images01/20210426/165c1fd7a04b498b91c903df467d8684.png" max-width="600" /></p> 
+<p>和其他台军购买的武器不一样，还未确定出售的AGM-158是美军军火库中的尖端武器，其射程和隐身性能都有极大的提高。台军求购的AGM-158属于初期版本，射程可达370公里，可携带重达454公斤的半穿甲弹头。可以看出，这款导弹的射程是设计亮点，此射程令战斗机可以在地面防空系统的打击距离之外进行攻击，实现防区外打击作战。而且，AGM-158系列的一个特征就是隐身性能，虽然为亚音速巡航导弹，但AGM-158采取了一系列措施降低导弹的截雷达反射面，其气动外形棱角分明以反射雷达波。此外，AGM-158拥有复杂航路规划能力，在事先对地区防空情况有了解的情况下，可以按照一个既定路线飞行，绕过防空网对目标进行打击。</p> 
+<p class="ql-align-center"><img src="https://p2.itc.cn/images01/20210426/9451fd06070643fd8d7d896821567d91.png" max-width="600" /></p> 
+<p>若台军能够获得这款导弹，那么其远程对海打击能力会有一个很大的提升，台军F-16战机可以在岛内掩护下，对远距离的海军军舰发动打击。而且，AGM-158也可以用于台军打击陆地目标，这种威胁是不容忽视的。此外，不排除美国在后续进行升级的可能性，著名的LRASM巡航导弹就是AGM-158的改进版本，被命名为AGM-158C，这款导弹是美国空军未来的主力对海打击武器，可见美军内部对这款导弹的器重。若将这种武器出售给对岸，说明美军默许甚至支持其提升攻击性能力，这是一个非常危险的信号。</p> 
+<p class="ql-align-center"><img src="https://p1.itc.cn/images01/20210426/ac646ab659c849c880ff47e668c70fa1.png" max-width="600" /></p> 
+<p>那么，若AGM-158巡航导弹真的出现在这个地区，我们应当如何应对呢？其实，AGM-158虽然是一款不错的武器，也能带来一定的威胁，但应对得当，其威胁就能被最大化地限制。首先，AGM-158的载机是最好的目标，这款导弹需要对岸通过F-16战斗机进行投射，而其F-16集结在很少的几个基地，只要率先摧毁这些基地，限制其F-16起飞，AGM-158自然也就用不了了。而且，AGM-158重达1吨，F-16挂载之后机动性大幅度下降，会成为很容易被猎杀的目标，此时要击落这些F-16会容易很多。再次，AGM-158虽然具备隐身性能和路径设置能力，但毕竟隐身性能有限，也不能主动进行路线规避，一旦被密集部署的雷达发现，要摧毁这种亚音速的导弹仍然是小意思。所以，只要抓住这些特点进行应对，对岸即使购买AGM-158，也很难掀起什么大浪。<a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="点击进入搜狐首页" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>返回搜狐，查看更多</span></a></p>      <!-- 政务账号添加来源标示处理 -->
+      <!-- 政务账号添加来源标示处理 -->
+      <p data-role="editor-name">责任编辑：<span></span></p>
+</article>
+<script>
+    (function() {
+        function getBrandHtml() {
+            var brands = [],
+            html = '';
+                        for(var i = 0; i < brands.length; i++) {
+                var brand = brands[i];
+                if(brands.length == i+1) {
+                    html+= '<a class="username-link" href="'+brand.url+'" target="_blank">'+brand.name+'</a>';
+                } else {
+                    html+= '<a class="username-link" href="'+brand.url+'" target="_blank">'+brand.name+'</a>、';
+                }
+            }
+            return html;
+
+        };
+        if(document.getElementById('linkBtn')){
+            document.getElementById('linkBtn').onclick = function() {
+                $('#brands').removeClass('brand');
+                $('#tipInfo').text('已实名回应');
+                $('#linkBtn').remove();
+                $('.real-response .content').css('line-height', '20px');
+                $('.real-response .time').css('line-height', '20px');
+            };
+    
+            document.getElementById('brands').innerHTML = getBrandHtml();
+        };
+    })();
 </script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1' id='wp-hooks-js'></script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67' id='wp-i18n-js'></script>
-<script type='text/javascript' id='wp-i18n-js-after'>
-wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+    <div id="atricleVote"></div>
+  <div class="statement">声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。</div>  <div class="bottom-relate-wrap clear type-3">
+    
+    <!-- 点赞选择方案2，contentLike对应值为3 -->
+            <div class="article-like" id="article-like" data-like-type="type-3">
+</div>        <div class="read-wrap">
+        <span class="read-num">阅读 (<em data-role="pv" data-val="$articleStat.pv"></em>)</span>
+    </div>
+</div>
+     
+                            <div id="sohu-play-content"></div>
+                        </div>
+                    </div>
+                                        <div class="article-allsee clear" id="articleAllsee">
+    <div class="title">
+        <span>
+            <em class="ln"></em>
+            大家都在看
+        </span>
+    </div>
+    <div class="allsee-list clear" id="allseeList" data-spm="fd-link">
+    </div>
+</div>                    <div class="god-article-bottom" id="god_bottom_banner" data-spm="ad-text-bottom" style="display:block">
+</div>
+<div class="user-god clear" id="user-post" style="display:none">
+
+</div>                    <div class="comment" id="comment_area" data-spm="comment"  data-abdata="1">
+    <div id="mp-comment" sid="463117306"></div> 
+</div>                    
+<div class="groom-read">
+    <div class="title"><span><em class="ln"></em>推荐阅读</span></div>
+    <!-- <div class="groom-menu clear " id="news-recommend-nav" data-spm="hottag">
+<ul>     <li class="cur" data-id=""><a href="javascript:void(0)"><em class="dot"></em>推荐</a></li>
+               <li data-id="" data-tag-id="69889" ><a href="//search.sohu.com/?keyword=克里米亚&queryType=outside">克里米亚</a></li>
+                <li data-id="" data-tag-id="70147" ><a href="//search.sohu.com/?keyword=恐怖袭击&queryType=outside">恐怖袭击</a></li>
+                <li data-id="" data-tag-id="70149" ><a href="//search.sohu.com/?keyword=导弹&queryType=outside">导弹</a></li>
+                <li data-id="" data-tag-id="70405" ><a href="//search.sohu.com/?keyword=阅兵&queryType=outside">阅兵</a></li>
+                <li data-id="" data-tag-id="70151" ><a href="//search.sohu.com/?keyword=加贺&queryType=outside">加贺</a></li>
+                <li data-id="" data-tag-id="70152" ><a href="//search.sohu.com/?keyword=条约&queryType=outside">条约</a></li>
+                <li data-id="" data-tag-id="70668" ><a href="//search.sohu.com/?keyword=军事历史&queryType=outside">军事历史</a></li>
+                <li data-id="" data-tag-id="69903" ><a href="//search.sohu.com/?keyword=巡航南海&queryType=outside">巡航南海</a></li>
+                <li data-id="" data-tag-id="69904" ><a href="//search.sohu.com/?keyword=美国航母&queryType=outside">美国航母</a></li>
+                <li data-id="" data-tag-id="69906" ><a href="//search.sohu.com/?keyword=轰20&queryType=outside">轰20</a></li>
+                <li data-id="" data-tag-id="70168" ><a href="//search.sohu.com/?keyword=美军&queryType=outside">美军</a></li>
+                <li data-id="" data-tag-id="70693" ><a href="//search.sohu.com/?keyword=军售&queryType=outside">军售</a></li>
+            
+</ul>
+</div>
+ -->
+    <div class="news-list clear" id="main-news" style="min-height:1000px">
+    </div>
+</div>
+                </div>
+                <div class="sidebar right" id="right-side-bar" data-a="${isBaiDuAd}">
+    
+    
+    <div class="search-right" id="search" data-spm="search-box"></div>
+
+    <div class="godA" id="nav_button" data-spm="ad-right-sponsor">
+
+    </div>
+    <div class="godR" id="god_1" data-spm="ad-sq1" style="display: block;">
+
+    </div>
+    <div id="god_1_2" style="padding:10px 20px; display: none;" data-spm="ad-sq1">
+
+    </div>
+
+        
+    <div data-role="hot-pic" class="clearfix bord hot-atlas"></div>
+    <div data-role="four-pic" class="clearfix hot-atlas"></div>
+    
+    
+    <div class="godR" id="god_2" data-spm="ad-sq2" style="display:block">
+
+    </div>
+    <div id="god_2_2" style="padding:10px 20px; display: none;" data-spm="ad-sq2">
+
+    </div>
+    
+<div class="hot-article clear bord" id="hot-news" data-spm="tw">
+
+</div>
+    <div class="godR" id="god_3" data-spm="ad-sq3" style="display:block">
+
+    </div>
+    <div id="god_3_2" style="padding:10px 20px; display: none;" data-spm="ad-sq3">
+        
+    </div>
+    
+<div class="bord clear recommend" id="recommend-writer" data-spm="mp">
+
+</div>
+    <div class="godR" id="god_4" data-spm="ad-sq4" style="display:block">
+
+    </div>
+    <div id="god_4_2" style="padding:10px 20px; display: none;" data-spm="ad-sq4">
+        
+    </div>
+    <div class="article-recom right-side clear" id="sogou-words">
+</div>    <div id="god_5" style="padding:10px 20px;" data-spm="sqfive-ad">
+        
+    </div>
+     <div class="pages-fun  " id="pages-fun"></div>
+    <div id="god_fix_container" class="right-fixed" style="display:none;">
+        <div class="godR" id="god_fix_1" data-spm="ad-sq6" style="display: block;">
+
+        </div>
+        <div id="god_6_2" class="god-ad-fix" style="display: none; overflow: hidden;" data-spm="ad-sq6">
+
+        </div> 
+    </div>
+     <div id="fixed-view" data-rel="#hot-news" style="z-index:2">
+    </div>
+</div>
+
+
+
+             </div>
+            <div id="float-btn" class="float-links"></div>             <div class="sohu-khd" data-role="wp-ad"><a href="javascript:void(0)" class="close-khd"></a><a href="https://www.microsoft.com/zh-cn/store/p/%E6%90%9C%E7%8B%90uwp/9nb9229mmbjh" target="_blank" class="download-khd"><i class="icon khd-d-icon"></i>免费获取</a></div>
+            <div id="pop-news" class="pop-news"></div>            <div class="left-bottom-float" id="left-bottom-ad" data-spm="ad-ss">
+</div>        </div>
+            <div id="sohu-mod" class="sohu-mod">
+  <div class="area sohu-frag">
+    <div class="left sohu-news">
+      <div class="title">今日搜狐热点</div>
+      <div class="list">
+        <ul>
+                  </ul>
+      </div>
+    </div>
+    <div class="left auto-sohu">
+      <div class="count-down"><span>6</span>秒后</div>
+      <div class="go-sohu"><a href="http://www.sohu.com?strategyid=00004">进入搜狐首页</a></div>
+      <a href="#" target="_blank" class="close-sohu"></a>
+    </div>
+  </div>
+</div>
+<div id="sohu-remend" class="sohu-remend">
+    <div class="area sohu-remend-box">
+        <div class="remend-tt left">今日推荐</div>
+        <div class="left sohu-pp">
+            <ul>
+                            </ul>
+        </div>
+        <div class="right sohu-do">
+            <a data-clev="10220279" href="http://www.sohu.com?strategyid=00004"><div class="go-sohu">进入搜狐首页</div></a>
+            <a data-clev="10220280" href="//shang.qq.com/wpa/qunwpa?idkey=04e47b9e7004c967962f52532465719ae8a30cf05413c11934ec121fb7e2dd62" target="_blank" class="feedback-link">意见反馈</a>
+            <a data-clev="10220281" href="javascript:void(0)" target="_blank" class="close-remend"></a>
+        </div>
+    </div>
+    <div class="sohu-remend-layer"></div>
+</div>            
+
+<script src="//statics.itc.cn/web/static/js/lib-61587d9fb8.js"></script>
+<script src="//statics.itc.cn/pc_channel_script/pc_channel_script/jquery.xdomainrequest.min.js
+"></script>
+<script src="//39d0825d09f05.cdn.sohucs.com/sdk/passport-4.0.3.js"></script>
+<!--<script src="//statics.itc.cn/web/static/js/ie8hack-07e05e83f1.js"></script>-->
+<script src="//txt.go.sohu.com/ip/soip"></script>
+<script src="//statics.itc.cn/spm/prod/js/1.0.2/index.js"></script>
+<script src="//statics.itc.cn/web/static/js/main-4511ec6a4f.js"></script>
+<script src="//js.sohu.com/pv.js"></script>
+            <script>
+try{console.log("执行成功")
+        window.sohu_mp.article({
+        channel_id: "10",
+        news_id: "463117306",
+        cms_id: "$mpNews.cmsId",
+        media_id: "100185072",
+        passport: "986431317065510912@sohu.com",
+        weboUrl: "https://mp.sohu.com/profile?xpt=MTAwMTc0NjIyOTA2OTM0ODg2NEBzb2h1LmNvbQ==",
+        title: "台军新购的一大堆武器，基本都是“活靶子”！只有一款有点威胁",
+        channel_url:"//mil.sohu.com",
+        categoryId:"1468",
+        //abData_fd用于abtest
+        abData:"{}",
+        abData_fd:"",
+        abData_tw:"",
+        rightNewStyle: "0",
+        originalId:"$mpNews.originalId",
+        originalStatus:"1",
+        hasVoteInfo: "false",
+        isBaiDuAd: "",
+        isPure: "${pure}",
+        mpNewsExt:{
+            "modelId":""
+        }});
+}
+catch(e){
+    var html = '<div class="err-js">' +
+                '<span><em class="icon err-js-icon"></em>JS加载错误，请重新加载。</span>' +
+                '<a href="javascript:window.location.reload()" target="_blank" class="cached-btn"' +
+                '><em class="icon-cached"></em>刷新</a></div>';
+    $(document.body).prepend(html);
+    // Raven.captureException(e);
+    console.error("发生错误",e);
+}
 </script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19' id='lodash-js'></script>
-<script type='text/javascript' id='lodash-js-after'>
-window.lodash = _.noConflict();
+<script>
+    (function () {
+        if(window.irs_ua === false) return
+        var ra = document.createElement('script');
+        ra.type = 'text/javascript';
+        ra.async = true;
+        ra.src = '//statics.itc.cn/iwtReport/iwt1.0.1.js'; //iwt_1.0.1.js的URL位置，请客户自行托管JS文件，修改此值
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ra, s);
+    })();    
 </script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-includes/js/dist/url.min.js?ver=0ac7e0472c46121366e7ce07244be1ac' id='wp-url-js'></script>
-<script type='text/javascript' id='wp-api-fetch-js-translations'>
-( function( domain, translations ) {
-	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
-	localeData[""].domain = domain;
-	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", {"translation-revision-date":"2021-04-20 20:33:32+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"zh_CN"},"You are probably offline.":["\u60a8\u53ef\u80fd\u5df2\u7ecf\u6389\u7ebf\u3002"],"Media upload failed. If this is a photo or a large image, please scale it down and try again.":["\u5a92\u4f53\u4e0a\u4f20\u5931\u8d25\u3002\u5982\u679c\u8fd9\u662f\u4e00\u5f20\u8f83\u5927\u7684\u7167\u7247\u6216\u56fe\u50cf\uff0c\u8bf7\u5c06\u5176\u7f29\u5c0f\u5e76\u91cd\u65b0\u4e0a\u4f20\u3002"],"The response is not a valid JSON response.":["\u6b64\u54cd\u5e94\u4e0d\u662f\u5408\u6cd5\u7684JSON\u54cd\u5e94\u3002"],"An unknown error occurred.":["\u53d1\u751f\u4e86\u672a\u77e5\u9519\u8bef\u3002"]}},"comment":{"reference":"wp-includes\/js\/dist\/api-fetch.js"}} );
+<!--[if lt IE 8]>
+<script type="text/javascript">
+(function(){
+    var ua = navigator.userAgent;
+    var version;
+    var html = '<div class="area clear">' +
+        '<div class="ie-low">' +
+        '<p>您的浏览器版本过低<br>为了更好的体验，请升级你的浏览器。</p>' +
+        '<h5><a href="https://ie.sogou.com" target="_blank" class="upgrade-btn">马上升级</a></h5>' +
+        '</div></div>';
+    if (/MSIE ([^;]+)/.test(ua)) {
+        version = parseInt(RegExp["$1"]);
+        if (version<8) {
+            document.body.innerHTML=html;
+            var reg = new RegExp("(^| )SUV=([^;]*)(;|$)");
+            var suvs = unescape(document.cookie.match(reg)[2]); 
+            var spv_server_src = "http://pv.sohu.com/action.gif?actionId=10078&SUV="+suvs;
+            var scripts = document.createElement('script');
+            scripts.src = spv_server_src;
+            document.body.appendChild(scripts);   
+            Raven.captureException(new Error('ie'+version));   
+        }
+    }
+})()
 </script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-includes/js/dist/api-fetch.min.js?ver=a783d1f442d2abefc7d6dbd156a44561' id='wp-api-fetch-js'></script>
-<script type='text/javascript' id='wp-api-fetch-js-after'>
-wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "http://www.alpacos.cn/wp-json/" ) );
-wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "117610cad4" );
-wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
-wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
-wp.apiFetch.nonceEndpoint = "http://www.alpacos.cn/wp-admin/admin-ajax.php?action=rest-nonce";
+<![endif]-->
+<script src="//images.sohu.com/bill/default/sohu-require.js"></script>
+<script type="text/javascript"> require(["sjs/matrix/ad/passion"]);</script>
+<script type="text/javascript" src="//www.sohu.com/sohuflash_1.js"></script>
+<script type="text/javascript" src="//images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/form/delivery.js"></script>
+<script type="text/javascript" src="//images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/pv/pagePVmonitor.js"></script>
+<!-- <script src="//statics.itc.cn/spm/prod/js/1.0.1/index.js"></script> -->
+
+<!-- 文章安全分低于等于10分不执行seo优化 -->
+<script>
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
 </script>
-<script type='text/javascript' id='contact-form-7-js-extra'>
-/* <![CDATA[ */
-var wpcf7 = [];
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4' id='contact-form-7-js'></script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-content/themes/infinite-photography/assets/library/bxslider/js/jquery.bxslider.min.js?ver=4.2.5' id='bxslider-js'></script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-content/plugins/gutentor/assets/library/magnific-popup/jquery.magnific-popup.min.js?ver=1.1.0' id='magnific-popup-js'></script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-content/themes/infinite-photography/assets/js/infinite-photography-custom.js?ver=1.0.1' id='infinite-photography-custom-js'></script>
-<script type='text/javascript' src='http://www.alpacos.cn/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js'></script>
-</body>
+<!-- 百度联盟广告，多条广告如下脚本只需引入一次 -->
+<script type="text/javascript" src="https://cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer"></script>
+    </body>
 </html>
