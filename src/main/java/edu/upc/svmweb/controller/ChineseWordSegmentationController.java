@@ -12,8 +12,8 @@ import java.io.IOException;
 @Controller
 @RequestMapping("/getWord")
 public class ChineseWordSegmentationController {
-    private static String wordFrequencyFilePath = "data/项目文本/wordFrequency.txt";
-    private static String topWordFilePath = "data/项目文本/topWord.txt";
+    private static String wordFrequencyFilePath = "data/项目文本/WordFrequency.txt";
+    private static String topWordFilePath = "data/项目文本/TopWord.txt";
 
     @ResponseBody
     @RequestMapping(value = "/getWordFrequency", method = RequestMethod.POST)

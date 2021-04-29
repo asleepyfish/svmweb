@@ -2,6 +2,7 @@ package edu.upc.svmweb.util;
 
 import java.io.*;
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 import org.ansj.splitWord.analysis.ToAnalysis;
 
@@ -11,13 +12,18 @@ public class ChineseWordSegmentationUtil {
     //统计词频前十
     public StringBuilder top_word = new StringBuilder();
 
-    private static String clearDataFilePath = "data/项目文本/clearData.txt";
+    private static String clearDataFilePath = "data/项目文本/ClearData.txt";
 
-
+    /**
+     * 统计词频
+     *
+     * @throws IOException
+     */
     public void wordFrequency() throws IOException {
 
-        Map<String, Integer> map = new HashMap<>();
-
+        Map<String, Integer> map = new ConcurrentHashMap<>();
+        FileOperationUtil.readStopWords("data/项目文本/StopWords.txt");
+        Set<String> set = FileOperationUtil.set;
 
         String article = txtToString();
 
@@ -29,23 +35,13 @@ public class ChineseWordSegmentationUtil {
 
         for (String word : words) {
 
-            String str = word.trim();
+            String term = word.trim();
 
-            // 过滤空白字符
-            if (str.equals("")) {
+            // 此处过滤长度为1的str，如：一、被、就
+            if (term.length() < 2) {
                 continue;
             }
-            // 过滤一些高频率的符号
-            else if (str.matches("[）|（|.|，|。|+|-|“|”|：|？|\\s]")) {
-                continue;
-            }
-            // 此处过滤长度为1的str
-            else if (str.length() < 2) {
-                continue;
-            }
-            /*
-             * containsKey用于检查是否包含指定的词汇，没有词频置为1，有则词频加1
-             */
+            //containsKey用于检查是否包含指定的词汇，没有词频置为1，有则词频加1
             if (!map.containsKey(word)) {
                 map.put(word, 1);
             } else {
@@ -54,6 +50,7 @@ public class ChineseWordSegmentationUtil {
             }
         }
 
+        removeStopWords(map, set);
 
         Iterator<Map.Entry<String, Integer>> iterator = map.entrySet().iterator();
 
@@ -76,6 +73,20 @@ public class ChineseWordSegmentationUtil {
 
     }
 
+    /**
+     * 去除词频表中的停用词
+     *
+     * @param map
+     * @param set
+     */
+    public void removeStopWords(Map<String, Integer> map, Set<String> set) {
+        Set<String> keySet = map.keySet();
+        for (String term : keySet) {
+            if (set.contains(term)) {
+                map.remove(term);
+            }
+        }
+    }
 
     /**
      * 找出map中value最大的entry, 返回此entry, 并在map删除此entry
@@ -110,7 +121,7 @@ public class ChineseWordSegmentationUtil {
      * @return 文章
      * @throws IOException
      */
-    public static String txtToString() throws IOException {
+    public String txtToString() throws IOException {
 
         return FileOperationUtil.readFile(clearDataFilePath);
     }

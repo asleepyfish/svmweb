@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 @RequestMapping(value = "/getSource")
 public class GetSourceController {
-    private static String sourceCodeFilePath = "data/项目文本/sourceCode.txt";
-    private static String clearDataFilePath = "data/项目文本/clearData.txt";
+    private static String sourceCodeFilePath = "data/项目文本/SourceCode.txt";
+    private static String clearDataFilePath = "data/项目文本/ClearData.txt";
 
     @ResponseBody
     @RequestMapping(value = "/getSourceCode", method = RequestMethod.POST)
