@@ -20,7 +20,15 @@
 <button name="getSourceCode" formaction="/getSource/getSourceCode">获取源码</button>
 <button name="getClearData" formaction="/getSource/getClearData">清洗数据</button>
 <button name="getWord" formaction="/getWord/getWordFrequency">中文分词</button>
-<button name="getWord" formaction="/getWord/getTopTenWord">词频前十</button>
+<button name="getWord" formaction="/getWord/getTopNumberWord">词频前
+    <select>
+        <option name="number" value="10">10</option>
+        <option name="number" value="15" selected>15</option>
+        <option name="number" value="20">20</option>
+        <option name="number" value="25">25</option>
+    </select>
+</button>
+
 <button name="getLinearSVM" formaction="/getLinearSVM/getLinearSVMClassifier">分类结果</button>
 
 

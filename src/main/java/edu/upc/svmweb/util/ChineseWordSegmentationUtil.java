@@ -1,35 +1,41 @@
 package edu.upc.svmweb.util;
 
-import java.io.*;
-import java.util.*;
+import com.huaban.analysis.jieba.JiebaSegmenter;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
-import org.ansj.splitWord.analysis.ToAnalysis;
-
 public class ChineseWordSegmentationUtil {
-    //统计word frequency
+    //统计word frequency的字符串
     public StringBuilder wq = new StringBuilder();
-    //统计词频前十
+    //统计词频前number的字符串
     public StringBuilder top_word = new StringBuilder();
-
-    private static String clearDataFilePath = "data/项目文本/ClearData.txt";
+    //存储词频前number的entry列表
+    private List<Map.Entry<String, Integer>> list = new ArrayList<>();
+    //存储去停用词后的词频的map集合
+    private Map<String, Integer> map = new ConcurrentHashMap<>();
+    //文章的纯中文文本路径
+    private static final String clearDataFilePath = "data/项目文本/ClearData.txt";
 
     /**
      * 统计词频
      *
      * @throws IOException
      */
-    public void wordFrequency() throws IOException {
+    public void getWordFrequency() throws IOException {
 
-        Map<String, Integer> map = new ConcurrentHashMap<>();
+
         FileOperationUtil.readStopWords("data/项目文本/StopWords.txt");
         Set<String> set = FileOperationUtil.set;
 
         String article = txtToString();
-
+        JiebaSegmenter segmenter = new JiebaSegmenter();
         //对文本进行基本分词,分词结果用逗号分隔
-        String result = ToAnalysis.parse(article).toStringWithOutNature();
-
+        String result = segmenter.sentenceProcess(article).toString().replaceAll("(?:\\[|null|\\]| +)", "");
         //以,分割为字符串数组
         String[] words = result.split(",");
 
@@ -52,25 +58,27 @@ public class ChineseWordSegmentationUtil {
 
         removeStopWords(map, set);
 
-        Iterator<Map.Entry<String, Integer>> iterator = map.entrySet().iterator();
-
-        while (iterator.hasNext()) {
-            Map.Entry<String, Integer> entry = iterator.next();
-            wq.append(entry.getKey() + ": " + entry.getValue() + "\t");
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            wq.append(entry.getKey()).append(": ").append(entry.getValue()).append("\t");
 
         }
-        List<Map.Entry<String, Integer>> list = new ArrayList<>();
+    }
 
+    /**
+     * 统计词频前number
+     *
+     * @param number
+     */
+    public void getTopNumberWord(Integer number) {
         Map.Entry<String, Integer> entry;
-
-        for (int i = 0; i < 10; i++) {
-            entry = getMax(map);
+        int size = map.size() >= number ? number : map.size();
+        for (int i = 0; i < size; i++) {
+            entry = getMaxEntry(map);
             list.add(entry);
         }
-        for (int i = 0; i < 10; i++) {
-            top_word.append(list.get(i) + "\n");
+        for (int i = 0; i < size; i++) {
+            top_word.append(list.get(i)).append("\n");
         }
-
     }
 
     /**
@@ -94,15 +102,13 @@ public class ChineseWordSegmentationUtil {
      * @param map
      * @return map中value最大的
      */
-    public Map.Entry<String, Integer> getMax(Map<String, Integer> map) {
-        if (map.size() == 0) {
+    public Map.Entry<String, Integer> getMaxEntry(Map<String, Integer> map) {
+        if (map == null) {
             return null;
         }
         Map.Entry<String, Integer> maxEntry = null;
         boolean flag = false;
-        Iterator<Map.Entry<String, Integer>> iterator = map.entrySet().iterator();
-        while (iterator.hasNext()) {
-            Map.Entry<String, Integer> entry = iterator.next();
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
             if (!flag) {
                 maxEntry = entry;
                 flag = true;
@@ -111,6 +117,7 @@ public class ChineseWordSegmentationUtil {
                 maxEntry = entry;
             }
         }
+        assert maxEntry != null;
         map.remove(maxEntry.getKey());
         return maxEntry;
     }
@@ -125,4 +132,6 @@ public class ChineseWordSegmentationUtil {
 
         return FileOperationUtil.readFile(clearDataFilePath);
     }
+
+
 }

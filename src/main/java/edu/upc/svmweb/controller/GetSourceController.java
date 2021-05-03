@@ -1,8 +1,8 @@
 package edu.upc.svmweb.controller;
 
+import edu.upc.svmweb.util.FileOperationUtil;
 import edu.upc.svmweb.util.HttpClearHtmlUtil;
 import edu.upc.svmweb.util.HttpGetHtmlUtil;
-import edu.upc.svmweb.util.FileOperationUtil;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 @RequestMapping(value = "/getSource")
 public class GetSourceController {
-    private static String sourceCodeFilePath = "data/项目文本/SourceCode.txt";
-    private static String clearDataFilePath = "data/项目文本/ClearData.txt";
+    private static final String sourceCodeFilePath = "data/项目文本/SourceCode.txt";
+    private static final String clearDataFilePath = "data/项目文本/ClearData.txt";
 
     @ResponseBody
     @RequestMapping(value = "/getSourceCode", method = RequestMethod.POST)

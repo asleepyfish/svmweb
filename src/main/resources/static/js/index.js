@@ -1,10 +1,10 @@
 $(function () {
-    function upload(data, url) {
+    function upload(data, url, number, pattern) {
         $.ajax({
             async: false,
             method: 'post',
             url: url,//传给后端@RequestMapping
-            data: data,//参数可以有多种写法
+            data: {"url": data, "number": number, "pattern": pattern},//参数可以有多种写法
             datatype: 'json',//返回格式
             success: function (data) {
                 $("#show").val(data);
@@ -14,7 +14,9 @@ $(function () {
 
     $("button").bind('click', function () {
         let url = $(this).attr('formaction');
-        const data = $("#Form").serialize();
-        upload(data, url)
+        const data = $("input").val();
+        const number = $("select").val();
+        const pattern = $("textarea").val();
+        upload(data, url, number, pattern)
     })
 })

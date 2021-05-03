@@ -1,8 +1,8 @@
 package edu.upc.svmweb.util;
 
 import com.hankcs.hanlp.classification.classifiers.IClassifier;
-import edu.upc.svmweb.classifiers.LinearSVMClassifier;
-import edu.upc.svmweb.models.LinearSVMModel;
+import edu.upc.svmweb.classifier.LinearSVMClassifier;
+import edu.upc.svmweb.model.LinearSVMModel;
 
 import java.io.*;
 
