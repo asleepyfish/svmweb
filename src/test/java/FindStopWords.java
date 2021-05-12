@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
@@ -14,9 +13,7 @@ public class FindStopWords {
         read("data/项目文本/hit_stopwords.txt");
         read("data/项目文本/scu_stopwords.txt");
         Set<Map.Entry<String, String>> set = map.entrySet();
-        Iterator<Map.Entry<String, String>> it = set.iterator();
-        while (it.hasNext()) {
-            Map.Entry<String, String> entry = it.next();
+        for (Map.Entry<String, String> entry : set) {
             write("data/项目文本/StopWords.txt", entry.getKey());
         }
     }

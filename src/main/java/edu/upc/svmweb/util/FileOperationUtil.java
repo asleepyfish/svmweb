@@ -6,9 +6,11 @@ import java.util.Set;
 
 public class FileOperationUtil {
     public static Set<String> set = new HashSet<>();
+    public static StringBuilder top_word = new StringBuilder();
+    public static StringBuilder feature_txt = new StringBuilder();
 
     public static void writeFile(String path, String data) {
-        FileWriter fw = null;
+        FileWriter fw;
         BufferedWriter bw = null;
         try {
             // true表示不覆盖原来的内容，而是加到文件的后面。若要覆盖原来的内容，直接省略这个参数就好
@@ -19,6 +21,7 @@ public class FileOperationUtil {
             e.printStackTrace();
         } finally {
             try {
+                assert bw != null;
                 bw.flush();
                 bw.close();
             } catch (IOException e) {
@@ -48,6 +51,35 @@ public class FileOperationUtil {
         String line;
         while ((line = br.readLine()) != null) {
             set.add(line);
+        }
+        br.close();
+        fr.close();
+    }
+
+    public static void readTopNumberWord(String path, int number) throws IOException {
+        FileReader fr = new FileReader(path);
+        BufferedReader br = new BufferedReader(fr);
+        int i = 0;
+        String line;
+        while ((line = br.readLine()) != null && i < number) {
+            i++;
+            top_word.append(line).append("\n");
+        }
+        br.close();
+        fr.close();
+    }
+
+    public static void readFeatureWeight(String path) throws IOException {
+        FileReader fr = new FileReader(path);
+        BufferedReader br = new BufferedReader(fr);
+        String line;
+        int i = 1;
+        while ((line = br.readLine()) != null) {
+            if ((i++) % 6 != 0) {
+                feature_txt.append(line).append("\t\t");
+            } else {
+                feature_txt.append(line).append("\n\n");
+            }
         }
         br.close();
         fr.close();

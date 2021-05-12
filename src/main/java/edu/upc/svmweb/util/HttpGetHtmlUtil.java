@@ -2,7 +2,6 @@ package edu.upc.svmweb.util;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpStatus;
-import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.utils.HttpClientUtils;
@@ -28,14 +27,11 @@ public class HttpGetHtmlUtil {
             if (response.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {
                 //5.获取响应内容
                 HttpEntity httpEntity = response.getEntity();
-                String html = EntityUtils.toString(httpEntity, "utf-8");
-                return html;
+                return EntityUtils.toString(httpEntity, "utf-8");
             } else {
                 //如果返回状态不是200，比如404（页面不存在）等，返回打印信息
                 return "返回的状态码不是200";
             }
-        } catch (ClientProtocolException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         } finally {

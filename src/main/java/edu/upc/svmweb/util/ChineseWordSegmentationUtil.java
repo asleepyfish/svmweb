@@ -1,6 +1,6 @@
 package edu.upc.svmweb.util;
 
-import com.huaban.analysis.jieba.JiebaSegmenter;
+import edu.upc.svmweb.classifier.SVMClassifier;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -11,74 +11,77 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class ChineseWordSegmentationUtil {
     //统计word frequency的字符串
-    public StringBuilder wq = new StringBuilder();
+    public StringBuilder wf = new StringBuilder();
     //统计词频前number的字符串
     public StringBuilder top_word = new StringBuilder();
+    //分类预测
+    public static String predict;
     //存储词频前number的entry列表
-    private List<Map.Entry<String, Integer>> list = new ArrayList<>();
+    private final List<Map.Entry<String, Integer>> list = new ArrayList<>();
     //存储去停用词后的词频的map集合
-    private Map<String, Integer> map = new ConcurrentHashMap<>();
+    private final Map<String, Integer> wq_map = new ConcurrentHashMap<>();
     //文章的纯中文文本路径
-    private static final String clearDataFilePath = "data/项目文本/ClearData.txt";
+    private static final String CLEAR_DATAFILE_PATH = "data/项目文本/ClearData.txt";
+    //停用词文本路径
+    private static final String STOPWORDS_PATH = "data/项目文本/StopWords.txt";
+    //词频文本路径
+    private static final String WORD_FREQUENCY_PATH = "data/项目文本/WordFrequency.txt";
+    //预测分类结果路径
+    private static final String PREDICT_PATH = "data/项目文本/predict.txt";
 
     /**
      * 统计词频
      *
-     * @throws IOException
+     * @throws IOException Exception
      */
-    public void getWordFrequency() throws IOException {
+    public void getWordFrequency(SVMClassifier classifier) throws IOException {
 
-
-        FileOperationUtil.readStopWords("data/项目文本/StopWords.txt");
+        //读停用词,得到停用词set,为后面的词频统计过滤部分词
+        FileOperationUtil.readStopWords(STOPWORDS_PATH);
         Set<String> set = FileOperationUtil.set;
-
+        //得到中文文本字符串
         String article = txtToString();
-        JiebaSegmenter segmenter = new JiebaSegmenter();
-        //对文本进行基本分词,分词结果用逗号分隔
-        String result = segmenter.sentenceProcess(article).toString().replaceAll("(?:\\[|null|\\]| +)", "");
-        //以,分割为字符串数组
-        String[] words = result.split(",");
-
-        for (String word : words) {
-
-            String term = word.trim();
-
-            // 此处过滤长度为1的str，如：一、被、就
-            if (term.length() < 2) {
-                continue;
+        predict = SVMClassifierUtil.predict(classifier, article);
+        Map<Integer, Integer> tfMapIt = SVMClassifier.tfMapIt;
+        Map<Integer, String> wordMap = SVMClassifier.WORD_MAP;
+        for (Map.Entry<Integer, String> entry : wordMap.entrySet()) {
+            if (entry.getKey() != null) {
+                Integer key = entry.getKey() + 1;
+                String word = entry.getValue();
+                Integer frequency = tfMapIt.get(key);
+                if (word.length() > 1 && frequency != null) {
+                    wq_map.put(word, frequency);
+                }
             }
-            //containsKey用于检查是否包含指定的词汇，没有词频置为1，有则词频加1
-            if (!map.containsKey(word)) {
-                map.put(word, 1);
+        }
+        removeStopWords(wq_map, set);
+        int i = 1;
+        for (Map.Entry<String, Integer> entry : wq_map.entrySet()) {
+            if ((i++) % 15 != 0) {
+                wf.append(entry.getKey()).append(": ").append(entry.getValue()).append("\t\t");
             } else {
-                int n = map.get(word);
-                map.put(word, ++n);
+                wf.append(entry.getKey()).append(": ").append(entry.getValue()).append("\n");
             }
         }
-
-        removeStopWords(map, set);
-
-        for (Map.Entry<String, Integer> entry : map.entrySet()) {
-            wq.append(entry.getKey()).append(": ").append(entry.getValue()).append("\t");
-
-        }
+        FileOperationUtil.writeFile(WORD_FREQUENCY_PATH, wf.toString());
     }
 
     /**
      * 统计词频前number
-     *
-     * @param number
      */
-    public void getTopNumberWord(Integer number) {
+    public void getTopNumberWord() {
         Map.Entry<String, Integer> entry;
-        int size = map.size() >= number ? number : map.size();
+        //int size = wq_map.size() >= number ? number : wq_map.size();
+        int size = wq_map.size();
         for (int i = 0; i < size; i++) {
-            entry = getMaxEntry(map);
+            entry = getMaxEntry(wq_map);
             list.add(entry);
         }
-        for (int i = 0; i < size; i++) {
+        for (int i = 0; i < size - 1; i++) {
             top_word.append(list.get(i)).append("\n");
         }
+        top_word.append(list.get(size - 1));
+        FileOperationUtil.writeFile("data/项目文本/TopWord.txt", top_word.toString());
     }
 
     /**
@@ -130,8 +133,7 @@ public class ChineseWordSegmentationUtil {
      */
     public String txtToString() throws IOException {
 
-        return FileOperationUtil.readFile(clearDataFilePath);
+        return FileOperationUtil.readFile(CLEAR_DATAFILE_PATH);
     }
-
 
 }

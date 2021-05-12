@@ -12,21 +12,21 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 @RequestMapping(value = "/getSource")
 public class GetSourceController {
-    private static final String sourceCodeFilePath = "data/项目文本/SourceCode.txt";
-    private static final String clearDataFilePath = "data/项目文本/ClearData.txt";
+    private static final String SOURCE_CODE_PATH = "data/项目文本/SourceCode.txt";
+    private static final String CLEAR_DATA_PATH = "data/项目文本/ClearData.txt";
 
     @ResponseBody
     @RequestMapping(value = "/getSourceCode", method = RequestMethod.POST)
-    public static String getSourceCode(@RequestParam(value = "url", required = true) String url) {
+    public String getSourceCode(@RequestParam(value = "url") String url) {
         HttpGetHtmlUtil hgh = new HttpGetHtmlUtil();
         String html = hgh.getHtml(url);
-        FileOperationUtil.writeFile(sourceCodeFilePath, html);
+        FileOperationUtil.writeFile(SOURCE_CODE_PATH, html);
         return html;
     }
 
     @ResponseBody
     @RequestMapping(value = "/getClearData", method = RequestMethod.POST)
-    public static String getClearData(@RequestParam(value = "url", required = true) String url) {
+    public String getClearData(@RequestParam(value = "url") String url) {
         HttpClearHtmlUtil hch = new HttpClearHtmlUtil();
         HttpGetHtmlUtil hgh = new HttpGetHtmlUtil();
         String html = hch.replaceHtml(hgh.getHtml(url));
@@ -35,12 +35,11 @@ public class GetSourceController {
         int len = c.length;
         char[] tmp = new char[len];
         int k = 0;
-        /**
-         * //一行显示所有中文字符
-         for (char c1 : c) {
-         if((c1 >= 0x4E00 && c1 <= 0x9FA5))
-         System.out.print(c1);
-         }*/
+        /*一行显示所有中文字符
+        for (char c1 : c) {
+            if ((c1 >= 0x4E00 && c1 <= 0x9FA5))
+                System.out.print(c1);
+        }*/
         //根据换行符，汉字，符号分行表示的文本解析之后的字符串
         for (int i = 0; i < len - 1; i++) {
             if (((c[i] >= 0x4E00 && c[i] <= 0x9FA5)) && ((c[i + 1] >= 0x4E00 && c[i + 1] <= 0x9FA5))) {
@@ -59,7 +58,7 @@ public class GetSourceController {
         }
         String clearData = String.valueOf(tmp).substring(0, k - 1);
 
-        FileOperationUtil.writeFile(clearDataFilePath, clearData);
+        FileOperationUtil.writeFile(CLEAR_DATA_PATH, clearData);
         return clearData;
     }
 
