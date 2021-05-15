@@ -1,24 +1,24 @@
 <!DOCTYPE html>
-<html data-log-pv='{"mpc":48}'>
+<html data-log-pv='{"mpc":29}'>
     <head>
-        <title>瞎搞！炒房的开始“炒”玉米了……_投机资本</title>
+        <title>叹为观止的德天瀑布，感叹大自然的鬼斧神工_新县</title>
         <meta http-equiv="Cache-Control" content="no-transform" /> 
 <meta http-equiv="Cache-Control" content="no-siteapp" /> 
 <meta name="copyright" content="Copyright © 2017 Sohu.com Inc. All Rights Reserved." />
-<meta name="mediaid" content="九派新闻"/>
+<meta name="mediaid" content="刚行路上"/>
 <meta property="og:type" content="news"/>
 <meta property="og:image" content="${mpNews.image}"/>
-<meta property="og:url" content="www.sohu.com/a/465973190_121019331"/>
-<meta property="og:release_date" content="2021-05-12 12:56"/>
-<meta itemprop="dateUpdate" content="2021-05-12 12:56" />
-<meta itemprop="datePublished" content="2021-05-12 12:56" />
-<link rel="canonical" href="http://www.sohu.com/a/465973190_121019331"/>
-<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/465973190_121019331"/>
+<meta property="og:url" content="www.sohu.com/a/466439129_289742"/>
+<meta property="og:release_date" content="2021-05-14 17:59"/>
+<meta itemprop="dateUpdate" content="2021-05-14 17:59" />
+<meta itemprop="datePublished" content="2021-05-14 17:59" />
+<link rel="canonical" href="http://www.sohu.com/a/466439129_289742"/>
+<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/466439129_289742"/>
 
-<meta name="keywords" content="全球,国际,炒房,大豆,粮价,风险加大,投机资本,波动,玉米价格,粮食市场,大豆,玉米,粮价,资本,粮食" />
-<meta name="description" content=" “阶段性供需关系改变，是玉米等粮食价格急剧变化的主要原因，但是现在粮食价格已不再简单地由粮食供求关系决定”，中国社科院农村发展研究所研究员李国祥说，近一段时间，国内外资本频繁炒作疫情、洪灾、台风、蝗灾等…" />
-<meta property="og:description" content=" “阶段性供需关系改变，是玉米等粮食价格急剧变化的主要原因，但是现在粮食价格已不再简单地由粮食供求关系决定”，中国社科院农村发展研究所研究员李国祥说，近一段时间，国内外资本频繁炒作疫情、洪灾、台风、蝗灾等…"/>
-<meta property="og:title" content="瞎搞！炒房的开始“炒”玉米了……_投机资本"/>
+<meta name="keywords" content="国家,新县,气息,景区,边民,纤尘,越南,大自然,瀑布,那一年,观点评论,归春河,德天瀑布,板约瀑布,越南,瀑布" />
+<meta name="description" content="它与越南的板约瀑布连为一体，就像一对亲密的姐妹，携手而立。 为了更好地欣赏瀑布，景区修建了一处观瀑台，自然清新的气息扑面而来，不仅能欣赏到雄伟壮观的瀑布以及周围风光旖旎的自然景色，还能领略浓郁的边民风…" />
+<meta property="og:description" content="它与越南的板约瀑布连为一体，就像一对亲密的姐妹，携手而立。 为了更好地欣赏瀑布，景区修建了一处观瀑台，自然清新的气息扑面而来，不仅能欣赏到雄伟壮观的瀑布以及周围风光旖旎的自然景色，还能领略浓郁的边民风…"/>
+<meta property="og:title" content="叹为观止的德天瀑布，感叹大自然的鬼斧神工_新县"/>
         <meta charset="utf-8"/>
 <meta name="data-spm" content="smpc">
 <meta name="renderer" content="webkit"> 
@@ -99,7 +99,7 @@
         
         
     
-    <body class="article-page" data-region="157" data-spm="content" data-newsid="465973190">
+    <body class="article-page" data-region="153" data-spm="content" data-newsid="466439129">
         <div class="wrapper-box">
             <header id="main-header" class="error-head">
 
@@ -146,23 +146,19 @@
 	<div class="user-info" id="user-info" data-spm="author">
     <div class="user-pic">
         <!-- fromWhere为10是马甲号作者不可点击进入个人页面 -->
-                    <a href="https://mp.sohu.com/profile?xpt=N2Y5OTQxMmUtMzEyOS00M2YyLTg4MzUtMDFkYWU1NTNlOGMy&_f=index_pagemp_1" target="_blank">
-                <img src="//p8.itc.cn/mpbp/pro/20210129/44ab5679cf5a45938a78b9db02bcc1da.jpeg" alt="">
+                    <a href="https://mp.sohu.com/profile?xpt=MTQ2NDkyMDAwMEBzaW5hLnNvaHUuY29t&_f=index_pagemp_1" target="_blank">
+                <img src="http://sucimg.itc.cn/avatarimg/364da034f4304438ab14e1f47df7b9ef_1445413755191" alt="">
             </a>
             </div>
 
     <h4>
-                    <a href="https://mp.sohu.com/profile?xpt=N2Y5OTQxMmUtMzEyOS00M2YyLTg4MzUtMDFkYWU1NTNlOGMy&_f=index_pagemp_1" target="_blank">九派新闻</a>
-                            <i class="attestation-logo attestation-logo1"></i>
+                    <a href="https://mp.sohu.com/profile?xpt=MTQ2NDkyMDAwMEBzaW5hLnNvaHUuY29t&_f=index_pagemp_1" target="_blank">刚行路上</a>
+                            <i class="attestation-logo attestation-logo2"></i>
             </h4>
     <!-- 积分 -->
             <div class="fox-wrap" id="fox-integration">
             <div class="fox-head-wrap" data-grade="tag">
                                                                     <span class="fox-logo 
-                                                fox-golden
-                        ">
-                    </span>
-                                    <span class="fox-logo 
                                                 fox-golden
                         ">
                     </span>
@@ -181,18 +177,19 @@
         </div>
     
                     <dl class="user-num">
-        <dd><span class="value" data-value="128389" data-role="info-article-num"><em class="num"></em></span>文章</dd>
+        <dd><span class="value" data-value="2175" data-role="info-article-num"><em class="num"></em></span>文章</dd>
         <dd><span class="value" data-value="" data-role="info-read-num"><em class="num"></em></span>总阅读</dd>
     </dl>
     
     <!-- 企业认证 -->
             <ul class="company">
-                            <li><span class="dot"></span>九派新闻官方搜狐号</li>
+                            <li><span class="dot"></span>知名自媒体人</li>
+                            <li><span class="dot"></span>旅游领域优质创作者</li>
                     </ul>
     
     <!-- 非马甲号作者 -->
             <div class="user-more">
-            <a href="https://mp.sohu.com/profile?xpt=N2Y5OTQxMmUtMzEyOS00M2YyLTg4MzUtMDFkYWU1NTNlOGMy&_f=index_pagemp_2" target="_blank">查看TA的文章&gt;</a>
+            <a href="https://mp.sohu.com/profile?xpt=MTQ2NDkyMDAwMEBzaW5hLnNvaHUuY29t&_f=index_pagemp_2" target="_blank">查看TA的文章&gt;</a>
         </div>
     </div>	<div class="article-do" id="article-do" data-spm="share">
 		<div class="article-done">
@@ -217,51 +214,39 @@
                         <div class="text">
                             <div class="text-title">
     <h1>
-                    瞎搞！炒房的开始“炒”玉米了……
+                    <span class="original-logo">原创</span>
+            <span class="title-info-title">叹为观止的德天瀑布，感叹大自然的鬼斧神工</span>
                 <span class="article-tag">
                  </span>
     </h1>
             <div class="article-info">
-        <span class="time" id="news-time" data-val="1620795360000">2021-05-12 12:56</span>
-        <span data-role="original-link">来源:<a href="http://feed.huiwen.co/rssv2/souhu_article_souhujpnews_984d1ba899b54b928f2a70d34338a6eb/item/IL2NYSCSBQP7GVU.html" target="_blank">九派新闻</a></span>
+        <span class="time" id="news-time" data-val="1620986386000">2021-05-14 17:59</span>
+        <span data-role="original-link">来源:<a href="" target="_blank">刚行路上</a></span>
         
     </div>
 </div>
 <article class="article" id="mp-editor">
     <!-- 政务处理 -->
-          <p data-role="original-title" style="display:none">原标题：瞎搞！炒房的开始“炒”玉米了……</p>
-            <p><span>瞎搞！炒房的开始“炒”玉米了…… </span></p> 
-<p>近段时间，玉米价格波动较大。一位粮食经纪人告诉《瞭望》新闻周刊记者，粮价波动的背后，除了供需关系的基本因素外，投机资本介入起到了推波助澜的作用。记者调查发现，一些投机资本乘粮价波动之机囤积居奇，炒作粮价，牟取暴利，甚至有炒房资金进入粮食市场。</p> 
-<p>专家和业内人士表示，当前粮食价格已不再单纯由粮食供求关系决定，而越来越多地受到境内外投机资本影响。我国粮食市场已成为国内外投机资本追逐的对象。投机资本炒作粮价，有可能成为粮食市场的“隐形杀手”。</p> 
-<p>相对稳定的粮食价格对我国保障粮食安全很重要，应采取有效措施严防投机资本炒作粮价，持续加大监管力度，加强粮食流通监督检查，严厉查处各类违法违规行为，切实维护好粮食市场秩序。</p> 
-<p>文 |王建《瞭望》新闻周刊记者</p> 
-<p><span>1</span></p> 
-<p><span>贸易商高价抢大豆</span></p> 
-<p><span>炒房资金入市”炒“玉米</span></p> 
-<p>黑龙江省孙吴县哈屯玉米种植专业合作社去年种了2.1万亩玉米、1.5万亩大豆。去年底合作社将大豆、玉米卖给了一家贸易商。“大豆是按保值方式卖的，就是按卖后一段时间内的最高价格结算。种了这么多年地就没遇见过这种情况，贸易商都在抢大豆，收购资金非常充足。”合作社理事长王跃龙说。</p> 
-<p>据王跃龙了解，这批大豆目前并没有进入终端市场，仍然囤积在中间贸易商那里。大豆价格已经远超出市场预期。“我们卖的时候每斤两块五六毛钱，觉得已经很高了，后来每斤涨到快3块钱。”</p> 
-<p>去年新玉米上市以来，价格不断上涨，到今年3月初玉米收购价格达到最高位3080元/吨左右，此后价格一路下降，4月初创下阶段新低2730元/吨左右，一个月之内每吨玉米价格累计下跌350元，此后又出现反弹。吴立昌是黑龙江省绥化市绥棱县玉米经纪人，收购玉米10多年。他告诉记者，玉米价格大幅震荡，除了供需基本面等常规因素外，资本介入起到了推动作用。</p> 
-<p>一位粮食经纪人告诉记者，当地粮食圈的人基本上互相都熟悉，但去年开始出现一些不认识的人搞粮食贸易，甚至有炒房资金涌入市场开始“炒”玉米。</p> 
-<p>资本炒作是玉米价格上涨的原因之一。农业农村部相关负责人去年底谈到玉米价格时表示，受全球新冠肺炎疫情影响，国内外的投机资本对粮食市场炒作有升温迹象。</p> 
-<p>“阶段性供需关系改变，是玉米等粮食价格急剧变化的主要原因，但是现在粮食价格已不再简单地由粮食供求关系决定”，中国社科院农村发展研究所研究员李国祥说，近一段时间，国内外资本频繁炒作疫情、洪灾、台风、蝗灾等，一些与粮食无关的主体也进入玉米、大豆市场炒作套利。加上部分自媒体的放大效应，助推了粮食价格上涨。</p> 
-<p>多位业内人士指出，在经历了近半年的资本炒作之后，当前玉米市场金融属性变强。</p> 
-<p><span>2</span></p> 
-<p><span>投机资本扰乱粮价</span></p> 
-<p><span>农民种地风险加大</span></p> 
-<p>资本炒作带来的粮价大幅上涨，使农民种粮收益暂时得到提高，但粮食价格暴涨暴跌，波动异常，也给农民带来伤害。受粮食价格影响，今年黑龙江土地流转价格出现不同程度上涨。黑龙江省绥化市北林区兴福镇亚琴家庭农场主杨秀春本来想扩大种植规模，可今年土地流转价格每公顷上涨2000元以上，而且农资、人力成本也都在上涨。“今年秋天玉米能否有好的价格还是未知数，种地的风险大大增加。”杨秀春说。</p> 
-<p>李国祥等专家表示，粮食不像工业品，农业具有生产周期长、转型慢的特点，且农民风险承受能力普遍较差，如果农民在看涨的鼓舞下扩大种植面积，很可能在未来粮价暴跌后亏本。</p> 
-<p>中储粮系统一位负责人告诉记者，去年政策性玉米去库存基本完成，市场涨价预期比较强烈，大量投机资本进入粮食市场，放大了供需缺口，扰乱了市场秩序，导致玉米价格异常波动。黑龙江一位大豆贸易商说，在农产品期权和期货市场投机容易。目前粮食市场上有不少基金，它们有能力干扰粮食市场。</p> 
-<p>要警惕国际投机资本蠢蠢欲动。中国农业科学院农业经济与发展研究所研究员钟钰指出，从历史教训看，疫情、金融危机来袭时，正是投机资本炒作粮食的绝佳时机。巴克莱银行、高盛集团、摩根士丹利等全球粮食大宗商品交易商对此乐此不疲、驾轻就熟。</p> 
-<p>同济大学经济与管理学院教授程国强指出，2008年粮食危机实质是粮价危机，国际投机资本对少量的粮食短缺、减产预期进行大肆炒作，引发全球市场恐慌，多国采取出口限制政策，推动国际粮食市场价格全面上涨，最终引发全球粮食危机。</p> 
-<p>去年以来，受国际疫情蔓延等影响，不少国家限制了粮食出口。专家表示，国内外投机资本如果利用一些国家限制粮食出口，以及一些地区因蝗灾导致粮食减产，炒作国际粮食市场价格，那么全球出现粮价风险可能是大概率事件。</p> 
-<p><span>3</span></p> 
-<p><span>国际粮价传导作用明显</span></p> 
-<p><span>严防投机资本兴风作浪</span></p> 
-<p>相对稳定的粮食价格对我国粮食安全至关重要。受访专家表示，在我国深度融入全球一体化的大背景下，国内外农产品市场关联度日渐提升，国际粮价的传导作用越来越明显。作为世界上人口最多、粮食消费量最大的国家，我国粮食市场已成为国内外投机资本追逐的对象，须采取有效措施严防投机资本炒作粮食价格。</p> 
-<p>严防投机商囤积居奇，加强粮食流通监督检查，严厉查处各类违法违规行为。针对粮食现货市场囤积居奇、人为放大供需缺口问题，专家建议，一方面要及时公开粮食市场信息，持续做好预期引导，严查相关企业，严厉打击囤积居奇、恶意哄抬粮价等行为。另一方面要从调控端着手，让市场尤其是恶意囤粮者有所忌惮，持续加大监管力度，加强粮食流通监督检查，严厉查处各类违法违规行为，切实维护好市场秩序。</p> 
-<p>从资金源头出发，遏制投机资金介入。专家建议，从源头上抑制第三方资本利用低息资金对玉米、大豆现货以及期货市场进行炒作。尤其要加强境外资金监管，警惕国际投机资本借机炒作粮价。</p> 
-<p>重视后期可能出现的相关风险，及早谋划应对策略。程国强建议，处理好输入性粮食不稳定预期和风险，谨防市场恐慌、抢粮囤粮；抓紧补齐重要农产品供给保障短板，完善重要农产品储备体系，建立高效安全可控的农产品应急供应保障网络；强化农产品全球供应链管理，进一步提高大豆等大宗进口农产品风险管理能力，把风险防控在前端。</p> 
-<p>严厉打击自媒体“断章取义，恶意炒作”。玉米、大豆带上金融属性之后，国内自媒体包括一些短视频平台被资本运作方充分利用——向市场传导不实信息，散布虚假粮价，恶意炒作供需缺口，扰乱市场，以此牟取暴利。针对此种情形，专家建议，加强自媒体监管，严惩违规传播不实信息者。<a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="点击进入搜狐首页" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>返回搜狐，查看更多</span></a></p>      <!-- 政务账号添加来源标示处理 -->
+          <p data-role="original-title" style="display:none">原标题：叹为观止的德天瀑布，感叹大自然的鬼斧神工</p>
+            <p>距离花千骨的播出已经过去好几个暑假了，现在想起依旧特别的怀念那一年熬夜追《花千骨》，怀念剧情和剧里最爱的角色，还怀念里面清秀幽丽、如梦如幻的“仙界”。而剧中的长留仙境的场景就在眼前，不知道大伙现在还有没有印象？</p> 
+<p class="ql-align-center"><img src="https://p5.itc.cn/images01/20210514/b956617973d946afba9b3cde698de06c.jpeg" max-width="600" /></p> 
+<p>德天瀑布位于广西壮族自治区崇左市大新县硕大新县归春河上游，距中越边境53号界碑约50米。与紧邻的越南板约瀑布相连，是亚洲第一、世界第四大跨国瀑布，为中国国家5A级旅游景区 。 也是东南亚最大的天然瀑布，被国家定为特级景点。它与越南的板约瀑布连为一体，就像一对亲密的姐妹，携手而立。</p> 
+<p class="ql-align-center"><img src="https://p3.itc.cn/images01/20210514/641c783ab1d742d48aa7ff79656434c6.jpeg" max-width="600" /></p> 
+<p>为了更好地欣赏瀑布，景区修建了一处观瀑台，自然清新的气息扑面而来，不仅能欣赏到雄伟壮观的瀑布以及周围风光旖旎的自然景色，还能领略浓郁的边民风情。</p> 
+<p class="ql-align-center"><img src="https://p3.itc.cn/images01/20210514/e6b3a5ba8a5e4441ba9d1bdd2bd41cb3.jpeg" max-width="600" /></p> 
+<p>急剧的江水冲出悬崖上的浓翠蔽日的树丛，从高达60余米的山崖上咆哮而下，撞击着层层的坚石，水花四溅。阵阵微风吹过，水雾迷朦，像下着蒙蒙细雨；在阳光的照耀下五彩缤纷。</p> 
+<p class="ql-align-center"><img src="https://p2.itc.cn/images01/20210514/c6265424cc944e87905f9117c4f16400.jpeg" max-width="600" /></p> 
+<p>远望似缟绢垂天，近观如飞珠溅玉，能体会到诗中所描述的那种“飞流直下三千尺，疑似银河落九天”的真实景象，气势磅礴、蔚为壮观。</p> 
+<p class="ql-align-center"><img src="https://p0.itc.cn/images01/20210514/0671f91d02bd4438a0255f817912bfa6.jpeg" max-width="600" /></p> 
+<p>溅起的小水珠随风飘散，散落在脸颊上，宛如置身朦胧烟雨中，顿时，一股清凉的感觉激荡着心扉，凉丝丝的，好舒服！</p> 
+<p class="ql-align-center"><img src="https://p7.itc.cn/images01/20210514/1a9a9fccc0f640f5a9e7ee2c90a5e7b5.jpeg" max-width="600" /></p> 
+<p>既然来到德天瀑布，建议一定要乘竹筏驶向瀑布，能正面地欣赏到瀑布，更近距离的体验瀑布的魅力，感受瀑布带来的波澜壮阔气息。</p> 
+<p class="ql-align-center"><img src="https://p8.itc.cn/images01/20210514/0d4b4fda41be4add90ba31c293226e56.jpeg" max-width="600" /></p> 
+<p>青草树木的清香，声声虫鸣，瀑布潺潺流水，萦绕在耳边，就像千军马万向你靠近，振荡河谷，在天地间回荡。</p> 
+<p class="ql-align-center"><img src="https://p0.itc.cn/images01/20210514/8fb9df68297546289c9a4aa60d72714e.jpeg" max-width="600" /></p> 
+<p>白色水幕下面是清澈的潭水，河面水流平缓，碧波荡漾，清澈见底，仿佛像是一面明镜。</p> 
+<p class="ql-align-center"><img src="https://p0.itc.cn/images01/20210514/2653a3e6bb0342a6b37fbcb5c8b4eaf1.jpeg" max-width="600" /></p> 
+<p>当感到身心疲惫时，来一场说走就走的旅行吧，去一个如诗般浪漫清雅的地方，让人在其中，心无旁骛，更无纤尘，如在画中游，步步是皆是景。<a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="点击进入搜狐首页" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>返回搜狐，查看更多</span></a></p>      <!-- 政务账号添加来源标示处理 -->
       <!-- 政务账号添加来源标示处理 -->
       <p data-role="editor-name">责任编辑：<span></span></p>
 </article>
@@ -321,11 +306,28 @@
 <div class="user-god clear" id="user-post" style="display:none">
 
 </div>                    <div class="comment" id="comment_area" data-spm="comment"  data-abdata="1">
-    <div id="mp-comment" sid="465973190"></div> 
+    <div id="mp-comment" sid="466439129"></div> 
 </div>                    
 <div class="groom-read">
     <div class="title"><span><em class="ln"></em>推荐阅读</span></div>
-    <!--  -->
+    <!-- <div class="groom-menu clear " id="news-recommend-nav" data-spm="hottag">
+<ul>     <li class="cur" data-id=""><a href="javascript:void(0)"><em class="dot"></em>推荐</a></li>
+               <li data-id="" data-tag-id="77530" ><a href="//search.sohu.com/?keyword=摩洛哥&queryType=outside">摩洛哥</a></li>
+                <li data-id="" data-tag-id="14336" ><a href="//search.sohu.com/?keyword=红枫湖&queryType=outside">红枫湖</a></li>
+                <li data-id="" data-tag-id="68193" ><a href="//search.sohu.com/?keyword=免签&queryType=outside">免签</a></li>
+                <li data-id="" data-tag-id="69633" ><a href="//search.sohu.com/?keyword=油菜花&queryType=outside">油菜花</a></li>
+                <li data-id="" data-tag-id="77511" ><a href="//search.sohu.com/?keyword=阿联酋&queryType=outside">阿联酋</a></li>
+                <li data-id="" data-tag-id="72707" ><a href="//search.sohu.com/?keyword=吉尔吉斯斯坦&queryType=outside">吉尔吉斯斯坦</a></li>
+                <li data-id="" data-tag-id="5420" ><a href="//search.sohu.com/?keyword=林芝&queryType=outside">林芝</a></li>
+                <li data-id="" data-tag-id="72708" ><a href="//search.sohu.com/?keyword=白俄罗斯&queryType=outside">白俄罗斯</a></li>
+                <li data-id="" data-tag-id="506" ><a href="//search.sohu.com/?keyword=西藏&queryType=outside">西藏</a></li>
+                <li data-id="" data-tag-id="70664" ><a href="//search.sohu.com/?keyword=玻璃栈道&queryType=outside">玻璃栈道</a></li>
+                <li data-id="" data-tag-id="15370" ><a href="//search.sohu.com/?keyword=爱琴海&queryType=outside">爱琴海</a></li>
+                <li data-id="" data-tag-id="14347" ><a href="//search.sohu.com/?keyword=武侯祠&queryType=outside">武侯祠</a></li>
+            
+</ul>
+</div>
+ -->
     <div class="news-list clear" id="main-news" style="min-height:1000px">
     </div>
 </div>
@@ -443,22 +445,22 @@
             <script>
 try{console.log("执行成功")
         window.sohu_mp.article({
-        channel_id: "48",
-        news_id: "465973190",
+        channel_id: "29",
+        news_id: "466439129",
         cms_id: "$mpNews.cmsId",
-        media_id: "121019331",
-        passport: "7f99412e-3129-43f2-8835-01dae553e8c2",
-        weboUrl: "https://mp.sohu.com/profile?xpt=N2Y5OTQxMmUtMzEyOS00M2YyLTg4MzUtMDFkYWU1NTNlOGMy",
-        title: "瞎搞！炒房的开始“炒”玉米了……",
-        channel_url:"/c/48",
-        categoryId:"-1",
+        media_id: "289742",
+        passport: "1464920000@sina.sohu.com",
+        weboUrl: "https://mp.sohu.com/profile?xpt=MTQ2NDkyMDAwMEBzaW5hLnNvaHUuY29t",
+        title: "叹为观止的德天瀑布，感叹大自然的鬼斧神工",
+        channel_url:"//travel.sohu.com",
+        categoryId:"1446",
         //abData_fd用于abtest
         abData:"{}",
         abData_fd:"",
         abData_tw:"",
         rightNewStyle: "0",
         originalId:"$mpNews.originalId",
-        originalStatus:"0",
+        originalStatus:"1",
         hasVoteInfo: "false",
         isBaiDuAd: "",
         isPure: "${pure}",

@@ -75,10 +75,10 @@ public class FileOperationUtil {
         String line;
         int i = 1;
         while ((line = br.readLine()) != null) {
-            if ((i++) % 6 != 0) {
+            if ((i++) % 4 != 0) {
                 feature_txt.append(line).append("\t\t");
             } else {
-                feature_txt.append(line).append("\n\n");
+                feature_txt.append(line).append("\n");
             }
         }
         br.close();

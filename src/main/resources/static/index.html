@@ -1,39 +1,106 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <title>基于预分类的高效SVM网页分类器</title>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/theme.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
 </head>
+
 <body>
-<form id="Form" method="post" enctype="multipart/form-data">
-    <div style="text-align: center">
-        基于预分类的高效SVM网页分类器
-        <hr style="size: A3"/>
+<div class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="index.html"><span class="second">基于预分类的高效<span
+                    class="first">SVM</span>网页分类器</span></a>
+        </div>
     </div>
-    <div style="text-align: left">
-        <div align="left">请输入网页url：<input id="url" name="url" type="text" style="width:250px;"/></div>
-        <div align="center">暂时可支持分类<a href="http://news.sohu.com/" target="_blank">网页</a>类型（体育、健康、军事、教育、旅游、汽车、财经）</div>
-    </div>
-    <textarea id="show" name="show" rows="28" style="width:100%;"></textarea>
-</form>
-<button name="getSourceCode" formaction="/getSource/getSourceCode">获取源码</button>
-<button name="getClearData" formaction="/getSource/getClearData">清洗数据</button>
-<button name="getWord" formaction="/getWord/getWordFrequency">中文分词</button>
-<button name="getWord" formaction="/getWord/getTopNumberWord">词频前
-    <select>
-        <option name="number" value="20" selected>20</option>
-        <option name="number" value="30">30</option>
-        <option name="number" value="40">40</option>
-        <option name="number" value="50">50</option>
-    </select>
-</button>
-<button name="getFeature" formaction="/getFeature/getFeatureWeight">特征权重</button>
-<button name="getLinearSVM" formaction="/getLinearSVM/getLinearSVMClassifier">分类结果</button>
+</div>
 
 
+<div class="container-fluid">
+    <div class="row-fluid">
+
+        <div class="span9">
+            <form id="Form" method="post" enctype="multipart/form-data" role="form">
+                <div class="form-group">
+                    <h3 class="page-title">请输入网页url: <input id="url" name="url" type="text" style="width:300px;"/></h3>
+                    <div class="row-fluid">
+                        <div class="block-heading">暂时可支持分类<a
+                                href="http://news.sohu.com/" target="_blank">网页</a>类型（体育、健康、军事、教育、旅游、汽车、财经）
+                        </div>
+                        <textarea id="show" name="show" rows="26" style="width: 1100px" class="txtshow"></textarea>
+
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="span3">
+            <div class="sidebar-nav">
+                <br>
+                <br>
+                <br>
+                <button class="nav-header" style="width: 345px; text-align: left; font-size: medium"
+                        name="getSourceCode" formaction="/getSource/getSourceCode">
+                    <i class="fa fa-chevron-right"></i>
+                    获取源码
+                </button>
+                <br>
+                <br>
+                <button class="nav-header" style="width: 345px; text-align: left; font-size: medium" name="getClearData"
+                        formaction="/getSource/getClearData">
+                    <i class="fa fa-chevron-right"></i>
+                    清洗数据
+                </button>
+
+                <br>
+                <br>
+                <button class="nav-header" style="width: 345px; text-align: left; font-size: medium" name="getWord"
+                        formaction="/getWord/getWordFrequency">
+                    <i class="fa fa-chevron-right"></i>
+                    中文分词
+                </button>
+                <br>
+                <br>
+                <button class="nav-header" style="width: 345px; text-align: left; font-size: medium" name="getWord"
+                        formaction="/getWord/getTopNumberWord">
+                    <i class="fa fa-chevron-right"></i>
+                    词频前
+                </button>
+                <label>
+                    <select class="form-control">
+                        <option name="number" value="20" selected>20</option>
+                        <option name="number" value="30">30</option>
+                        <option name="number" value="40">40</option>
+                        <option name="number" value="50">50</option>
+                    </select>
+                </label>
+
+                <br>
+                <br>
+                <button class="nav-header" style="width: 345px; text-align: left; font-size: medium" name="getFeature"
+                        formaction="/getFeature/getFeatureWeight">
+                    <i class="fa fa-chevron-right"></i>
+                    特征权重
+                </button>
+                <br>
+                <br>
+                <button class="nav-header" style="width: 345px; text-align: left; font-size: medium" name="getLinearSVM"
+                        formaction="/getLinearSVM/getLinearSVMClassifier">
+                    <i class="fa fa-chevron-right"></i>
+                    分类结果
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>
 <script src="js/jquery-3.6.0.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/index.js"></script>
 </body>
 </html>
+
+
