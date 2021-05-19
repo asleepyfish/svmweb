@@ -1,543 +1,1513 @@
 <!DOCTYPE html>
-<html data-log-pv='{"mpc":29}'>
-    <head>
-        <title>叹为观止的德天瀑布，感叹大自然的鬼斧神工_新县</title>
-        <meta http-equiv="Cache-Control" content="no-transform" /> 
-<meta http-equiv="Cache-Control" content="no-siteapp" /> 
-<meta name="copyright" content="Copyright © 2017 Sohu.com Inc. All Rights Reserved." />
-<meta name="mediaid" content="刚行路上"/>
-<meta property="og:type" content="news"/>
-<meta property="og:image" content="${mpNews.image}"/>
-<meta property="og:url" content="www.sohu.com/a/466439129_289742"/>
-<meta property="og:release_date" content="2021-05-14 17:59"/>
-<meta itemprop="dateUpdate" content="2021-05-14 17:59" />
-<meta itemprop="datePublished" content="2021-05-14 17:59" />
-<link rel="canonical" href="http://www.sohu.com/a/466439129_289742"/>
-<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/466439129_289742"/>
+<html xmlns="//www.w3.org/1999/xhtml">
 
-<meta name="keywords" content="国家,新县,气息,景区,边民,纤尘,越南,大自然,瀑布,那一年,观点评论,归春河,德天瀑布,板约瀑布,越南,瀑布" />
-<meta name="description" content="它与越南的板约瀑布连为一体，就像一对亲密的姐妹，携手而立。 为了更好地欣赏瀑布，景区修建了一处观瀑台，自然清新的气息扑面而来，不仅能欣赏到雄伟壮观的瀑布以及周围风光旖旎的自然景色，还能领略浓郁的边民风…" />
-<meta property="og:description" content="它与越南的板约瀑布连为一体，就像一对亲密的姐妹，携手而立。 为了更好地欣赏瀑布，景区修建了一处观瀑台，自然清新的气息扑面而来，不仅能欣赏到雄伟壮观的瀑布以及周围风光旖旎的自然景色，还能领略浓郁的边民风…"/>
-<meta property="og:title" content="叹为观止的德天瀑布，感叹大自然的鬼斧神工_新县"/>
-        <meta charset="utf-8"/>
-<meta name="data-spm" content="smpc">
-<meta name="renderer" content="webkit"> 
-<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
-<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1" />
-<link rel="icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"/>
-<link rel="shortcut icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"/>
-<link rel="apple-touch-icon" sizes="57x57" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-57.png" />
-<link rel="apple-touch-icon" sizes="72x72" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-72.png" />
-<link rel="apple-touch-icon" sizes="114x114" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-114.png" />
-<link rel="apple-touch-icon" sizes="144x144" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-144.png" />
-<link href="//statics.itc.cn/web/static/css/main-5ce91f2762.css" rel="stylesheet"/>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <meta name="viewport" content="width=1200, initial-scale=0.3, user-scalable=no" /> 
+	<meta name="apple-mobile-web-app-capable" content="yes" />  
+    <title>致知100人</title>
+    <meta name="author" content="" />
+    <meta name="keywords"  content="致知100人" />
+    <meta name="description" content="致知100人" />
+   
+    <meta name="Resource-type" content="Document" />
+    <meta name="robots" content="all" />
+	<script type="text/javascript" src="//js.sohu.com/library/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="//js.sohu.com/focus/mdcfocus.min.js"></script>
+	<script src="//m1.auto.itc.cn/auto/content/20195g/20195g/js/swiper.min.js"></script>
+
+<link type="text/css" rel="stylesheet" href="//css.sohu.com/upload/global1.4.1.css" />
+<link type="text/css" rel="stylesheet" href="//news.sohu.com/upload/yursile/kywrj3/css/index.css">
+<link rel="stylesheet" href="//m1.auto.itc.cn/auto/content/20195g/20195g/css/swiper.min.css">
+
+
+<style>
+	body{ background: url(//m1.auto.itc.cn/auto/content/20190905/b26e87b7d726be36d2f915ffbe8cfe81.png) top center no-repeat #fff;}
+	html, body {font-family:"PingFang SC",Arial,"\5FAE\8F6F\96C5\9ED1","\5B8B\4F53",simsun,sans-serif }
+	.area,#foot{width:1200px; margin:0 auto}
+	.head{ height:710px; text-align:left;}	
+	#foot{ padding-top:20px; background:#282828; color:#fff; width:100%;}
+	
+	.video_wrapper{margin-top:0;padding-top:0; background:#f0f0f2}
+	.play_item.playing,.play_item{background:#f0f0f2}
+	.play_item.playing{ color:#ff0000;}
+	.play_item.playing span{ background:url(//m2.auto.itc.cn/auto/content/20190620/be68e3cbc0176a45734e90caf554936a.png)}
+	.play_item:hover{	background: #f5f5f5;}
+	.play_list{overflow-x:hidden}
+	.play_item p{text-indent:0;padding-left:10px;width:290px;padding-top:22px;}
+	.play_item{height:100px; line-height:24px;}
+	
+	.cutA{ padding:40px 0;margin-top:20px; width:100%;}
+	.topA{ background:url(//m2.auto.itc.cn/auto/content/20190620/f29e60cf4f2a1c5d1d96d98b4d9c91f6.png); margin:20px auto; width:762px; height:61px; text-align:center; line-height:61px; font-size:32px; color:#d02020 }
+	.cutA li{margin-top:20px; width:280px; height:390px; margin-right:20px; background:#f2f2f2;float:left; position: relative;}
+	.cutA li:nth-child(4n){ margin-right:0;}
+
+	.cutA h3{ font-size:16px; line-height:24px; color:#000; margin:0 10px;height:72px;}
+	.cutA p{ font-size:14px; line-height:24px;  color:#333; margin:0 10px;padding-top:10px;}
+	.cutA a:hover{text-decoration : none}
+	.cutA img{width:280px; height:180px;}
+	
+	.topB{ background:url(//m3.auto.itc.cn/auto/content/20190620/4bed686e1abca7277f433165b7255949.png); margin:20px auto; width:762px; height:61px; text-align:center; line-height:61px; font-size:32px; color:#fff }
+	.topB a{color:#fff}
+#certify {
+	position: relative;
+	width: 1200px;
+	margin: 0 auto
+}
+
+#certify .swiper-container {
+	padding-bottom: 60px;
+}
+
+#certify  .swiper-slide {
+	width: 520px;
+	height: 408px;
+	background: #fff;
+	box-shadow: 0 8px 30px #ddd;
+}
+#certify  .swiper-slide img{
+	display:block;
+}
+#certify  .swiper-slide p {
+	line-height: 98px;
+	padding-top: 0;
+	text-align: center;
+	color: #636363;
+	font-size: 1.1em;
+	margin: 0;
+}
+
+#certify .swiper-pagination {
+	width: 100%;
+	bottom: 20px;
+}
+
+#certify .swiper-pagination-bullets .swiper-pagination-bullet {
+	margin: 0 5px;
+	border: 3px solid #fff;
+	background-color: #d5d5d5;
+	width: 10px;
+	height: 10px;
+	opacity: 1;
+}
+
+#certify .swiper-pagination-bullets .swiper-pagination-bullet-active {
+	border: 3px solid #00aadc;
+	background-color: #fff;
+}
+
+#certify .swiper-button-prev {
+	left: -30px;
+	width: 45px;
+	height: 45px;
+	background: url(//m1.auto.itc.cn/auto/content/20190620/17196528ac5abedadbd45b774688b64d.png) no-repeat;
+	background-position: 0 0;
+	background-size: 100%;
+}
+
+#certify .swiper-button-prev:hover {
+	background-position: 0 -46px;
+	background-size: 100%
+}
+
+#certify .swiper-button-next {
+	right: -30px;
+	width: 45px;
+	height: 45px;
+	background: url(//m1.auto.itc.cn/auto/content/20190620/17196528ac5abedadbd45b774688b64d.png) no-repeat;
+	background-position: 0 -93px;
+	background-size: 100%;
+}
+
+#certify .swiper-button-next:hover {
+	background-position: 0 -139px;
+	background-size: 100%
+}
+</style>
+
+</head><body>
+<div class="area head"></div>
+
+
+<!-- 视频区域开始 -->
+
+<div class="shortlist area">
+		
+		<div class="video_wrapper" id="video1">
+			<div class="video_box">
+				<div class="video_player"></div>	
+				<div class="play_list">
+					<ul>
+						<li><a href="javascript:void(3)" data-play="257100180" class="play_item playing">
+								<p>戴璞：能源、化工和加工产业将面临巨大困难，未来50年有些产业会永远消失在人们的视野中</p>
+								<span></span>
+							</a>
+						<li><a href="javascript:void(1)" data-play="257100181" class="play_item">
+								<p>戴璞：未来氢气将代替天然气，有不错的投资前景</p>
+								<span></span>
+							</a>
+						<li><a href="javascript:void(2)" data-play="257100297" class="play_item">
+								<p>戴璞：碳中和风向会给可再生能源投资人带来巨大利益，节能公司在未来20年将有爆炸性成长</p>
+								<span></span>
+						
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<script src="//js.tv.itc.cn/m/player/inc-all.js"></script>
+
+	<script type="text/javascript">
+	   	players = {};
+	    var stopOther = function(k){
+
+	        for (var i in players){
+	            if(k !==i){
+	                players[i].pause();
+	            }
+	        }
+	    }
+
+	    $(".video_wrapper").each(function(i,v){
+	        var replayId = $(v).find(".playing").data("play");
+
+	        var playerId = $(v).attr("id")
+	        var selector = '#'+playerId +' .video_player';
+
+	        players[playerId] = playerFactory.createPlayer(selector, {
+	            data: {
+	              vid: replayId, //视频ID
+	              site: 1        //vrs 1, ugc/pgc 2
+	            },
+	            autoplay: false,
+	            appid: 'msohu',   // tv news msohu
+	        });
+	        players[playerId].on("play",function(){
+	            stopOther(playerId)
+	        })
+	       
+
+	        $(v).find(".play_list").delegate(".play_item","click",function(){
+	            var id = $(this).data("play");
+	            // var selector = '#'+$(v).attr("id") +' .video_player';
+
+	            players[playerId] = playerFactory.createPlayer(selector, {
+	                data: {
+	                  vid: id, //视频ID
+	                  site: 1        //vrs 1, ugc/pgc 2
+	                },
+	                autoplay: true,
+	                appid: 'msohu',   // tv news msohu
+	            });
+
+                    $(v).find(".playing").removeClass("playing");
+	            $(this).addClass("playing");
+
+	            players[playerId].on("play",function(){
+	                stopOther(playerId)
+	            })
+	        });
+
+	    });
+
+
+	   
+	</script>
+
+<!-- 视频区域结束 -->
+
+
+<!-- 文章区开始 -->
+<div class="cutA">
+<div class="area">
+	
+	<div class="topB"><a href="https://www.sohu.com/a/457077865_100160903" target="_blank">访谈实录</a></div>
+	
+	<ul>
+	
+	<li>
+	<a href="https://www.sohu.com/a/467050017_100299860" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20210518/5da93c840e0215fb615f566e64af389e.jpg">
+	<span></span>
+	<h3>对话阿斯利康王磊：医药电商发展前景广阔，互联网医疗服务与产品的消费潜力巨大 | “致知100人”120期</h3>
+	<p>后疫情时代，互联网医院、医药电商等互联网医疗服务已深植大众日常，而且需求猛增。随着5G、AI等高科技与医疗服务的进一步融合，由互联网医疗带动的医疗服务和产品消费潜力不可小觑。</p>
+	</a>
+	</li>
+	
+	<li>
+	<a href="https://www.sohu.com/a/465933042_100299860" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20210512/b9dca4aa7b3e27b2bff14507514b2c60.jpg">
+	<span></span>
+	<h3>对话罗兰贝格全球联席总裁戴璞：节能、医药、养老、氢能将是未来高景气行业  | “致知100人”119期</h3>
+	<p>在全球碳中和的趋势下，未来50年，一些产业将迎来翻天覆地的变化，而另一些产业，将永远消失在人们的视野中。</p>
+	</a>
+	</li>
+		
+	<li>
+	<a href="https://www.sohu.com/a/463988722_100299860" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20210510/306a17f7ac6ceea658d5ff8fd67f75db.jpg">
+	<span></span>
+	<h3>对话郑永刚：收购LG偏光片是我最后一次创业，杉杉股份跨界显示材料  | “致知100人”118期</h3>
+	<p>目前，LCD 偏光片全球市场规模超过百亿美元，杉金进入之后，中国企业的市场份额，将从不到10%提升到45%以上，这一核心材料供应的稳定性和安全性将得到绝对保障，为中国显示产业保驾护航。</p>
+	</a>
+	</li>
+		
+	<li>
+	<a href="https://www.sohu.com/a/463650498_100299860" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20210430/e74b71d8b7277b420e8adc51a3ce5988.jpg">
+	<span></span>
+	<h3>对话张晓燕：数字货币便捷安全性更高，没有网络也可以完成支付  | “致知100人”117期</h3>
+	<p>数字货币的本质是钱，它与支付平台其实是钱和钱包的关系，数字货币的发行并不会取代支付平台。相反将有利于促进支付平台产业构建更加公平开放的环境。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/463447274_100299860" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20210428/f089abe67cc5effaa254bf36a6ac391c.jpg">
+	<span></span>
+	<h3>对话钱建农：旅游业已复苏，中国文旅产业急需资本、品牌和人才   | “致知100人”116期</h3>
+	<p>中国的文旅产业目前最缺乏三个要素，分别是资本、人才和品牌，如何让金融与文旅融合是下一步需要探讨的问题。</p>
+	</a>
+	</li>	
+	
+	<li>
+	<a href="https://www.sohu.com/a/462298819_100299860" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20210427/52c96b9b0b40b10c9517a8b6f5b66695.jpg">
+	<span></span>
+	<h3>对话杨壮：企业里过度加班毫无意义，要通过防范大企业垄断给予创业者生存空间  | “致知100人”115期</h3>
+	<p>有些企业出去有点是为了扩展市场，有些是为了增加盈利，有些是增强品牌影响力和知名度。有些企业战略比较清晰，比如福耀玻璃。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/457077865_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20210326/0836e57a9c2d56ee43b59f52fc03320f.jpg">
+	<span></span>
+	<h3>对话苏剑：户籍改革应将户籍与产权分开，农民现有产权不该因其户籍变动受影响 | “致知100人”114期</h3>
+	<p>户籍管理制度应把户籍和产权分开，农民现有的土地承包权或者还有其他权利，也不该因其户籍变动而受到影响，这是户籍管理制度接下来要改革的方向。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/455993307_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20210317/e27a2beb32830a8f56fa13669b0a27d1.jpg">
+	<span></span>
+	<h3>对话诺奖得主斯宾塞：居民债务率低是中国优势，没什么能阻碍中国成高收入国家 | “致知100人”113期</h3>
+	<p>中国的总体债务率与美国大体相同，但居民债务率比较低，这是优势。中国的债务风险集中在企业层面，尤其是民营企业层面。中国不会陷入中等收入陷阱，中美之间不应该秉承零和的发展理念。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/455171516_100160903?spm=smpc.author.fd-d.2.1615519388322B1meE1J" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20210312/d9c08c438f37537d60011be7481607ee.jpg">
+	<span></span>
+	<h3>对话潘家华：光植树造林不能实现碳中和，能源革命和生产零碳才是根结所在 | “致知100人”112期</h3>
+	<p>顺应全球净零碳的潮流涌动，在碳中和导向下，企业产品和原材料的碳含量指标将成为与成本、质量和服务同等重要的竞争要素。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/454841104_100160903?spm=smpc.author.fd-d.1.1615348036832NPnj293" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20210310/513fca05cd78e2ad5caa1723b2a704cc.jpg">
+	<span></span>
+	<h3>对话陆铭：人口在国家内部自由流动是户籍制度改革的目标 | “致知100人”111期</h3>
+	<p>积分制改革方向要降低教育的权重，提高长期居住和社保缴纳年限的权重。另外还应考虑，当没有获得户籍时，是否可以优先让子女获得教育等基本公共服务。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/453740540_100160903?spm=smpc.author.fd-d.5.1614830682629iLQgfgW" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20210304/35ae21dd1e663746651319c76afb0457.jpg">
+	<span></span>
+	<h3>对话马晓河：我国将在2025年跨进高收入国家门槛，中等收入者有望超6亿 | “致知100人”110期</h3>
+	<p>下一步我们要向高收入国家迈进，建立一个以中等收入群体为主的橄榄型社会，要让大面积的中低收入人群改变身份，变成中等收入人群。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/451607795_100160903?spm=smpc.author.fd-d.2.1613985854167ocmYQPb" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20210222/43657a41462d34be8b4709f92c0a4c98.png">
+	<span></span>
+	<h3>对话刘晓春：数字金融也是金融，不能用“白马非马”的诡辩规避监管 | “致知100人”109期</h3>
+	<p>应用技术不会改变金融业务的逻辑，不能用“白马非马”的诡辩方式来偷换概念，是金融就要接受监管。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/449251458_100160903?scm=1004.759017973150318592.0.0.0&spm=smpc.ch15.r-tw-1.1.1612852337702rGUM0Vr" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20210209/104fff256b35580b786695bb093d24fa.jpg">
+	<span></span>
+	<h3>对话许善达：应优先将万亿留抵税款改成退税，为我国高科技企业减负 | “致知100人”108期</h3>
+	<p>要发专项国债退还留抵税款，减轻高科技重资产企业负担。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/447303569_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20210128/a0104ec06f3413cbee5d139ad9add5c1.jpg">
+	<span></span>
+	<h3>对话周黎安：GDP是相当包容性的发展概念，未来一段时间内还应保留该增长目标 | “致知100人”107期</h3>
+	<p>不存在一套现成或外生的市场经济体制，这既不符合逻辑，也不符合现实。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/445862073_100160903?spm=smpc.author.fd-d.3.16112807588707DPIFRz" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20210122/370f86a9843f8ee30df0551a6b0df70a.png">
+	<span></span>
+	<h3>对话刘尚希：征收房产税弥补赤字“远水解不了近渴” | “致知100人”106期</h3>
+	<p>财政赤字缺口应该通过发行国债等方式弥补。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/442564168_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20210105/e0e1a646a1c3af620aa2f266a5919e7b.jpg">
+	<span></span>
+	<h3>对话郑新立：到政府履行“养老靠国家”承诺的时候了 | “致知100人”105期</h3>
+	<p>如果“十四五”期间改革到位，尤其是农村土地制度改革迈出实质性进展，那么该阶段我国经济增速可达到6%以上。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/441396746_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20201231/4f2175f6155e585a17950fb9072b52f3.jpg">
+	<span></span>
+	<h3>对话吴晓灵：在经济没有完全恢复的情况下，牛市会使资金脱实向虚 | “致知100人”104期</h3>
+	<p>发展资本市场和是否牛市没有必然关系。如果市场认购需求旺盛，价格自然会变高。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/441138463_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20201229/c4af432fb643c46b2554fe92fa13174c.jpg">
+	<span></span>
+	<h3>对话阎学通：美国还没走向绝对衰落，10年内被超越的可能性极小 | “致知100人”103期</h3>
+	<p>中美两极格局会在今后十年内变得更加凸显，中美战略竞争的最主要战场将可能是网络空间。霸权的兴衰是必然的规律，中美之间发生直接战争或代理人战争的可能性较小。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/439721488_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20201222/fe6eff60dd41027f803a9bf7cd12b70f.jpg">
+	<span></span>
+	<h3>对话何亚非：全球自由贸易方向不能变，中日要尽快谈成自贸区 | “致知100人”102期</h3>
+	<p>RCEP每年可为世界创造2090亿美元的收入，到2030年，对世界贸易的贡献可以达到5000亿美元。RCEP使劳动更加细化，降低了所有的制度成本和沟通成本，为世界各国带来更大的财富。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/438991871_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20201218/933b2d0407f6664f725ab4bc966d9dc6.jpg">
+	<span></span>
+	<h3>对话黄群慧：四季度经济增速将达6%，未来5年潜在增速年均5% | “致知100人”101期</h3>
+	<p>新冠疫情导致的社会经济环境巨变，将成为促进技术创新、制度创新的新机遇，并极大推动新产业、新业态和新模式发展。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/438376396_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20201215/48b2c347c81d1c56b20c5ef08d1fe8c2.jpg">
+	<span></span>
+	<h3>对话刘元春：农村土地应实现资本化，使农民工带着资本进城 | “致知100人”100期</h3>
+	<p>广大农民，特别是农民工能够带着资本进城，能够在这种确权和资本化的过程中完成财富再分配，从而使低收入阶层的财产有所提升，进而实现共同富裕，这很重要。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/436952847_100160903?spm=smpc.author.fd-d.1.1607406127728g2VRvyy" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20201208/f6318606c5b862753b6e99ba6b92ba43.jpg">
+	<span></span>
+	<h3>对话金刻羽：全球不会出现通货膨胀，中国应建立更庞大债市 | “致知100人”99期</h3>
+	<p>财政赤字货币化不会给中国造成很严重的后果，征收房地产税并不能解决房价高的问题。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/435553129_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20201201/db51fe4ed58aa5024148796ae4ad42ea.jpg">
+	<span></span>
+	<h3>对话洪灏：美国通胀预期已经起来了，人民币未来会保持升值 | “致知100人”98期</h3>
+	<p>有些人觉得美国从2009年开始实行大规模的量化宽松政策， 10年间力度一直不断，但却没有看到美国经济通胀，所以美国现在也不会有通胀，这样的看法是有失偏颇的。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/434764105_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20201127/ba52ecc2b121d5e2600603a2b6867946.jpg">
+	<span></span>
+	<h3>对话贾康：中国尚无开征遗产税的条件，税收资金应更多扶持弱势群体 | “致知100人”97期</h3>
+	<p>当前中国还不具备开征遗产税的条件。遗产税征收的前提是所有的家庭要对政府报告自己的财产情况，公众要认可家庭成员接受遗产赠予税的调节。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/432399726_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20201117/bf5c5d180bb5819f9f401d99aca9b13a.jpg">
+	<span></span>
+	<h3>对话王逸舟：世界正处于大分化时代，但全球化并未终结 | “致知100人”96期</h3>
+	<p>全球化的新周期还会到来，无论是从体制层面、观念层面还是技术层面，我们都可以看到这个过程。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/430804550_100160903?spm=smpc.author.fd-d.1.1604979178411r6bOI1V" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20201110/af41dabbe20636c645c7d99ec45df28a.jpg">
+	<span></span>
+	<h3>对话吴晓求：注册制改革后要高度重视并购重组，监管重心要由IPO转向透明度的监管 | “致知100人”95期</h3>
+	<p>中国资本市场未来的战略目标，就是构建全球新的国际金融中心。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/427811562_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20201104/26dbad2841191b86c3c3f97f0c7397d5.jpg">
+	<span></span>
+	<h3>对话清华副校长杨斌：企业要坚定方向不投机求巧，中国企业家可学习校长式领导 | “致知100人”94期</h3>
+	<p>领导力是一个高度情境化的概念，不存在放之四海而皆准的领导风格。不管是更有统驭能力的，还是更有服务性的仆人式领导力，都有它适应情境的问题。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/429144767_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20201103/94f3602876a8fffd2a786b7124902043.jpg">
+	<span></span>
+	<h3>对话张立群：今年内涝暴露城市基建短板，“十四五”规划要特别重视面向长远补短板 | “致知100人”93期</h3>
+	<p>从政府和市场的分工来看，像基础设施、公共服务、生态环保设施的建设，政府是责无旁贷的，而这个方面我们这个短板还是非常多的。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/427540413_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20201027/94b02c45b14548a351155d4aa50cec44.jpg">
+	<span></span>
+	<h3>对话刘国恩：互联网可以更好消除城乡之间的医疗水平差异 | “致知100人”92期</h3>
+	<p>新冠疫苗是具有很强外部性的产品。所谓外部性，就是一个人的感染风险高，不仅影响自己，也影响他人。疫苗的使用和有效保护，不仅有利于自己，也在惠及他人。</p>
+	</a>
+	</li>
+		
+	<li>
+	<a href="https://www.sohu.com/a/425779899_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20201020/5bbf81bd6c3dd2dc2f972173efb366d7.jpg">
+	<span></span>
+	<h3>对话郑志杰：新冠未来可能像流感一样寻常，企业家应在防疫中发挥更大作用 | “致知100人”91期</h3>
+	<p>即使新冠病毒继续蔓延，但希望新冠病毒最终能像流感一样平常。这是最好的结果。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/424042663_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20201012/072f7a28fabac5a2d1c7c7b47dbb03a3.jpg">
+	<span></span>
+	<h3>对话贺铿：明年中国经济增速将达8%，要给民企进一步吃定心丸 | “致知100人”90期</h3>
+	<p>逆中国化不可能真正发生。中国潜力巨大，任何一个国家都不会放弃中国市场。中国经济增速在三季度能达到3%、4%，至四季度能恢复到原有水平，沿着6%左右的速度向前跑。</p>
+	</a>
+	</li>	
+	
+	<li>
+	<a href="https://www.sohu.com/a/417712365_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20200911/822565562a7b5d3fc8b7b9b63bb29a26.jpg">
+	<span></span>
+	<h3>对话王小鲁：保障房建设是当务之急，每年应提供不低于1000万套保障房 | “致知100人”89期</h3>
+	<p>住房困难是民生短板的重要方面。目前大城市房价畸高，中低收入群体面临极大的压力，保障房建设理应成为当前城镇化建设中一项重要工作。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/415871647_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20200901/a52aa9f0ebe017c6b5d6466542406e72.jpg">
+	<span></span>
+	<h3>对话周延礼：金融开放有利中国保险业发展，预计未来我国将成全球最大保险市场 | “致知100人”88期</h3>
+	<p>未来两年，中国将是全球寿险和非寿险保费的增长最大贡献者。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/414643560_100160903?spm=smpc.author.fd-d.1.1598257699569QR6aQus" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20200824/e4221d6653812696d1ac98a154620f65.jpg">
+	<span></span>
+	<h3>对话霍建国：产业化链去中国化不现实，我国肯定将继续维持全球制造业中心的地位 | “致知100人”87期</h3>
+	<p>中国需要适应当前的国际竞争的新格局，继续融入全球经济体系，把握机会，逐步发挥影响力。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/414191300_100160903?spm=smpc.author.fd-d.1.1597981944762mrkkxW5" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20200821/cd53694dd0b8147ff53a28adae8b234a.jpg">
+	<span></span>
+	<h3>对话魏后凯：农民进城落户意愿下降到30%，2025年前城市户籍可全部放开 | “致知100人”86期</h3>
+	<p>按照每年减贫一千多万的速度，到2020年底实现农村贫困人口脱贫的目标是有把握的。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/413819132_100160903?spm=smpc.author.fd-d.1.1597802716783QTdyMaj" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20200819/a9e89b052c4d0dcf0c40e0522f19abbc.jpg">
+	<span></span>
+	<h3>对话余永定：今年经济增长应实现2.5%，实行创纪录扩张性财政政策完全正确 | “致知100人”85期</h3>
+	<p>政府在2020年执行创纪录的扩张性财政政策是完全正确的。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/411390233_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20200804/9bbc06114dfd716bfefa8eef42c3fd03.jpg">
+	<span></span>
+	<h3>对话毛振华：中国有机会迎来“错峰发展”机遇，促消费要提高工薪阶层收入 | “致知100人”84期</h3>
+	<p>应该向全体居民等额发放消费券，不必区分贫富。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/406573665_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20200709/d8a653c3854ae33327e184fef50c5c85.jpg">
+	<span></span>
+	<h3>对话魏杰：给城里人发补贴没有意义，要发就给农民工发 | “致知100人”83期</h3>
+	<p>消费需求暂时是起不来的，其恢复需要一个过程。所以我一再强调，刺激消费不行，需要依靠投资。投资起不来，消费就起不来。我不太赞成有人总建议发消费券，这是不起作用的。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/405957185_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20200706/49ed84c01e1093c269401bd2696181da.jpg">
+	<span></span>
+	<h3>对话薛澜：防疫应平衡公共安全和个人隐私，使用个人数据须在合理范围内 | “致知100人”82期</h3>
+	<p>对于数据的收集应当局限在公共安全和个人隐私侵犯之间合理的平衡范围内，不能以安全的名义扩大对个人隐私的侵犯。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/404905921_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20200630/4dbace339ffe55937236ab1bcbeee163.jpg">
+	<span></span>
+	<h3>对话张建宏：企业不应盲目做大规模，实现利润第一才是硬功夫 | “致知100人”81期</h3>
+	<p>企业的真正竞争力不在于某一产品，而在于完整的产业链。只有这样，企业才能经得起市场价格波动和技术升级所带来的冲击。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/404700798_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20200629/9e3d9d3527ce15268c930253f0a0bbb2.jpg">
+	<span></span>
+	<h3>对话白重恩：最好的产业政策是改善营商环境，不是向企业直接提供资源 | “致知100人”80期</h3>
+	<p>改善营商环境不是一蹴而就的，需要更好的顶层设计。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/403502249_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20200623/d314d9571a66a0be56112e5532ecf6a7.jpg">
+	<span></span>
+	<h3>对话秦虹：城市更新要注重盘活存量，从土地红利转向效率红利 | “致知100人”79期</h3>
+	<p>城市更新是保持大城市持续有竞争力和活力的重要手段之一。但城市更新不能为更新而更新，一定要是为了城市发展而更新，除了经济效益外，还要格外重视社会效益、社会公平。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/402595314_100160903?spm=smpc.author.fd-d-372783.1.1592452007338fncXM4d" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20200618/f12783fbf84f00fc3f5bee461e4c173a.jpg">
+	<span></span>
+	<h3>对话毛基业：数字经济时代企业被重构，替代趋势从蓝领转向白领 | “致知100人”78期</h3>
+	<p>所有的行业，所有的产业，所有的组织，一个一个地都会被数字技术重构，这是一个历史的必然。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/402253628_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20200617/3cd3049f3f96a9be6d6117c422ea15f2.jpg">
+	<span></span>
+	<h3>对话李实：房产增值造成财富差距扩大，开征房地产税不应增加总税负 | “致知100人”77期</h3>
+	<p>房产本身是推动财产差距扩大的一个很重要的原因。房价的上升导致了财产的重新分配，同时也导致了有房者和无房者之间的财产差距的扩大。如果开征房地产税，很多人是承受不起的。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/400648027_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20200609/49cc968259d0d471e816937d7dcfecaa.jpg">
+	<span></span>
+	<h3>对话何帆：全球化的黄金时代已一去不复返，要适当保护本国经济 | “致知100人”76期</h3>
+	<p>我们以为只有越来越对外开放，经济才会变得更加强大。但这个观念不完全正确。有时适当地退回来保护本国经济，才能对全球化形成缓冲，然后才能在未来发展得更快。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/399277712_100160903?spm=smpc.author.fd-d.9.1591336156185sRWGGsd" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20200605/a0e7e70bd1b52d456b4c3a5dc636ffd7.jpg">
+	<span></span>
+	<h3>对话张中祥：疫情加剧全球产业链区域化本地化，越南等国制造业正在加速追赶中国 | “致知100人”75期</h3>
+	<p>疫情加剧了各国的不信任度和脱钩，大家会对产业链政策做出调整，但全面脱钩的成本不是所有国家都能承受的。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/399652824_100160903?spm=smpc.author.fd-d.1.1591256025901cztjX9h" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20200604/cb2f20f9a7b58b3956a90123636341c7.jpg">
+	<span></span>
+	<h3>对话汤敏：低收入人群手里不是没有钱，企业要制造让他们买得起的产品 | “致知100人”74期</h3>
+	<p>不能说光为就业而就业，把产业做出来，才有就业。目前解决就业问题，一个最根本的出路，就是把潜在的市场开发出来。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/399279756_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20200603/f7ca596bb7fdf7637b4a13a54fb8b7a7.jpg">
+	<span></span>
+	<h3>对话董克用：养老金改革的关键是打破省际边界、做到全国统筹 | “致知100人”73期</h3>
+	<p>未来改革第一支柱的关键是全国统筹，打破以省划分的办法。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/398974061_100160903?spm=smpc.author.fd-d.2.1590993146827LcgVLan" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20200601/0a125ad21a3e04cf022613c919b07c6b.jpg">
+	<span></span>
+	<h3>对话刘小兵：房地产税开征需要更广泛的讨论，不要把税当作调控地产手段 | “致知100人”72期</h3>
+	<p>税收最主要的目的是解决政府的财政收入问题，千万不要把税当做调节手段来使用。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/398280295_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20200529/c4e4848dbbae14fd029f395e231dfd44.jpg">
+	<span></span>
+	<h3>对话高培勇：疫情结束之后，回归正常的财政管理轨道 | “致知100人”71期</h3>
+	<p>面对前所未有的疫情冲击、周期性波动和结构性矛盾相叠加的经济形势，相应提高今年财政赤字率显然是必要的，也是必须的。但在疫情结束之后，还得要将3%的财政赤字率作为警戒线。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/396256211_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20200520/5331e49cf68d07cfd0cc6884797eba67.jpg">
+	<span></span>
+	<h3>对话姚洋：基层公务员也应救助，发特别国债不必担心通胀 | “致知100人”70期</h3>
+	<p>我们现在最急迫的任务是救助困难群体，最缺的是需求。现在我们面临的是通货紧缩，PPI是负的，移除猪肉价格后，CPI也是负的。因此不用担心通货膨胀，担心通货膨胀，杞人忧天吗？</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/393689701_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20200508/493c8a68c115d7271bd0076b41941596.jpg">
+	<span></span>
+	<h3>对话托马斯·皮凯蒂：疫情加剧不平等，中国要遏制财富过度集中 | “致知100人”69期</h3>
+	<p>从1990年到2020年，中国的财富集中度已经从瑞典的程度上升到美国的程度。财富过度集中反而会降低发展潜力，中国不要走加剧不平等的道路。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/391537683_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20200427/8152bb47c11c792cec95f51791b4d420.jpg">
+	<span></span>
+	<h3>对话刘守英：以中国经济转型布局下一阶段土地改革 | “致知100人”68期</h3>
+	<p>中国统一的土地权利体系，先是集体建设用地和国有建设用地打通，接着宅基地未来和集体建设用地打通，这三者互相打通以后，中国的土地权利体系和市场体系才能建起来。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/390171915_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20200423/8f78f7dfae3dc363a22912146d0bda3c.jpg">
+	<span></span>
+	<h3>对话刘克崮：普惠金融的概念有误导性，金融价格应由市场决定 | “致知100人”67期</h3>
+	<p>普惠金融监管要逐步放权，要把小微金融放给地方，要动员组织小微金融，甚至是大金融来做小业务。 </p>
+	</a>
+	</li>		
+		
+	<li>
+	<a href="https://www.sohu.com/a/389808636_100160903?spm=smpc.author.fd-d-372783.1.1587447393710qo2d6t5" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20200421/612bd20ef5112d2c559f0d3d694f6cdd.jpg">
+	<span></span>
+	<h3>对话郑元豹：企业家要有智商胆商，永不知足的企业才能越做越大 | “致知100人”66期</h3>
+	<p>人不能享受天伦之乐，就应该创造价值，为国家做贡献，为社会做贡献，这样人才能有价值。知足了肯定会出问题的，不知足的人什么都会想，企业的空间才能会越来越大。</p>
+	</a>
+	</li>		
+		
+	<li>
+	<a href="https://www.sohu.com/a/386866924_100160903?spm=smpc.author.fd-d.2.1586498938187EdqM6Il" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20200410/ff07bb0b121d0cb1d01b2dacbb9029b9.jpg">
+	<span></span>
+	<h3>对话盛斌：全球供应链断裂是最大危机，中国应主动参与制定新贸易规则 | “致知100人”65期</h3>
+	<p>随着疫情在全球蔓延，全球价值链遭到破坏，外国投资因预期盈利下降也面临大幅度减少，此次新冠肺炎疫情可能会加剧价值链“国内化”趋势。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/385245420_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20200403/2517b409409edfbab40d043973b7ab9a.jpg">
+	<span></span>
+	<h3>对话刘京京：餐饮业将大洗牌，现在是女性创业的黄金时代 | “致知100人”64期</h3>
+	<p>我希望推动餐饮业发展得更好，也希望能够帮助更多的创业者，尤其是年轻创业者和女性创业者。餐饮永远是刚需，大家一定会迎来风雨过后的彩虹。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/384790331_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20200401/ba02256d5b638b10ee55e44bc31f6dc5.jpg">
+	<span></span>
+	<h3>对话曹远征：开放金融市场，中资不会被外资打败 | “致知100人”63期</h3>
+	<p>金融服务业的放开，有利于促进品种丰富化，出现多品种的竞争体系，从而形成一个丰富有深度的金融市场。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/384413472_100160903?spm=smpc.author.fd-d-372783.9.1589943357075qF0qZ1i" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20200331/f35f6330af04d34368a4049aab4409fb.jpg">
+	<span></span>
+	<h3>对话探路者王静：户外运动企业要准备迎接疫后消费反弹 | “致知100人”62期</h3>
+	<p>和曾经的“非典”一样，这是时代对我们所有人的考验，它对于行业来说是历劫，也是一次机会，而机会只给有准备的人。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/383528761_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20200327/15c8660698fae36beb498f4a59572820.jpg">
+	<span></span>
+	<h3>对话江南春：疫情改变不了市场消费规模，头部企业将发力扩张 | “致知100人”61期</h3>
+	<p>顺势的时候，行业中可能是万马奔腾，逆境中就看谁能一马当先杀出来。所以，平时在不下雨的时候就要修屋顶。如果没有，下雨的时候应该抓紧补救。</p>
+	</a>
+	</li>		
+		
+	<li>
+	<a href="https://www.sohu.com/a/382970477_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20200325/4590c6ec4254bb0dc19e9f45c375b41d.jpg">
+	<span></span>
+	<h3>对话夏华：“利他”是创业者脱变为企业家的关键 | “致知100人”60期</h3>
+	<p>企业最重要的是播下创新的基因，在顺风顺水的时候敢于颠覆自己。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/379195216_100160903?spm=smpc.author.fd-d-372783.1.1584436597594M4LF6yD" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20200311/39fe27c6653acfde799d6df50ca7da60.jpg">
+	<span></span>
+	<h3>对话赫尔曼·西蒙：比起进世界500强，中国企业做“隐形冠军”更现实 | “致知100人”59期</h3>
+	<p>中国的市场巨大，这为发展隐形冠军企业提供了一个好的基础。 </p>
+	</a>
+	</li>		
+		
+	<li>
+	<a href="https://www.sohu.com/a/378646482_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20200309/b3e227ba76d0cd63be48af6856935c74.jpg">
+	<span></span>
+	<h3>对话徐井宏：中国创业者激情比硅谷还火热，但创业质量有待提高 | “致知100人”58期</h3>
+	<p>上市不是目标，也不是结果，做出一个不断创造价值的企业才是目标，让企业能够不断创造价值才是结果。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/377780691_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20200305/0b05ae352711f73b6cd930cd0af315f4.jpg">
+	<span></span>
+	<h3>对话史蒂夫·霍夫曼：硅谷对创业失败更宽容，中国企业家往往需要自己承担债务 | “致知100人”57期</h3>
+	<p>对中国的企业家来说，现在是艰难的时刻。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/377316910_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20200303/3eef3348eaffeca3074d6b66040655c7.jpg">
+	<span></span>
+	<h3>对话马蔚华：慈善透明化是大方向，公益基金应像上市公司式信披 | “致知100人”56期</h3>
+	<p>公益慈善事业也需要竞争，需要优胜劣汰。未来公益慈善机构的规范化、透明化是大方向。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/376410340_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20200228/7d143ad3b4c30410533bac2822ab31b7.jpg">
+	<span></span>
+	<h3>对话李扬：现代金融体系的最大贡献是支撑了中国经济的增长奇迹 | “致知100人”55期</h3>
+	<p>金融体系的高速发展，有效地动员了储蓄，支撑了高投资和高增长，支撑了中国国力的迅速增强。我以为这是中国金融发展的最大贡献。</p>
+	</a>
+	</li>		
+		
+	<li>
+	<a href="https://www.sohu.com/a/375708977_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20200225/8c433f3c978113e187405b0b5d35a984.jpg">
+	<span></span>
+	<h3>对话王忠民：社保基金收益超万亿，养老金补充渠道不断丰富 | “致知100人”54期</h3>
+	<p>社保基金已经成为母基金在中国市场中的代表和典型案例。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/372383327_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20200212/d508f972db718e2d7e19a63446725ec4.jpg">
+	<span></span>
+	<h3>对话朱建民：做企业一定要从自身优势出发，打不赢的领域不去 | “致知100人”53期</h3>
+	<p>如果在一个领域，我们判断能够用5年，甚至10年的时间成为行业前三甲，我们会做。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/365790125_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20200116/02378c48aceb2b3f57d66d49f3bf6c01.jpg">
+	<span></span>
+	<h3>对话樊纲：中国经济最大奇迹是未出现危机，很好地控制了泡沫 | “致知100人”52期</h3>
+	<p>中国经济的增长潜力还远远没有得到充分发挥，一定要继续坚定改革，一定不能停止，甚至倒退。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/363845737_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20200102/26348d6bd2cdd8c6e3c8aa568f820ad0.jpg">
+	<span></span>
+	<h3>对话周皓：银行可多给小微企业贷款，但利率不能违反市场定价 | “致知100人”51期</h3>
+	<p>疏通小微民营企业融资渠道需多管并输，可以在量上加大对小微民营企业的支持，但不能在价格目标上做强硬要求。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/363625029_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20191230/bf8330cde3ab65ea3d46b9eaec8ede76.jpg">
+	<span></span>
+	<h3>对话宋敏：解决债务勿操之过急，避免银行不放贷逼死一批企业 | “致知100人”50期</h3>
+	<p>历史上所有金融危机发生的根源都与高负债有关，我们要找到并把握好长远结构性改革和短期稳定性之间的平衡点。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/363072388_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20191227/99e3cd02493b3966d4ae88ea22b801da.jpg">
+	<span></span>
+	<h3>对话曹文宣：代表鱼类争取利益，应拆除长江支流上的小水电站 | “致知100人”49期</h3>
+	<p>我和鱼打了这么多年的交道，也因此感到鱼类资源非保护不可，也算是代表鱼类争取点儿利益吧。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/362920563_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20191226/094916860fe17dce105939f54e4b24b7.jpg">
+	<span></span>
+	<h3>对话刘昌明：我国将有10亿人生活在城市，要节水优先调水为辅 | “致知100人”48期</h3>
+	<p>调水是一种别样的手段，节水和调水是并行的。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/362665269_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20191225/342f979afedebb7f59b2aa89ffa1c84e.jpg">
+	<span></span>
+	<h3>对话温元凯：大力发展资本市场，让全球最优秀公司到中国上市 | “致知100人”47期</h3>
+	<p>中国经济未来必须要发展资本市场，让全世界最优秀的公司都想到中国上市。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/362149048_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20191223/4538826f9f1fd27b8f45181046e66a6f.jpg">
+	<span></span>
+	<h3>对话钱于军：外资机构投资者入市，可减少A股市场割韭菜现象 | “致知100人”46期</h3>
+	<p>当前我国资本市场仍以散户为主，所以A股频现大起大落、割韭菜等现象，这对市场的长远发展是不利的。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/361374955_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20191219/eaf7bd1ff76b24b06d7cecdcf701bf2f.jpg">
+	<span></span>
+	<h3>陈光中谈刑诉法：法治灵魂是公正，疑罪从无原则来之不易 | “致知100人”45期</h3>
+	<p>法治的灵魂是公正，行政机关和司法机关都要公正。离开了公正，法治就失去了它的生命线。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/360893457_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20191217/7e78b380ce05c107c0c270da411d0cd7.jpg">
+	<span></span>
+	<h3>对话章华妹：当首位个体户很激动，温州商人能成功在于不怕苦 | “致知100人”44期</h3>
+	<p>对我个人来说，这是一颗很好的定心丸。国家政策变好了，我们就肯定有饭吃。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/360651520_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20191216/4b97cc150422371e187bd3db4f9a8d74.jpg">
+	<span></span>
+	<h3>对话贾康：在大城市用房产税取代调控，应探讨开征遗产税 | “致知100人”43期</h3>
+	<p>房地产税作为典型的直接税种，应由全国人大立法，并规定税率区间，全国各地因情况而异再制定具体的税率。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/359783378_100160903?spm=smpc.author.fd-d.1.1576120381001TcwTNFG" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20191212/62262685d42ba1055785f7b5ef6a22f6.jpg">
+	<span></span>
+	<h3>对话张军：政府和市场之间要有“三八线”，深圳是表率 | “致知100人”42期</h3>
+	<p>深圳进入了一种非常好的均衡状态。政府和市场间有一条“三八线”，双方不愿意越过“三八线”。这一点能够坚守到现在真的不容易。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/359287723_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20191210/dfea1c1d1dfec079c8d47b1825f31014.jpg">
+	<span></span>
+	<h3>对话常修泽：穷人不能再穷，富人不必出走，中产必须扩大 | “致知100人”41期</h3>
+	<p>这个社会需要共生，穷人有穷人的活路，富人也得有活路，更重要的是，中产阶层更要有广大的活路。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/358472133_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20191206/6ac142d79fd0d3aad29d218dc30a6a94.jpg">
+	<span></span>
+	<h3>对话邬贺铨：苹果谷歌的生态并非不可逾越，工程科学不能造假 | “致知100人”40期</h3>
+	<p>技术在不断进步，前边的生态并非永远不可逾越，在每一次换代转型中还是有机会的。</p>
+	</a>
+	</li>	
+		
+    <li>
+	<a href="https://www.sohu.com/a/358006829_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20191203/08e681cfd7c1f7409807aee7a5c82e88.jpg">
+	<span></span>
+	<h3>对话梁建章：应通过奖励现金或房子降低家庭生育负担 | “致知100人”39期</h3>
+	<p>从整个国力和创新力来说，中国最大的优势是人口。现在学界，即使是精英层和决策层都没有充分意识到这一点。</p>
+	</a>
+	</li>	
+
+	<li>
+	<a href="https://www.sohu.com/a/357069444_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20191128/2cc069bcda8d592ab812061202a3601a.jpg">
+	<span></span>
+	<h3>对话高西庆：中国股市赌性大，但不是赌场 | “致知100人”38期</h3>
+	<p>比起全世界任何一个国家，中国股市的个人投资者对股市的熟悉程度都不差，已经很成熟。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/355367158_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20191122/a79c352d95773b2507be289f912d138f.jpg">
+	<span></span>
+	<h3>对话晏平：管理体系全面学华为，要增加员工收入提高他们自信 | “致知100人”37期</h3>
+	<p>玉柴的文化，非常朴素，非常接地气。他们都期望这个企业好，干部员工非常勤奋、朴素、热爱企业。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/354970035_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20191120/430e78f6cc057655a27f05ebcbf76d00.jpg">
+	<span></span>
+	<h3>对话丁远：越是对外开放的行业，竞争力越强；企业不要惧怕竞争 | “致知100人”36期</h3>
+	<p>外商来华不再是建厂，而是想在中国建全产业链，甚至要在中国设立针对中国市场的产品和品牌，因为中国市场已经足够大。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/352845862_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20191112/cf24fdfcdfcb4b05041d7a89c2596d95.jpg">
+	<span></span>
+	<h3>对话项兴初：未来汽车业态将发生巨变 | “致知100人”35期</h3>
+	<p>我现在很怀疑的是，未来像江淮汽车、奔驰等汽车制造商的品牌可能会越来越少，更多的是如滴滴打车的平台。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/350508813_100160903?spm=smpc.author.fd-d-372783.1.1572486699541yl7fWIV" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20191031/0ee5f916a9e64c03863d4dcf6593c934.jpg">
+	<span></span>
+	<h3>对话魏东：网约车新玩家会不断入场，但不会再有混战 | “致知100人”34期</h3>
+	<p>共享经济应该提高存量效率，而不是无限增加供给量，消费者最终是为服务买单，而不是交通载体。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/350271363_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20191029/c99e7dc2abe86e6f9d1b6dc4295dbba1.jpg">
+	<span></span>
+	<h3>对话沈国军：企业发展一定要顺势而为，满足市场的需求 | “致知100人”33期</h3>
+	<p>怎么跟进时代的发展，不被时代所淘汰，这些问题都是我时时刻刻思考的。正因为这样，这个企业才能走到今天。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/349434161_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20191025/9d94016bbe69138ee9a7b92b146addd6.jpg">
+	<span></span>
+	<h3>对话陈湖雄：不要过度追捧风口，每个行业都能诞生世界级企业 | “致知100人”32期</h3>
+	<p>每个行业都有隐形冠军，我希望中国未来能更多涌现出深耕各自领域的伟大企业，在一米宽的行业领域内做到一万米深。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/349160456_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20191024/8e81373eb91863d1387a359237b30f0b.jpg">
+	<span></span>
+	<h3>对话谢毅：诚信和品质是公司生命线，对中国经济充满信心 | “致知100人”31期</h3>
+	<p>正大并不保守，我们的心态一定是乐观的，危险里也有机会。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/348657589_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20191023/1f445903fb128a79a70be279b76d918a.jpg">
+	<span></span>
+	<h3>对话胡葆森：成功企业有清晰价值观；房价不会大涨，也不会大跌 | “致知100人”30期</h3>
+	<p>企业家要学会划两个边界。一个是行业边界，另一个是市场边界。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/347174370_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20191016/e55474b7f53447c6ce05cb2fc4f4053b.jpg">
+	<span></span>
+	<h3>对话田国强：如果企业激励制度做得不好，勤快人就会变成懒人 | “致知100人”29期</h3>
+	<p>人性基本上是无法改变的，因此制度设计者需要顺应个体追求自身利益的人性，如何调动积极性以此形成激励便成为改革的关键问题。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/346239045_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20191012/ed89900ccb1cf3fd6a608c517e490f59.jpg">
+	<span></span>
+	<h3>对话王均豪：大型企业必须多元化，企业家内涵在于他的生活意义 | “致知100人”28期</h3>
+	<p>专注一个主业是有问题的，因为行业总有周期，有波峰、波谷，采取多元化战略、专一化经营，在某种程度上可以避开周期的损失。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/345942241_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20191010/9fbee77363e02d484bcb8453452cc1ba.jpg">
+	<span></span>
+	<h3>对话陈启宇：中国药企要由创新驱动，抗癌药物是未来研发重点 | “致知100人”27期</h3>
+	<p>同一个赛道上，互联网只有一两家公司最终能活下来，但是生物医药公司，同一个赛道上可以活很多家公司，它不是一种零和博弈。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/345702207_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20191009/fea68d4d4b62ab8889e74183a441dfbd.jpg">
+	<span></span>
+	<h3>对话王传福：创业艰辛却充满活力，要实现“产业报国”梦 | “致知100人”26期</h3>
+	<p>中国人聪明、勤奋，只要有机会就一定能成功。</p>
+	</a>
+	</li>
+	
+	<li>
+	<a href="https://www.sohu.com/a/343753429_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20190927/d79b4d9a7b711fac50217b5bfd3a445e.jpg">
+	<span></span>
+	<h3>对话孙祁祥：险资入市是大势所趋，但切忌投机投资 | “致知100人”25期</h3>
+	<p>目前险资入市的矛盾主要在于资本市场不稳定。险资入市要确保保险资金的稳定性和长期性，同时切忌以投机的方式进行投资。</p>
+	</a>
+	</li>
+		
+	<li>
+	<a href="https://www.sohu.com/a/342979694_100160903?spm=smpc.author.fd-d-372783.19.1576130529375mEJyKGs" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20190927/3730d96129498f03f9c8fa34de6357ae.jpg">
+	<span></span>
+	<h3>对话高尚全：对各种所有制要一视同仁，华为成功的首要原因在于员工持股 | “致知100人”24期</h3>
+	<p>改革是我这一生的追求，也是我这一生的牵挂。唯愿中国的改革开放事业蒸蒸日上，直到永远。</p>
+	</a>
+	</li>		
+		
+	<li>
+	<a href="https://www.sohu.com/a/342128211_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20190920/e05ed1919a6e09b5e4290cf0975ac1b0.jpg">
+	<span></span>
+	<h3>对话冯仑：未来地产行业会没人关注，正探讨星际移民的方法 | “致知100人”23期</h3>
+	<p>未来地产商将从媒体视野中逐渐消失，房地产行业也将不再是媒体的宠儿，沦为“三四线明星”。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/341710690_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20190919/01228564154e30cd3b026be118103158.jpg">
+	<span></span>
+	<h3>对话季晓南：国企应加快推行职业经理人制度，用市场方式管公司 | “致知100人”22期</h3>
+	<p>国企高管什么时候能像民营企业家一样关心企业经营，那国企改革就成功了。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/341352114_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20190919/6a9da7354bdf9230b540525dc5d7806e.jpg">
+	<span></span>
+	<h3>对话陈予恕：科学研究光喊口号不行，要持之以恒努力 | “致知100人”21期</h3>
+	<p>科学研究光喊创新不行，需要对创新的难度有所认识。在这个过程中，需要与实践结合，理论才能真正起作用 。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/340495438_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20200212/6ae95122368aa2d6540c745e54609f6a.jpg">
+	<span></span>
+	<h3>对话张跃：拼尽毕生努力去买房不值得，大部分收入要花在健康饮食上 | “致知100人”20期</h3>
+	<p>当前大家拼命买房的想法是错误的。房子的法定寿命只有50年，甚至不到50年就拆了。为什么我们还要拼尽毕生努力去做房奴？ </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/340201703_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20190912/25fae775fd07ebc1eb0ce911a4e55bf7.jpeg">
+	<span></span>
+	<h3>对话刘积仁：企业生命力在于投资未来，东北人也有创业精神 | “致知100人”19期</h3>
+	<p>当应用需求场景开始出现新变化时，软件公司就应为下一轮的生命做好准备。一个有生命力的软件企业是一个不断理解和投资未来的企业。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/339125330_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20190910/bd5d0e300370df8c513d70833f742b71.jpg">
+	<span></span>
+	<h3>常沙娜：敦煌的女儿 | “致知100人”18期</h3>
+	<p>敦煌的艺术资源是取之不尽、用之不竭的。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/338417687_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20190904/411511a6e043902c2bf0bfb2045a7d72.jpg">
+	<span></span>
+	<h3>对话人大副校长吴晓求：中国未来要构建全球性的金融中心 | “致知100人”17期</h3>
+	<p>中国是世界第二大经济体，中国金融市场应该成为新的国际金融中心，人民币也应该成为国际货币体系中的重要一员。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/336959860_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20190828/627941e7a81b4638d679d4abed7c8b64.jpg">
+	<span></span>
+	<h3>对话中国北极科考第一人位梦华：生死只在一瞬间 | “致知100人”16期</h3>
+	<p>在两极考察，生死只在一瞬间，一步走错了就完了。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/336717622_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20190827/148011ef236ef93666538915be7961bb.jpg">
+	<span></span>
+	<h3>对话邹至庄：好的经济学家需要一流大师的锤炼 | “致知100人”15期</h3>
+	<p>一名好的经济学家，需要经过大师的锤炼，在一流大师的锤炼下不断进步。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/335385794_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20190827/8170f023f984fc72b0b875e6a33999ca.jpg">
+	<span></span>
+	<h3>对话彭森：产权改革是市场化改革的核心，房产税不会增加地方政府收入 | “致知100人”14期  </h3>
+	<p>产权制度的改革关键的落脚点还是对国有企业改革，按照竞争中性的原则，通过混合所有制改革，引入民营经济，这是保证市场公平竞争最基础性的工作。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/335037222_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20190827/e713c02a6676a2aeed169381e10d1551.jpg">
+	<span></span>
+	<h3>对话陈泽民：企业要对政府、银行讲诚信，要善待员工和消费者 | “致知100人”13期 </h3>
+	<p>我们的企业文化就是要讲诚信，要善待员工，要善待消费者。一个是对银行要讲诚信，对政府讲诚信，对员工要讲诚信。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/334084966_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20190827/ffa4222baf79b02ee54bca585b7ec625.jpg">
+	<span></span>
+	<h3>对话海闻：企业家要把对社会的贡献放到非常重要的位置 | “致知100人”12期 </h3>
+	<p>一个企业家在发展企业时，不光要有个人行为底线，还需将社会责任、对人类的贡献放在一个非常重要的地位。 </p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/333581072_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20190827/37101e647a3f4f2e9b815b9ca6c3d487.jpg">
+	<span></span>
+	<h3>对话茅忠群：我为什么坚持企业不上市，不打价格战？ | “致知100人”11期 </h3>
+	<p>我们的思路是通过创新研发更多具有市场潜力的新产品。我们不会去做中低端市场，坚持不打价格战，也不会进入市场比较小的领域。</p>
+	</a>
+	</li>
+		
+	<li>
+	<a href="https://www.sohu.com/a/332330108_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20190808/aa168185ababa030e7c4e1f89241765e.jpg">
+	<span></span>
+	<h3>对话沈晖：用户要克服电动车不安全、充电麻烦的偏见 | “致知100人”10期<br/></h3>
+	<p>充电的问题并没有想象中的那么复杂，而是大家要从心理上克服电车质量不安全、充电麻烦的偏见。</p>
+	</a>
+	</li>
+	
+	<li>
+	<a href="https://www.sohu.com/a/332049946_100160903?spm=smpc.author.fd-d.5.1565243273740obKEpWm" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20190829/d7f45a13ffb4e7202894616fe00a907f.jpg">
+	<span></span>
+	<h3>对话陈经纬：企业经营要“有多大力量做多大事” | “致知100人”09期 <br/></h3>
+	<p>有多大的力量就去做多大的事情，力量还不到的时候，我们就做小一点，这是我们集团的经营宗旨。</p>
+	</a>
+	</li>	
+		
+	<li>
+	<a href="https://www.sohu.com/a/331820409_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20190806/d0b404ebb99471ebd9a13559765aa043.jpg">
+	<span></span>
+	<h3>对话邓亚萍：企业家与运动员都需要有拼搏精神 | “致知100人”08期</h3>
+	<p>随着体育产业不断做大，我相信资本会逐渐关注到体育产业的发展。目前而言，我想还是需要一点时间的。</p>
+	</a>
+	</li>
+		
+	<li>
+	<a href="https://www.sohu.com/a/331575724_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20190829/99e7119a7210713995e38ea887109139.jpg">
+	<span></span>
+	<h3>对话宋志平：企业家最重要的品质是有担当 | “致知100人”07期</h3>
+	<p>如果想把企业做好一点，没有十年二十年不行；如果想把企业做到极致，没有三四十年不行。 </p>
+	</a>
+	</li>
+		
+	<li>
+	<a href="https://www.sohu.com/a/331038946_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20190802/d97dd0cd3658e0fe0afa339e3b1f9676.jpg">
+	<span></span>
+	<h3>对话陈晓龙：企业不要急功近利赚取利润 | “致知100人”06期</h3>
+	<p>我们不急功近利地赚一些利润，更主要的是做好中长期发展规划，努力做一个百年老店品牌。</p>
+	</a>
+	</li>
+		
+	<li>
+	<a href="https://www.sohu.com/a/330760317_100160903" target="_blank">
+	<img src="//m1.auto.itc.cn/auto/content/20190829/c1a62ad7b0b508d26eb0560d2117a851.jpg">
+	<span></span>
+	<h3>对话蒋锡培：企业创新要对标全球最好的企业 | “致知100人”05期</h3>
+	<p>未来30年仍是中国发展的历史机遇期，我们有动力做好企业。</p>
+	</a>
+	</li>
+		
+	<li>
+	<a href="https://www.sohu.com/a/330479144_100160903" target="_blank">
+	<img src="//m2.auto.itc.cn/auto/content/20190731/f10bf7a7fdf3718e575a8658b768066d.jpg">
+	<span></span>
+	<h3>对话赵梓森：5G无法取代光纤通信，至少还要用2000年 | “致知100人”04期</h3>
+	<p>无线通信是一小段，长距离都是光纤，5G、6G不可能取代光纤。</p>
+	</a>
+	</li>
+		
+	<li>
+	<a href="https://www.sohu.com/a/330271584_100160903" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20190801/cedb58293c714a18ff15363b33da846d.jpg">
+	<span></span>
+	<h3>对话倪光南：追赶发达国家芯片产业，要做好长期准备 | “致知100人”03期</h3>
+	<p>我国芯片在设计方面可以与国外同台竞争，但从整个产业链来看，制造生产、设计工艺、原材料、装备等方面，还有很长的路程要走。 </p>
+	</a>
+	</li>
+	
+	<li>
+	<a href="https://www.sohu.com/a/329488182_100160903" target="_blank">
+	<img src="//m3.auto.itc.cn/auto/content/20190801/34bdc0243ed819436e4a637f79eed8a2.jpg">
+	<span></span>
+	<h3>对话张近东：企业转型要有超前规划，要谋定而后动 | “致知100人”02期</h3>
+	<p>苏宁已经全面完成转型，但未来总是变幻莫测，一定要掌握时代的前沿技术，才能最终服务好消费者、赢得市场。 </p>
+	</a>
+	</li>
+	
+	<li>
+	<a href="https://www.sohu.com/a/329231434_100160903?spm=smpc.author.fd-d-372783.2.1564369615263DPwZ06A" target="_blank">
+	<img src="//m4.auto.itc.cn/auto/content/20190725/e9c4118eecccc68297b0fcef85abbc88.jpg">
+	<span></span>
+	<h3>IMF前副总裁朱民：改革者从不墨守成规 | “致知100人”01期<br/></h3>
+	<p>如果没有国家的强大，没有2008年中国在金融危机中对稳定全球金融的重大作用，国际货币基金组织这个门是不会对中国开放的，也不会有我个人的机会。</p>
+	</a>
+	</li>
+	</ul>
+
+</div>
+</div>
+
+<!-- 文章区结束 -->
+
+<div class="area">
+	
+	<div class="topB"><a href="https://tv.sohu.com/user/346770793" target="_blank">访谈视频</a></div>
+	
+	<div id="certify">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide"><a href="https://tv.sohu.com/v/dXMvMzQ2NzcwNzkzLzI0Njg1MDExNC5zaHRtbA==.html" target="_blank"><img src="//m3.auto.itc.cn/auto/content/20210326/61ebc568750a15a577ca5b34f4cf7e1e.png" /><p>苏剑：任何国家都没有能力把所有科研成果都掌握在自己手里</p></a></div>	
+<div class="swiper-slide"><a href="https://tv.sohu.com/v/dXMvMzQ2NzcwNzkzLzI0Njg1MDIxNy5zaHRtbA==.html" target="_blank"><img src="//m4.auto.itc.cn/auto/content/20210326/b51f2b12608f53202eb5f3f63c2ef09d.png" /><p>苏剑：中国处于消费升级状态，基本温饱解决后，需求将向安全问题升级</p></a></div>	
+<div class="swiper-slide"><a href="https://tv.sohu.com/v/dXMvMzQ2NzcwNzkzLzI0Njg1MDExNS5zaHRtbA==.html" target="_blank"><img src="//m2.auto.itc.cn/auto/content/20210326/9b13729252b8e824e71629b12cd6eed0.png" /><p>苏剑：通过拉动乡村消费来提高全国平均消费倾向是一个好思路</p></a></div>	
+<div class="swiper-slide"><a href="https://tv.sohu.com/v/dXMvMzQ2NzcwNzkzLzI0Njg0OTk1OC5zaHRtbA==.html" target="_blank"><img src="//m4.auto.itc.cn/auto/content/20210326/38493ba9214d40bcbc70f2273b11e498.png" /><p>苏剑：2022年中国将迎来退休高峰，劳动力短缺或成为常态</p></a></div>	
+	</div>
+</div>
+
+<div class="swiper-button-prev"></div>
+<div class="swiper-button-next"></div>
+</div>
+
 <script>
-    //  加载监控代码
+certifySwiper = new Swiper('#certify .swiper-container', {
+	watchSlidesProgress: true,
+	slidesPerView: 'auto',
+	centeredSlides: true,
+	loop: true,
+	loopedSlides: 5,
+	autoplay: true,
+	navigation: {
+		nextEl: '.swiper-button-next',
+		prevEl: '.swiper-button-prev',
+	},
+	pagination: {
+		el: '.swiper-pagination',
+		//clickable :true,
+	},
+	on: {
+		progress: function(progress) {
+			for (i = 0; i < this.slides.length; i++) {
+				var slide = this.slides.eq(i);
+				var slideProgress = this.slides[i].progress;
+				modify = 1;
+				if (Math.abs(slideProgress) > 1) {
+					modify = (Math.abs(slideProgress) - 1) * 0.3 + 1;
+				}
+				translate = slideProgress * modify * 260 + 'px';
+				scale = 1 - Math.abs(slideProgress) / 5;
+				zIndex = 999 - Math.abs(Math.round(10 * slideProgress));
+				slide.transform('translateX(' + translate + ') scale(' + scale + ')');
+				slide.css('zIndex', zIndex);
+				slide.css('opacity', 1);
+				if (Math.abs(slideProgress) > 3) {
+					slide.css('opacity', 0);
+				}
+			}
+		},
+		setTransition: function(transition) {
+			for (var i = 0; i < this.slides.length; i++) {
+				var slide = this.slides.eq(i)
+				slide.transition(transition);
+			}
+
+		}
+	}
+
+})
 </script>
-<!--[if lt IE 9]>
-<script src="//statics.itc.cn/web/static/js/es5-shim-08e41cfc3e.min.js"></script>
-<script src="//statics.itc.cn/web/static/js/es5-sham-1d5fa1124b.min.js"></script>
-<script src="//statics.itc.cn/web/static/js/html5shiv-21fc8c2ba6.js"></script>
-<link href="//statics.itc.cn/web/static/css/ie8hack-9dce3c3b96.css" rel="stylesheet" />
-<![endif]-->
-<script type="text/javascript">
-//解決IE8,IE9不支持console的问题
-(function() {
-    var method;
-    var noop = function() {};
-    var methods = [
-        'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
-        'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
-        'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
-        'timeStamp', 'trace', 'warn'
-    ];
-    var length = methods.length;
-    var console = (window.console = window.console || {});
+</div>
 
-    while (length--) {
-        method = methods[length];
-
-        // Only stub undefined methods.
-        if (!console[method]) {
-            console[method] = noop;
-        }
-    }
-}());
-</script>
-<script type="text/javascript">
-    (function () {
-        var html = document.getElementsByTagName("html")[0];
-        var width = Math.min(document.documentElement.clientWidth, 790);
-        width = width < 320 ? 320 : width;
-        if (document.documentElement.clientWidth <= 1024) {
-            html.style.fontSize = width / 790 * 79 + 'px';
-        }
-        if (window.addEventListener) {
-            window.addEventListener('resize', resizeHandler);
-        }
-        else if (window.attachEvent) {
-            window.attachEvent('onresize', resizeHandler);
-        }
-        function resizeHandler() {
-            if (document.documentElement.clientWidth <= 1024) {
-                var width = Math.min(document.documentElement.clientWidth, 790);
-                width = width < 320 ? 320 : width;
-                html.style.fontSize = width / 790 * 79 + 'px';
-            } else {
-                html.style.fontSize = "16px";
-            }
-        };
-    })();
-</script>
-
-
-        <script type="text/javascript">
-                        window.feedbackQuestion = [{"score":0.4,"question":{"selection":[1001,1002,1003],"id":1}},{"score":0.2,"question":{"selection":[1001,1004],"id":2}},{"score":0.3,"question":{"selection":[1001,1005,1006],"id":3}},{"score":0.1,"question":{"selection":[1001,1007,1008,1009],"id":4}}]
-                    </script>
-    </head>
-        
-        
-        
-    
-    <body class="article-page" data-region="153" data-spm="content" data-newsid="466439129">
-        <div class="wrapper-box">
-            <header id="main-header" class="error-head">
-
-
+	<!--
+<div class="area" style="padding-bottom:20px">
+	
+	<div class="topB"><a href="https://tv.sohu.com/user/346770793" target="_blank">客户专区</a></div>
+	<a href="https://mall.jd.com/index-209680.html" target="_blank"><img src="//m2.auto.itc.cn/auto/content/20201012/b17934fa5e643e335d2602c690dc5cf4.jpg" style="width:1200px; height:100px;"></a>
+</div>
+	-->
+	
+<div style="width:100%; background:#f5f5f5">
 	<div class="area">
-		<div class="head-nav left" data-spm="nav">
-			<ul>
-			    <li class="index"><a data-clev="10220248" class="clearfix" target="_blank" href="http://www.sohu.com"><em class="icon-home icon"></em><em class="sohu-logo">搜狐首页</em></a></li>
-														<li><a target="_blank" data-clev="10220249" href="http://news.sohu.com/">新闻</a></li>
-																			<li><a target="_blank" data-clev="10220250" href="http://sports.sohu.com/">体育</a></li>
-																			<li><a target="_blank" data-clev="10220251" href="http://auto.sohu.com/">汽车</a></li>
-																			<li><a target="_blank" data-clev="10220252" href="http://www.focus.cn/">房产</a></li>
-																			<li><a target="_blank" data-clev="10220253" href="http://travel.sohu.com/">旅游</a></li>
-																			<li><a target="_blank" data-clev="10220254" href="http://learning.sohu.com/">教育</a></li>
-																			<li><a target="_blank" data-clev="10220255" href="http://fashion.sohu.com/">时尚</a></li>
-																			<li><a target="_blank" data-clev="10220256" href="http://it.sohu.com/">科技</a></li>
-																			<li><a target="_blank" data-clev="10220257" href="http://business.sohu.com/">财经</a></li>
-																			<li><a target="_blank" data-clev="10220258" href="http://yule.sohu.com/">娱乐</a></li>
-																																																																																																																									<li class="more-nav"><a class="more-tag" href="javascript:void(0)">更多<em class="cor"></em></a>
-					<div class="more-nav-box">
-																																																																																																																																																					<a href="http://baobao.sohu.com/">母婴</a>
-																										<a href="http://health.sohu.com/">健康</a>
-																										<a href="http://history.sohu.com/">历史</a>
-																										<a href="http://mil.sohu.com/">军事</a>
-																										<a href="http://chihe.sohu.com/">美食</a>
-																										<a href="http://cul.sohu.com/">文化</a>
-																										<a href="http://astro.sohu.com/">星座</a>
-																										<a href="https://www.sohu.com/subject">专题</a>
-																										<a href="http://game.sohu.com/">游戏</a>
-																										<a href="http://fun.sohu.com/">搞笑</a>
-																										<a href="http://acg.sohu.com/">动漫</a>
-																										<a href="http://pets.sohu.com/">宠物</a>
-																		</div>
-				</li>
-			</ul>
-		</div>
-		<div id="head-login" class="right login">
-		</div>
+		<img src="//m1.auto.itc.cn/auto/content/20190729/231df8e23847df63cec460eba15f924c.png">
 	</div>
-
-</header>            <div class="location-without-nav"></div>
-            <div class="area clearfix" id="article-container">
-                <div class="column left">
-	<div class="user-info" id="user-info" data-spm="author">
-    <div class="user-pic">
-        <!-- fromWhere为10是马甲号作者不可点击进入个人页面 -->
-                    <a href="https://mp.sohu.com/profile?xpt=MTQ2NDkyMDAwMEBzaW5hLnNvaHUuY29t&_f=index_pagemp_1" target="_blank">
-                <img src="http://sucimg.itc.cn/avatarimg/364da034f4304438ab14e1f47df7b9ef_1445413755191" alt="">
-            </a>
-            </div>
-
-    <h4>
-                    <a href="https://mp.sohu.com/profile?xpt=MTQ2NDkyMDAwMEBzaW5hLnNvaHUuY29t&_f=index_pagemp_1" target="_blank">刚行路上</a>
-                            <i class="attestation-logo attestation-logo2"></i>
-            </h4>
-    <!-- 积分 -->
-            <div class="fox-wrap" id="fox-integration">
-            <div class="fox-head-wrap" data-grade="tag">
-                                                                    <span class="fox-logo 
-                                                fox-golden
-                        ">
-                    </span>
-                            </div>
-            <div class="fox-hover-wrap" data-grade="grade">
-                <div class="fox-each-wrap 
-                                        fox-each-golden
-                    ">
-                    <p class="fox-content">
-                        由内容质量、互动评论、分享传播等多维度分值决定，勋章级别越高(
-                        <span class="fox-grade"></span>
-                        )，代表其在平台内的综合表现越好。
-                    </p>
-                </div>
-            </div>
-        </div>
-    
-                    <dl class="user-num">
-        <dd><span class="value" data-value="2175" data-role="info-article-num"><em class="num"></em></span>文章</dd>
-        <dd><span class="value" data-value="" data-role="info-read-num"><em class="num"></em></span>总阅读</dd>
-    </dl>
-    
-    <!-- 企业认证 -->
-            <ul class="company">
-                            <li><span class="dot"></span>知名自媒体人</li>
-                            <li><span class="dot"></span>旅游领域优质创作者</li>
-                    </ul>
-    
-    <!-- 非马甲号作者 -->
-            <div class="user-more">
-            <a href="https://mp.sohu.com/profile?xpt=MTQ2NDkyMDAwMEBzaW5hLnNvaHUuY29t&_f=index_pagemp_2" target="_blank">查看TA的文章&gt;</a>
-        </div>
-    </div>	<div class="article-do" id="article-do" data-spm="share">
-		<div class="article-done">
-    <div class="title">评论</div>
-    <dl>
-
-        <dd class="comment-do"><a href="#comment_area" data-spm-acode="8089"><em class="comment-icon icon"></em><span class="num" data-role="comment-count"></span></a></dd>
-        <!--<dd class="zan-do" data-role="like-btn"><a href="javascript:void(0)"><span class="num" data-role="like">0</span><em class="icon zan-icon"></em></a>
-
-            <span class="add-one">+1</span>
-        </dd>-->
-    </dl>
 </div>
-		<div class="share" id="share">
-
-		</div>
-
-	</div>
-
-</div>                <div class="left main">
-                    <div data-spm="content">   
-                        <div class="text">
-                            <div class="text-title">
-    <h1>
-                    <span class="original-logo">原创</span>
-            <span class="title-info-title">叹为观止的德天瀑布，感叹大自然的鬼斧神工</span>
-                <span class="article-tag">
-                 </span>
-    </h1>
-            <div class="article-info">
-        <span class="time" id="news-time" data-val="1620986386000">2021-05-14 17:59</span>
-        <span data-role="original-link">来源:<a href="" target="_blank">刚行路上</a></span>
-        
-    </div>
-</div>
-<article class="article" id="mp-editor">
-    <!-- 政务处理 -->
-          <p data-role="original-title" style="display:none">原标题：叹为观止的德天瀑布，感叹大自然的鬼斧神工</p>
-            <p>距离花千骨的播出已经过去好几个暑假了，现在想起依旧特别的怀念那一年熬夜追《花千骨》，怀念剧情和剧里最爱的角色，还怀念里面清秀幽丽、如梦如幻的“仙界”。而剧中的长留仙境的场景就在眼前，不知道大伙现在还有没有印象？</p> 
-<p class="ql-align-center"><img src="https://p5.itc.cn/images01/20210514/b956617973d946afba9b3cde698de06c.jpeg" max-width="600" /></p> 
-<p>德天瀑布位于广西壮族自治区崇左市大新县硕大新县归春河上游，距中越边境53号界碑约50米。与紧邻的越南板约瀑布相连，是亚洲第一、世界第四大跨国瀑布，为中国国家5A级旅游景区 。 也是东南亚最大的天然瀑布，被国家定为特级景点。它与越南的板约瀑布连为一体，就像一对亲密的姐妹，携手而立。</p> 
-<p class="ql-align-center"><img src="https://p3.itc.cn/images01/20210514/641c783ab1d742d48aa7ff79656434c6.jpeg" max-width="600" /></p> 
-<p>为了更好地欣赏瀑布，景区修建了一处观瀑台，自然清新的气息扑面而来，不仅能欣赏到雄伟壮观的瀑布以及周围风光旖旎的自然景色，还能领略浓郁的边民风情。</p> 
-<p class="ql-align-center"><img src="https://p3.itc.cn/images01/20210514/e6b3a5ba8a5e4441ba9d1bdd2bd41cb3.jpeg" max-width="600" /></p> 
-<p>急剧的江水冲出悬崖上的浓翠蔽日的树丛，从高达60余米的山崖上咆哮而下，撞击着层层的坚石，水花四溅。阵阵微风吹过，水雾迷朦，像下着蒙蒙细雨；在阳光的照耀下五彩缤纷。</p> 
-<p class="ql-align-center"><img src="https://p2.itc.cn/images01/20210514/c6265424cc944e87905f9117c4f16400.jpeg" max-width="600" /></p> 
-<p>远望似缟绢垂天，近观如飞珠溅玉，能体会到诗中所描述的那种“飞流直下三千尺，疑似银河落九天”的真实景象，气势磅礴、蔚为壮观。</p> 
-<p class="ql-align-center"><img src="https://p0.itc.cn/images01/20210514/0671f91d02bd4438a0255f817912bfa6.jpeg" max-width="600" /></p> 
-<p>溅起的小水珠随风飘散，散落在脸颊上，宛如置身朦胧烟雨中，顿时，一股清凉的感觉激荡着心扉，凉丝丝的，好舒服！</p> 
-<p class="ql-align-center"><img src="https://p7.itc.cn/images01/20210514/1a9a9fccc0f640f5a9e7ee2c90a5e7b5.jpeg" max-width="600" /></p> 
-<p>既然来到德天瀑布，建议一定要乘竹筏驶向瀑布，能正面地欣赏到瀑布，更近距离的体验瀑布的魅力，感受瀑布带来的波澜壮阔气息。</p> 
-<p class="ql-align-center"><img src="https://p8.itc.cn/images01/20210514/0d4b4fda41be4add90ba31c293226e56.jpeg" max-width="600" /></p> 
-<p>青草树木的清香，声声虫鸣，瀑布潺潺流水，萦绕在耳边，就像千军马万向你靠近，振荡河谷，在天地间回荡。</p> 
-<p class="ql-align-center"><img src="https://p0.itc.cn/images01/20210514/8fb9df68297546289c9a4aa60d72714e.jpeg" max-width="600" /></p> 
-<p>白色水幕下面是清澈的潭水，河面水流平缓，碧波荡漾，清澈见底，仿佛像是一面明镜。</p> 
-<p class="ql-align-center"><img src="https://p0.itc.cn/images01/20210514/2653a3e6bb0342a6b37fbcb5c8b4eaf1.jpeg" max-width="600" /></p> 
-<p>当感到身心疲惫时，来一场说走就走的旅行吧，去一个如诗般浪漫清雅的地方，让人在其中，心无旁骛，更无纤尘，如在画中游，步步是皆是景。<a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="点击进入搜狐首页" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>返回搜狐，查看更多</span></a></p>      <!-- 政务账号添加来源标示处理 -->
-      <!-- 政务账号添加来源标示处理 -->
-      <p data-role="editor-name">责任编辑：<span></span></p>
-</article>
+	
 <script>
-    (function() {
-        function getBrandHtml() {
-            var brands = [],
-            html = '';
-                        for(var i = 0; i < brands.length; i++) {
-                var brand = brands[i];
-                if(brands.length == i+1) {
-                    html+= '<a class="username-link" href="'+brand.url+'" target="_blank">'+brand.name+'</a>';
-                } else {
-                    html+= '<a class="username-link" href="'+brand.url+'" target="_blank">'+brand.name+'</a>、';
-                }
-            }
-            return html;
-
-        };
-        if(document.getElementById('linkBtn')){
-            document.getElementById('linkBtn').onclick = function() {
-                $('#brands').removeClass('brand');
-                $('#tipInfo').text('已实名回应');
-                $('#linkBtn').remove();
-                $('.real-response .content').css('line-height', '20px');
-                $('.real-response .time').css('line-height', '20px');
-            };
-    
-            document.getElementById('brands').innerHTML = getBrandHtml();
-        };
-    })();
-</script>
-    <div id="atricleVote"></div>
-  <div class="statement">声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。</div>  <div class="bottom-relate-wrap clear type-3">
-    
-    <!-- 点赞选择方案2，contentLike对应值为3 -->
-            <div class="article-like" id="article-like" data-like-type="type-3">
-</div>        <div class="read-wrap">
-        <span class="read-num">阅读 (<em data-role="pv" data-val="$articleStat.pv"></em>)</span>
-    </div>
-</div>
-     
-                            <div id="sohu-play-content"></div>
-                        </div>
-                    </div>
-                                        <div class="article-allsee clear" id="articleAllsee">
-    <div class="title">
-        <span>
-            <em class="ln"></em>
-            大家都在看
-        </span>
-    </div>
-    <div class="allsee-list clear" id="allseeList" data-spm="fd-link">
-    </div>
-</div>                    <div class="god-article-bottom" id="god_bottom_banner" data-spm="ad-text-bottom" style="display:block">
-</div>
-<div class="user-god clear" id="user-post" style="display:none">
-
-</div>                    <div class="comment" id="comment_area" data-spm="comment"  data-abdata="1">
-    <div id="mp-comment" sid="466439129"></div> 
-</div>                    
-<div class="groom-read">
-    <div class="title"><span><em class="ln"></em>推荐阅读</span></div>
-    <!-- <div class="groom-menu clear " id="news-recommend-nav" data-spm="hottag">
-<ul>     <li class="cur" data-id=""><a href="javascript:void(0)"><em class="dot"></em>推荐</a></li>
-               <li data-id="" data-tag-id="77530" ><a href="//search.sohu.com/?keyword=摩洛哥&queryType=outside">摩洛哥</a></li>
-                <li data-id="" data-tag-id="14336" ><a href="//search.sohu.com/?keyword=红枫湖&queryType=outside">红枫湖</a></li>
-                <li data-id="" data-tag-id="68193" ><a href="//search.sohu.com/?keyword=免签&queryType=outside">免签</a></li>
-                <li data-id="" data-tag-id="69633" ><a href="//search.sohu.com/?keyword=油菜花&queryType=outside">油菜花</a></li>
-                <li data-id="" data-tag-id="77511" ><a href="//search.sohu.com/?keyword=阿联酋&queryType=outside">阿联酋</a></li>
-                <li data-id="" data-tag-id="72707" ><a href="//search.sohu.com/?keyword=吉尔吉斯斯坦&queryType=outside">吉尔吉斯斯坦</a></li>
-                <li data-id="" data-tag-id="5420" ><a href="//search.sohu.com/?keyword=林芝&queryType=outside">林芝</a></li>
-                <li data-id="" data-tag-id="72708" ><a href="//search.sohu.com/?keyword=白俄罗斯&queryType=outside">白俄罗斯</a></li>
-                <li data-id="" data-tag-id="506" ><a href="//search.sohu.com/?keyword=西藏&queryType=outside">西藏</a></li>
-                <li data-id="" data-tag-id="70664" ><a href="//search.sohu.com/?keyword=玻璃栈道&queryType=outside">玻璃栈道</a></li>
-                <li data-id="" data-tag-id="15370" ><a href="//search.sohu.com/?keyword=爱琴海&queryType=outside">爱琴海</a></li>
-                <li data-id="" data-tag-id="14347" ><a href="//search.sohu.com/?keyword=武侯祠&queryType=outside">武侯祠</a></li>
-            
-</ul>
-</div>
- -->
-    <div class="news-list clear" id="main-news" style="min-height:1000px">
-    </div>
-</div>
-                </div>
-                <div class="sidebar right" id="right-side-bar" data-a="${isBaiDuAd}">
-    
-    
-    <div class="search-right" id="search" data-spm="search-box"></div>
-
-    <div class="godA" id="nav_button" data-spm="ad-right-sponsor">
-
-    </div>
-    <div class="godR" id="god_1" data-spm="ad-sq1" style="display: block;">
-
-    </div>
-    <div id="god_1_2" style="padding:10px 20px; display: none;" data-spm="ad-sq1">
-
-    </div>
-
-        
-    <div data-role="hot-pic" class="clearfix bord hot-atlas"></div>
-    <div data-role="four-pic" class="clearfix hot-atlas"></div>
-    
-    
-    <div class="godR" id="god_2" data-spm="ad-sq2" style="display:block">
-
-    </div>
-    <div id="god_2_2" style="padding:10px 20px; display: none;" data-spm="ad-sq2">
-
-    </div>
-    
-<div class="hot-article clear bord" id="hot-news" data-spm="tw">
-
-</div>
-    <div class="godR" id="god_3" data-spm="ad-sq3" style="display:block">
-
-    </div>
-    <div id="god_3_2" style="padding:10px 20px; display: none;" data-spm="ad-sq3">
-        
-    </div>
-    
-<div class="bord clear recommend" id="recommend-writer" data-spm="mp">
-
-</div>
-    <div class="godR" id="god_4" data-spm="ad-sq4" style="display:block">
-
-    </div>
-    <div id="god_4_2" style="padding:10px 20px; display: none;" data-spm="ad-sq4">
-        
-    </div>
-    <div class="article-recom right-side clear" id="sogou-words">
-</div>    <div id="god_5" style="padding:10px 20px;" data-spm="sqfive-ad">
-        
-    </div>
-     <div class="pages-fun  " id="pages-fun"></div>
-    <div id="god_fix_container" class="right-fixed" style="display:none;">
-        <div class="godR" id="god_fix_1" data-spm="ad-sq6" style="display: block;">
-
-        </div>
-        <div id="god_6_2" class="god-ad-fix" style="display: none; overflow: hidden;" data-spm="ad-sq6">
-
-        </div> 
-    </div>
-     <div id="fixed-view" data-rel="#hot-news" style="z-index:2">
-    </div>
-</div>
-
-
-
-             </div>
-            <div id="float-btn" class="float-links"></div>             <div class="sohu-khd" data-role="wp-ad"><a href="javascript:void(0)" class="close-khd"></a><a href="https://www.microsoft.com/zh-cn/store/p/%E6%90%9C%E7%8B%90uwp/9nb9229mmbjh" target="_blank" class="download-khd"><i class="icon khd-d-icon"></i>免费获取</a></div>
-            <div id="pop-news" class="pop-news"></div>            <div class="left-bottom-float" id="left-bottom-god" data-spm="ad-ss">
-</div>        </div>
-            <div id="sohu-mod" class="sohu-mod">
-  <div class="area sohu-frag">
-    <div class="left sohu-news">
-      <div class="title">今日搜狐热点</div>
-      <div class="list">
-        <ul>
-                  </ul>
-      </div>
-    </div>
-    <div class="left auto-sohu">
-      <div class="count-down"><span>6</span>秒后</div>
-      <div class="go-sohu"><a href="http://www.sohu.com?strategyid=00004">进入搜狐首页</a></div>
-      <a href="#" target="_blank" class="close-sohu"></a>
-    </div>
-  </div>
-</div>
-<div id="sohu-remend" class="sohu-remend">
-    <div class="area sohu-remend-box">
-        <div class="remend-tt left">今日推荐</div>
-        <div class="left sohu-pp">
-            <ul>
-                            </ul>
-        </div>
-        <div class="right sohu-do">
-            <a data-clev="10220279" href="http://www.sohu.com?strategyid=00004"><div class="go-sohu">进入搜狐首页</div></a>
-            <a data-clev="10220280" href="//shang.qq.com/wpa/qunwpa?idkey=04e47b9e7004c967962f52532465719ae8a30cf05413c11934ec121fb7e2dd62" target="_blank" class="feedback-link">意见反馈</a>
-            <a data-clev="10220281" href="javascript:void(0)" target="_blank" class="close-remend"></a>
-        </div>
-    </div>
-    <div class="sohu-remend-layer"></div>
-</div>            
-
-<script src="//statics.itc.cn/web/static/js/lib-61587d9fb8.js"></script>
-<script src="//statics.itc.cn/pc_channel_script/pc_channel_script/jquery.xdomainrequest.min.js
-"></script>
-<script src="//39d0825d09f05.cdn.sohucs.com/sdk/passport-4.0.3.js"></script>
-<!--<script src="//statics.itc.cn/web/static/js/ie8hack-07e05e83f1.js"></script>-->
-<script src="//txt.go.sohu.com/ip/soip"></script>
-<script src="//statics.itc.cn/spm/prod/js/1.0.2/index.js"></script>
-<script src="//statics.itc.cn/web/static/js/main-dd6206f5c0.js"></script>
-<script src="//js.sohu.com/pv.js"></script>
-            <script>
-try{console.log("执行成功")
-        window.sohu_mp.article({
-        channel_id: "29",
-        news_id: "466439129",
-        cms_id: "$mpNews.cmsId",
-        media_id: "289742",
-        passport: "1464920000@sina.sohu.com",
-        weboUrl: "https://mp.sohu.com/profile?xpt=MTQ2NDkyMDAwMEBzaW5hLnNvaHUuY29t",
-        title: "叹为观止的德天瀑布，感叹大自然的鬼斧神工",
-        channel_url:"//travel.sohu.com",
-        categoryId:"1446",
-        //abData_fd用于abtest
-        abData:"{}",
-        abData_fd:"",
-        abData_tw:"",
-        rightNewStyle: "0",
-        originalId:"$mpNews.originalId",
-        originalStatus:"1",
-        hasVoteInfo: "false",
-        isBaiDuAd: "",
-        isPure: "${pure}",
-        mpNewsExt:{
-            "modelId":""
-        }});
-}
-catch(e){
-    var html = '<div class="err-js">' +
-                '<span><em class="icon err-js-icon"></em>JS加载错误，请重新加载。</span>' +
-                '<a href="javascript:window.location.reload()" target="_blank" class="cached-btn"' +
-                '><em class="icon-cached"></em>刷新</a></div>';
-    $(document.body).prepend(html);
-    // Raven.captureException(e);
-    console.error("发生错误",e);
-}
-</script>
-<script>
-    (function () {
-        if(window.irs_ua === false) return
-        var ra = document.createElement('script');
-        ra.type = 'text/javascript';
-        ra.async = true;
-        ra.src = '//statics.itc.cn/iwtReport/iwt1.0.1.js'; //iwt_1.0.1.js的URL位置，请客户自行托管JS文件，修改此值
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ra, s);
-    })();    
-</script>
-<!--[if lt IE 8]>
-<script type="text/javascript">
 (function(){
-    var ua = navigator.userAgent;
-    var version;
-    var html = '<div class="area clear">' +
-        '<div class="ie-low">' +
-        '<p>您的浏览器版本过低<br>为了更好的体验，请升级你的浏览器。</p>' +
-        '<h5><a href="https://ie.sogou.com" target="_blank" class="upgrade-btn">马上升级</a></h5>' +
-        '</div></div>';
-    if (/MSIE ([^;]+)/.test(ua)) {
-        version = parseInt(RegExp["$1"]);
-        if (version<8) {
-            document.body.innerHTML=html;
-            var reg = new RegExp("(^| )SUV=([^;]*)(;|$)");
-            var suvs = unescape(document.cookie.match(reg)[2]); 
-            var spv_server_src = "http://pv.sohu.com/action.gif?actionId=10078&SUV="+suvs;
-            var scripts = document.createElement('script');
-            scripts.src = spv_server_src;
-            document.body.appendChild(scripts);   
-            Raven.captureException(new Error('ie'+version));   
-        }
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
     }
-})()
-</script>
-<![endif]-->
-<script src="//images.sohu.com/bill/default/sohu-require.js"></script>
-<script type="text/javascript"> require(["sjs/matrix/ad/passion"]);</script>
-<script type="text/javascript" src="//www.sohu.com/sohuflash_1.js"></script>
-<script type="text/javascript" src="//images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/form/delivery.js"></script>
-<script type="text/javascript" src="//images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/pv/pagePVmonitor.js"></script>
-<!-- <script src="//statics.itc.cn/spm/prod/js/1.0.1/index.js"></script> -->
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script> 
 
-<!-- 文章安全分低于等于10分不执行seo优化 -->
-<script>
-    (function(){
-        var bp = document.createElement('script');
-        var curProtocol = window.location.protocol.split(':')[0];
-        if (curProtocol === 'https') {
-            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
-        }
-        else {
-            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-        }
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(bp, s);
-    })();
+
+<!-- pv.js -->
+<script type="text/javascript" src="//js.sohu.com/pv.js"></script>
+<script type="text/javascript" src="//m2.auto.itc.cn/car/theme/auto_pv.js"></script>
+	
+	
+<script type="text/javascript" src="//auto.sohu.com/upload/201311mqauto/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript"  >
+
+var url = encodeURIComponent(window.location.href.split('#')[0]); //分享成功之后再次分享，微信会再url附带额外参数造成二次分享签名错误，这里处理下避免config：invalid signature签名失效
+var wxconfigshare = {};
+function loadJS(opt) {
+	var head = document.getElementsByTagName('head')[0];
+	var script = document.createElement('script');
+	var timer = null;
+	script.type = "text/javascript";
+	script.charset = opt.charset || 'utf-8';
+	if (script.readyState) {
+		script.onreadystatechange = function () {
+			if (script.readyState == 'loaded' || script.readyState == 'complete') {
+				clearTimeout(timer);
+				script.onreadystatechange = null;
+				opt.func && opt.func();
+				head.removeChild(script);
+			}
+		}
+	} else {
+		script.onload = function () {
+			clearTimeout(timer);
+			script.onload = null;
+			opt.func && opt.func();
+			head.removeChild(script);
+		}
+	}
+	script.src = opt.url;
+	head.appendChild(script);
+	if (opt.timeout) {
+		timer = setTimeout(function () {
+				try {
+					head.removeChild(script)
+				} catch (a) {}
+				opt.onTimeout();
+			}, opt.timeout);
+	}
+}
+//分享
+function wxShareFunc() {
+	$.ajax({
+		url: "//db.auto.sohu.com/wechat/user/shareConfig?appId=wxc7cc8da480389593&debug=false&url=" + url, //替换网址，xxx根据自己jssdk文件位置修改
+		type: "get",
+		success: function (data) {
+			var wxconfigshare = JSON.parse(data);
+			wx.config(wxconfigshare);
+			wx.ready(function () {
+				var imgs = document.getElementsByTagName('img');
+				var metaDom = document.querySelector('meta[name^="description"]');
+				var metaStr = metaDom ? metaDom.content : '';
+				var url = window.location.href.split('#')[0];
+				wx.updateAppMessageShareData({
+					title: "致知100人", // 分享标题
+					desc: "以智慧者为师，与梦想家同行", // 分享描述
+					link: url, // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+					imgUrl: "https://m3.auto.itc.cn/auto/content/20190813/08b916e5db222b90178c8fdf87dfa4cd.png", // 分享图标
+					success: function () {
+
+						// 设置成功
+					}
+				});
+				wx.updateTimelineShareData({
+					title: "致知100人", // 分享标题
+					link: url, // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+					imgUrl: "https://m3.auto.itc.cn/auto/content/20190813/08b916e5db222b90178c8fdf87dfa4cd.png", // 分享图标
+					success: function () {
+						// 设置成功
+					}
+				});
+			});
+			wx.error(function (res) {
+				console.log(res.errMsg);
+			});
+		}
+	});
+}
+
+var UA = navigator.userAgent;
+var isWechat = /micromessenger/i.test(UA);
+if(isWechat) {
+	loadJS({
+		url: '//res2.wx.qq.com/open/js/jweixin-1.6.0.js',
+		func: function () {
+			wxShareFunc();
+		}
+	});
+}
+   
 </script>
-<!-- 百度联盟广告，多条广告如下脚本只需引入一次 -->
-<script type="text/javascript" src="https://cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer"></script>
-    </body>
+	
+	
+</body>
+
 </html>

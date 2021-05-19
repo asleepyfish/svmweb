@@ -3,7 +3,9 @@ package edu.upc.svmweb.classifier;
 import com.hankcs.hanlp.classification.corpus.Document;
 import com.hankcs.hanlp.classification.corpus.IDataSet;
 import com.hankcs.hanlp.classification.corpus.MemoryDataSet;
-import com.hankcs.hanlp.classification.features.*;
+import com.hankcs.hanlp.classification.features.BaseFeatureData;
+import com.hankcs.hanlp.classification.features.ChiSquareFeatureExtractor;
+import com.hankcs.hanlp.classification.features.DfFeatureData;
 import com.hankcs.hanlp.classification.models.AbstractModel;
 import com.hankcs.hanlp.classification.tokenizers.ITokenizer;
 import com.hankcs.hanlp.classification.utilities.CollectionUtility;
@@ -12,6 +14,7 @@ import com.hankcs.hanlp.collection.trie.ITrie;
 import com.hankcs.hanlp.collection.trie.bintrie.BinTrie;
 import de.bwaldvogel.liblinear.*;
 import edu.upc.svmweb.model.SVMModel;
+import edu.upc.svmweb.util.TfIdfFeatureWeighterUtil;
 
 import java.io.IOException;
 import java.util.*;
@@ -51,7 +54,7 @@ public class SVMClassifier {
         // 选择特征
         DfFeatureData featureData = selectFeatures(dataSet);
         // 构造权重计算逻辑
-        IFeatureWeighter weighter = new TfIdfFeatureWeighter(dataSet.size(), featureData.df);
+        TfIdfFeatureWeighterUtil weighter = new TfIdfFeatureWeighterUtil(dataSet.size(), featureData.df);
         // 构造SVM问题
         Problem problem = createLiblinearProblem(dataSet, featureData, weighter);
         // 释放内存
@@ -91,7 +94,7 @@ public class SVMClassifier {
         int[] idMap = new int[wordIdArray.length];
         Arrays.fill(idMap, -1);//
         featureData.wordIdTrie = new BinTrie<>();
-        featureData.df = new int[selectedFeatures.size()];//df自由度指的是计算某一统计量时，取值不受限制的变量个数
+        featureData.df = new int[selectedFeatures.size()];//包含指定特征值的文本数目,df即document frequency
         int p = -1;
         for (Integer feature : selectedFeatures.keySet()) {
             ++p;
@@ -112,7 +115,7 @@ public class SVMClassifier {
      * @param weighter        权重计算对象
      * @return 返回svm问题对象
      */
-    public Problem createLiblinearProblem(IDataSet dataSet, BaseFeatureData baseFeatureData, IFeatureWeighter weighter) {
+    public Problem createLiblinearProblem(IDataSet dataSet, BaseFeatureData baseFeatureData, TfIdfFeatureWeighterUtil weighter) {
         Problem problem = new Problem();
         int n = dataSet.size();
         problem.l = n;//训练样本数
@@ -137,7 +140,7 @@ public class SVMClassifier {
      * @param weighter 权重计算对象
      * @return 特征节点数组
      */
-    public FeatureNode[] buildDocumentVector(Document document, IFeatureWeighter weighter) {
+    public FeatureNode[] buildDocumentVector(Document document, TfIdfFeatureWeighterUtil weighter) {
         int termCount = document.tfMap.size();  // 词的个数
         x = new FeatureNode[termCount];//构造特征节点
         Iterator<Map.Entry<Integer, int[]>> tfMapIterator = document.tfMap.entrySet().iterator();//对得到的分词进行遍历,得到特征词和对应的词频
