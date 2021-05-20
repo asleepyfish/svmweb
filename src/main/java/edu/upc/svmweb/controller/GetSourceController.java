@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import java.io.IOException;
+
 @Controller
 @RequestMapping(value = "/getSource")
 public class GetSourceController {
@@ -26,12 +28,11 @@ public class GetSourceController {
 
     @ResponseBody
     @RequestMapping(value = "/getClearData", method = RequestMethod.POST)
-    public String getClearData(@RequestParam(value = "url") String url) {
+    public String getClearData(@RequestParam(value = "url") String url) throws IOException {
         HttpClearHtmlUtil hch = new HttpClearHtmlUtil();
-        HttpGetHtmlUtil hgh = new HttpGetHtmlUtil();
-        String html = hch.replaceHtml(hgh.getHtml(url));
+        String sourceCode = FileOperationUtil.readFile(SOURCE_CODE_PATH);
+        String html = hch.replaceHtml(sourceCode);
         char[] c = html.toCharArray();
-
         int len = c.length;
         char[] tmp = new char[len];
         int k = 0;

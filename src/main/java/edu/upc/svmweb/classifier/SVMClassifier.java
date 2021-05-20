@@ -28,7 +28,7 @@ public class SVMClassifier {
     //特征节点,index为特征id,value为特征权重
     public static FeatureNode[] x;
     //特征词频,key是特征id,value是特征的词频
-    public static Map<Integer, Integer> tfMapIt;
+    public static Map<Integer, Integer> tfMapIt = new HashMap<>();
     //用来存储特征id和特征名
     public static final Map<Integer, String> WORD_MAP = new LinkedHashMap<>();
     //用来存储归一化的分类预测结果
@@ -141,27 +141,26 @@ public class SVMClassifier {
      * @return 特征节点数组
      */
     public FeatureNode[] buildDocumentVector(Document document, TfIdfFeatureWeighterUtil weighter) {
-        int termCount = document.tfMap.size();  // 词的个数
-        x = new FeatureNode[termCount];//构造特征节点
+        int featureCount = document.tfMap.size();  // 词的个数
+        x = new FeatureNode[featureCount];//构造特征节点
         Iterator<Map.Entry<Integer, int[]>> tfMapIterator = document.tfMap.entrySet().iterator();//对得到的分词进行遍历,得到特征词和对应的词频
-        tfMapIt = new HashMap<>();
-        for (int j = 0; j < termCount; j++) {
+        for (int i = 0; i < featureCount; i++) {
             Map.Entry<Integer, int[]> tfEntry = tfMapIterator.next();
             int feature = tfEntry.getKey();//特征词用对应的唯一的特征id标识
             int frequency = tfEntry.getValue()[0];//特征词出现的次数
             tfMapIt.put(feature + 1, frequency);
-            x[j] = new FeatureNode(feature + 1, weighter.weight(feature, frequency));//计算TF-IDF
+            x[i] = new FeatureNode(feature + 1, weighter.weight(feature, frequency));//计算TF-IDF
         }
         // 对词向量进行归一化(L2标准化).得到分词后每个词结点的权重值
-        double normalizer = 0;
-        for (int j = 0; j < termCount; j++) {
-            double weight = x[j].getValue();
-            normalizer += weight * weight;
+        double normalization = 0;
+        for (int i = 0; i < featureCount; i++) {
+            double weight = x[i].getValue();
+            normalization += weight * weight;
         }
-        normalizer = Math.sqrt(normalizer);
-        for (int j = 0; j < termCount; j++) {
-            double weight = x[j].getValue();
-            x[j].setValue(weight / normalizer);
+        normalization = Math.sqrt(normalization);
+        for (int i = 0; i < featureCount; i++) {
+            double weight = x[i].getValue();
+            x[i].setValue(weight / normalization);
         }
         return x;
     }

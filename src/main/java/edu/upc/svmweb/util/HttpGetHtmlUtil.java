@@ -22,7 +22,6 @@ public class HttpGetHtmlUtil {
         try {
             //执行get请求，相当于在输入地址栏后敲回车键
             response = httpClient.execute(request);
-
             //判断响应状态为200，进行处理
             if (response.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {
                 //5.获取响应内容
@@ -30,7 +29,7 @@ public class HttpGetHtmlUtil {
                 return EntityUtils.toString(httpEntity, "utf-8");
             } else {
                 //如果返回状态不是200，比如404（页面不存在）等，返回打印信息
-                return "返回的状态码不是200";
+                return "返回的状态码错误,请输入正确的网页url！";
             }
         } catch (IOException e) {
             e.printStackTrace();

@@ -4,7 +4,7 @@ $(function () {
             async: false,
             method: 'post',
             url: url,//传给后端@RequestMapping
-            data: {"url": data, "number": number},//参数可以有多种写法
+            data: {"url": data, "number": number},
             datatype: 'json',//返回格式
             success: function (data) {
                 $("#show").val(data);

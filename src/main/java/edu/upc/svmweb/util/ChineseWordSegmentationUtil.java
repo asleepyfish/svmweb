@@ -26,8 +26,8 @@ public class ChineseWordSegmentationUtil {
     private static final String STOPWORDS_PATH = "data/项目文本/StopWords.txt";
     //词频文本路径
     private static final String WORD_FREQUENCY_PATH = "data/项目文本/WordFrequency.txt";
-    //预测分类结果路径
-    private static final String PREDICT_PATH = "data/项目文本/predict.txt";
+    //经排序后词频文本路径
+    private static final String TOP_WORD_PATH = "data/项目文本/TopWord.txt";
 
     /**
      * 统计词频
@@ -71,7 +71,6 @@ public class ChineseWordSegmentationUtil {
      */
     public void getTopNumberWord() {
         Map.Entry<String, Integer> entry;
-        //int size = wq_map.size() >= number ? number : wq_map.size();
         int size = wq_map.size();
         for (int i = 0; i < size; i++) {
             entry = getMaxEntry(wq_map);
@@ -81,7 +80,7 @@ public class ChineseWordSegmentationUtil {
             top_word.append(list.get(i)).append("\n");
         }
         top_word.append(list.get(size - 1));
-        FileOperationUtil.writeFile("data/项目文本/TopWord.txt", top_word.toString());
+        FileOperationUtil.writeFile(TOP_WORD_PATH, top_word.toString());
     }
 
     /**
