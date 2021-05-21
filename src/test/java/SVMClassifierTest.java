@@ -17,11 +17,9 @@ public class SVMClassifierTest extends TestCase {
 
     public static void main(String[] args) throws IOException {
         SVMClassifier classifier = new SVMClassifier(SVMClassifierUtil.trainOrLoadModel());
-        String predict = SVMClassifierUtil.predict(classifier, "");
+        String predict = SVMClassifierUtil.predict(classifier, "货币");
         System.out.println(predict);
-        for (Map.Entry<Integer, String> entry : classifier.WORD_MAP.entrySet()) {
-            System.out.println(entry.getKey() + "=" + entry.getValue());
-        }
+
     }
 
     private static String predict(SVMClassifier classifier, String text) {
