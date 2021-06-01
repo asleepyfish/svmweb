@@ -14,10 +14,14 @@ import com.hankcs.hanlp.collection.trie.ITrie;
 import com.hankcs.hanlp.collection.trie.bintrie.BinTrie;
 import de.bwaldvogel.liblinear.*;
 import edu.upc.svmweb.model.SVMModel;
+import edu.upc.svmweb.util.ChineseWordSegmentationUtil;
 import edu.upc.svmweb.util.TfIdfFeatureWeighterUtil;
 
 import java.io.IOException;
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
 
 import static com.hankcs.hanlp.classification.utilities.Predefine.logger;
 
@@ -29,8 +33,6 @@ public class SVMClassifier {
     public static FeatureNode[] x;
     //特征词频,key是特征id,value是特征的词频
     public static Map<Integer, Integer> tfMapIt = new HashMap<>();
-    //用来存储特征id和特征名
-    public static final Map<Integer, String> WORD_MAP = new LinkedHashMap<>();
     //用来存储归一化的分类预测结果
     public static double[] probs;
 
@@ -141,6 +143,7 @@ public class SVMClassifier {
      * @return 特征节点数组
      */
     public FeatureNode[] buildDocumentVector(Document document, TfIdfFeatureWeighterUtil weighter) {
+
         int featureCount = document.tfMap.size();  // 词的个数
         x = new FeatureNode[featureCount];//构造特征节点
         Iterator<Map.Entry<Integer, int[]>> tfMapIterator = document.tfMap.entrySet().iterator();//对得到的分词进行遍历,得到特征词和对应的词频
@@ -205,13 +208,9 @@ public class SVMClassifier {
           初始化时调用代参构造方法将输入文字进行分词操作，将字符串数组String[]分割成字符数组char[]
          */
         ITrie<Integer> wordIdTrie = model.wordIdTrie;
-        String[] tokenArray = model.tokenizer.segment(text);
+        String[] tokenArray = ChineseWordSegmentationUtil.words;
         Document document = new Document(wordIdTrie, tokenArray);
-        //WORD_MAP保存特征的id和特征词的对应关系
-        for (String word : tokenArray) {
-            Integer id = wordIdTrie.get(word.toCharArray());
-            WORD_MAP.put(id, word);
-        }
+
         AbstractModel model = this.getModel();
         double[] probs = this.categorize(document);
         Map<String, Double> scoreMap = new HashMap<>();
@@ -235,4 +234,5 @@ public class SVMClassifier {
         //probs为归一化后的数组
         return probs;
     }
+
 }

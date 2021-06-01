@@ -28,7 +28,7 @@ public class SVMClassifierUtil {
      * 获取特征权重的方法
      */
     public void getFeatureWeight() {
-        Map<Integer, String> wordMap = SVMClassifier.WORD_MAP;
+        Map<Integer, String> wordMap = ChineseWordSegmentationUtil.WORD_MAP;
         FeatureNode[] x = SVMClassifier.x;
         Map<String, Double> fw_map = new HashMap<>();
         //获取特征名和对应的权重
@@ -46,22 +46,6 @@ public class SVMClassifierUtil {
             }
         }
         FileOperationUtil.writeFile(FEATURE_WEIGHT_PATH, feature_txt.toString());
-    }
-
-    public void calculateFeatureWeight() {
-        /*// 对词向量进行归一化(L2标准化).得到分词后每个词结点的权重值
-        double normalizer = 0;
-        for (int j = 0; j < termCount; j++) {
-            double weight = x[j].getValue();
-            normalizer += weight * weight;
-        }
-        normalizer = Math.sqrt(normalizer);
-        for (int j = 0; j < termCount; j++) {
-            double weight = x[j].getValue();
-            x[j].setValue(weight / normalizer);
-        }
-        return x;*/
-
     }
 
     public static SVMModel trainOrLoadModel() throws IOException {

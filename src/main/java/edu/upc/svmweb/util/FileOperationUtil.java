@@ -41,7 +41,6 @@ public class FileOperationUtil {
             sb.append(line);
         }
         br.close();
-        fr.close();
         return sb.toString();
     }
 
@@ -53,7 +52,6 @@ public class FileOperationUtil {
             set.add(line);
         }
         br.close();
-        fr.close();
     }
 
     public static void readTopNumberWord(String path, int number) throws IOException {
@@ -66,7 +64,6 @@ public class FileOperationUtil {
             top_word.append(line).append("\n");
         }
         br.close();
-        fr.close();
     }
 
     public static void readFeatureWeight(String path) throws IOException {
@@ -82,6 +79,5 @@ public class FileOperationUtil {
             }
         }
         br.close();
-        fr.close();
     }
 }

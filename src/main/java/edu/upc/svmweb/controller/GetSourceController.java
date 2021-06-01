@@ -36,11 +36,6 @@ public class GetSourceController {
         int len = c.length;
         char[] tmp = new char[len];
         int k = 0;
-        /*一行显示所有中文字符
-        for (char c1 : c) {
-            if ((c1 >= 0x4E00 && c1 <= 0x9FA5))
-                System.out.print(c1);
-        }*/
         //根据换行符，汉字，符号分行表示的文本解析之后的字符串
         for (int i = 0; i < len - 1; i++) {
             if (((c[i] >= 0x4E00 && c[i] <= 0x9FA5)) && ((c[i + 1] >= 0x4E00 && c[i + 1] <= 0x9FA5))) {

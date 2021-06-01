@@ -46,8 +46,7 @@ public class HttpClearHtmlUtil {
             str_text = str_pass;
 
         } catch (Exception e) {
-            System.err.println("FiltratePage: " + e.getMessage());
-
+            e.printStackTrace();
         }
 
         //剔除空格行

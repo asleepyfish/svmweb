@@ -4,7 +4,6 @@ import edu.upc.svmweb.util.SVMClassifierUtil;
 import junit.framework.TestCase;
 
 import java.io.*;
-import java.util.Map;
 
 import static com.hankcs.hanlp.utility.Predefine.logger;
 

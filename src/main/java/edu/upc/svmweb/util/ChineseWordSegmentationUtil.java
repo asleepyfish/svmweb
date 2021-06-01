@@ -1,12 +1,11 @@
 package edu.upc.svmweb.util;
 
+import com.hankcs.hanlp.collection.trie.ITrie;
+import com.huaban.analysis.jieba.JiebaSegmenter;
 import edu.upc.svmweb.classifier.SVMClassifier;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class ChineseWordSegmentationUtil {
@@ -19,7 +18,7 @@ public class ChineseWordSegmentationUtil {
     //存储词频前number的entry列表
     private final List<Map.Entry<String, Integer>> list = new ArrayList<>();
     //存储去停用词后的词频的map集合
-    private final Map<String, Integer> wq_map = new ConcurrentHashMap<>();
+    public static final Map<String, Integer> wf_map = new ConcurrentHashMap<>();
     //文章的纯中文文本路径
     private static final String CLEAR_DATAFILE_PATH = "data/项目文本/ClearData.txt";
     //停用词文本路径
@@ -28,6 +27,10 @@ public class ChineseWordSegmentationUtil {
     private static final String WORD_FREQUENCY_PATH = "data/项目文本/WordFrequency.txt";
     //经排序后词频文本路径
     private static final String TOP_WORD_PATH = "data/项目文本/TopWord.txt";
+    //存储分词结果
+    public static String[] words;
+    //存储特征词和对应的字典化id
+    public static final Map<Integer, String> WORD_MAP = new LinkedHashMap<>();
 
     /**
      * 统计词频
@@ -41,22 +44,30 @@ public class ChineseWordSegmentationUtil {
         Set<String> set = FileOperationUtil.set;
         //得到中文文本字符串
         String article = txtToString();
-        predict = SVMClassifierUtil.predict(classifier, article);
-        Map<Integer, Integer> tfMapIt = SVMClassifier.tfMapIt;
-        Map<Integer, String> wordMap = SVMClassifier.WORD_MAP;
-        for (Map.Entry<Integer, String> entry : wordMap.entrySet()) {
-            if (entry.getKey() != null) {
-                Integer key = entry.getKey() + 1;
-                String word = entry.getValue();
-                Integer frequency = tfMapIt.get(key);
-                if (word.length() > 1 && frequency != null) {
-                    wq_map.put(word, frequency);
-                }
+        JiebaSegmenter segmenter = new JiebaSegmenter();
+        words = segmenter.sentenceProcess(article).toString().replaceAll("(?:\\[|null|\\]| +)", "").split(",");
+        ITrie<Integer> wordIdTrie = classifier.model.wordIdTrie;
+        for (String word : words) {
+            Integer id = wordIdTrie.get(word.toCharArray());
+            if (id != null) {
+                WORD_MAP.put(id, word);
+            }
+            if (id == null) {
+                continue;
+            }
+            if (word.length() < 2) {
+                continue;
+            }
+            if (!wf_map.containsKey(word)) {
+                wf_map.put(word, 1);
+            } else {
+                int frequency = wf_map.get(word);
+                wf_map.put(word, ++frequency);
             }
         }
-        removeStopWords(wq_map, set);
+        removeStopWords(wf_map, set);
         int i = 1;
-        for (Map.Entry<String, Integer> entry : wq_map.entrySet()) {
+        for (Map.Entry<String, Integer> entry : wf_map.entrySet()) {
             if ((i++) % 11 != 0) {
                 wf.append(entry.getKey()).append(": ").append(entry.getValue()).append("\t\t");
             } else {
@@ -64,6 +75,7 @@ public class ChineseWordSegmentationUtil {
             }
         }
         FileOperationUtil.writeFile(WORD_FREQUENCY_PATH, wf.toString());
+        predict = SVMClassifierUtil.predict(classifier, article);
     }
 
     /**
@@ -71,9 +83,9 @@ public class ChineseWordSegmentationUtil {
      */
     public void getTopNumberWord() {
         Map.Entry<String, Integer> entry;
-        int size = wq_map.size();
+        int size = wf_map.size();
         for (int i = 0; i < size; i++) {
-            entry = getMaxEntry(wq_map);
+            entry = getMaxEntry(wf_map);
             list.add(entry);
         }
         for (int i = 0; i < size - 1; i++) {
@@ -86,8 +98,8 @@ public class ChineseWordSegmentationUtil {
     /**
      * 去除词频表中的停用词
      *
-     * @param map
-     * @param set
+     * @param map 分词map
+     * @param set 停用词set
      */
     public void removeStopWords(Map<String, Integer> map, Set<String> set) {
         Set<String> keySet = map.keySet();
@@ -101,7 +113,7 @@ public class ChineseWordSegmentationUtil {
     /**
      * 找出map中value最大的entry, 返回此entry, 并在map删除此entry
      *
-     * @param map
+     * @param map 分词map
      * @return map中value最大的
      */
     public Map.Entry<String, Integer> getMaxEntry(Map<String, Integer> map) {
@@ -128,7 +140,6 @@ public class ChineseWordSegmentationUtil {
      * 从文件中读取待分割的文章素材.
      *
      * @return 文章
-     * @throws IOException
      */
     public String txtToString() throws IOException {
 
