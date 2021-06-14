@@ -57,7 +57,7 @@ public class SVMClassifierUtil {
         SVMClassifier classifier = new SVMClassifier();
         // 训练后的模型支持持久化
         classifier.train(CORPUS_FOLDER, "UTF-8");
-        model = (SVMModel) classifier.getModel();
+        model = classifier.getModel();
         saveObjectTo(model, MODEL_PATH);
         return model;
     }

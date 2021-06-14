@@ -37,3 +37,7 @@
     font-size: 15px;
     background-color: #eeeeee;
 }
+
+.buttonshow {
+    width: 345px; text-align: left; font-size: medium
+}

@@ -68,7 +68,7 @@ public class ChineseWordSegmentationUtil {
         removeStopWords(wf_map, set);
         int i = 1;
         for (Map.Entry<String, Integer> entry : wf_map.entrySet()) {
-            if ((i++) % 11 != 0) {
+            if ((i++) % 12 != 0) {
                 wf.append(entry.getKey()).append(": ").append(entry.getValue()).append("\t\t");
             } else {
                 wf.append(entry.getKey()).append(": ").append(entry.getValue()).append("\n");

@@ -6,7 +6,6 @@ import com.hankcs.hanlp.classification.corpus.MemoryDataSet;
 import com.hankcs.hanlp.classification.features.BaseFeatureData;
 import com.hankcs.hanlp.classification.features.ChiSquareFeatureExtractor;
 import com.hankcs.hanlp.classification.features.DfFeatureData;
-import com.hankcs.hanlp.classification.models.AbstractModel;
 import com.hankcs.hanlp.classification.tokenizers.ITokenizer;
 import com.hankcs.hanlp.classification.utilities.CollectionUtility;
 import com.hankcs.hanlp.classification.utilities.MathUtility;
@@ -32,7 +31,7 @@ public class SVMClassifier {
     //特征节点,index为特征id,value为特征权重
     public static FeatureNode[] x;
     //特征词频,key是特征id,value是特征的词频
-    public static Map<Integer, Integer> tfMapIt = new HashMap<>();
+    //public static Map<Integer, Integer> tfMapIt = new HashMap<>();
     //用来存储归一化的分类预测结果
     public static double[] probs;
 
@@ -41,6 +40,10 @@ public class SVMClassifier {
 
     public SVMClassifier(SVMModel model) {
         this.model = model;
+    }
+
+    public SVMModel getModel() {
+        return model;
     }
 
     /**
@@ -95,7 +98,7 @@ public class SVMClassifier {
         String[] wordIdArray = dataSet.getLexicon().getWordIdArray();//得到特征词的标志id字符串数组
         int[] idMap = new int[wordIdArray.length];
         Arrays.fill(idMap, -1);//
-        featureData.wordIdTrie = new BinTrie<>();
+        featureData.wordIdTrie = new BinTrie<>();//训练文本中的特征词对应的词典id
         featureData.df = new int[selectedFeatures.size()];//包含指定特征值的文本数目,df即document frequency
         int p = -1;
         for (Integer feature : selectedFeatures.keySet()) {
@@ -144,14 +147,14 @@ public class SVMClassifier {
      */
     public FeatureNode[] buildDocumentVector(Document document, TfIdfFeatureWeighterUtil weighter) {
 
-        int featureCount = document.tfMap.size();  // 词的个数
+        int featureCount = document.tfMap.size();  //词的个数
         x = new FeatureNode[featureCount];//构造特征节点
         Iterator<Map.Entry<Integer, int[]>> tfMapIterator = document.tfMap.entrySet().iterator();//对得到的分词进行遍历,得到特征词和对应的词频
         for (int i = 0; i < featureCount; i++) {
             Map.Entry<Integer, int[]> tfEntry = tfMapIterator.next();
             int feature = tfEntry.getKey();//特征词用对应的唯一的特征id标识
             int frequency = tfEntry.getValue()[0];//特征词出现的次数
-            tfMapIt.put(feature + 1, frequency);
+            //tfMapIt.put(feature + 1, frequency);
             x[i] = new FeatureNode(feature + 1, weighter.weight(feature, frequency));//计算TF-IDF
         }
         // 对词向量进行归一化(L2标准化).得到分词后每个词结点的权重值
@@ -192,9 +195,7 @@ public class SVMClassifier {
         return CollectionUtility.max(scoreMap);//返回value值最大(可能性最大)的分类结果
     }
 
-    public AbstractModel getModel() {
-        return model;
-    }
+
 
     /**
      * 预测分类的方法
@@ -211,7 +212,7 @@ public class SVMClassifier {
         String[] tokenArray = ChineseWordSegmentationUtil.words;
         Document document = new Document(wordIdTrie, tokenArray);
 
-        AbstractModel model = this.getModel();
+        SVMModel model = this.getModel();
         double[] probs = this.categorize(document);
         Map<String, Double> scoreMap = new HashMap<>();
         for (int i = 0; i < probs.length; ++i) {

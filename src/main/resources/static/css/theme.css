@@ -246,6 +246,7 @@ footer hr {
 }
 
 .sidebar-nav .nav-header {
+    width: 345px; text-align: left; font-size: medium;
     display: block;
     font-weight: bold;
     color: #333;
@@ -274,7 +275,6 @@ footer hr {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     border-bottom: 1px solid #aaa;
-    font-size: 1em;
     line-height: 3em;
     text-transform: none;
     padding: 0em .75em;
